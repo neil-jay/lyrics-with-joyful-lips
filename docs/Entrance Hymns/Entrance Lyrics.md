@@ -1,10 +1,5 @@
----
-sidebar_position: 2
----
-
 # A.1 JOY WAS IN MY HEART / Psalm 121
-
-### ***Chorus:***<br />
+***Chorus:***<br />
 **Joy was in my heart, alleluia, when I heard them say:**<br />
 **“Let us go to God’s House.”**<br />
 
