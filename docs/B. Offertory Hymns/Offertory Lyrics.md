@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 ### B.1 BEHOLD THE BREAD, O LORD
 ***Chorus:***<br />
 **Behold the bread, O Lord, we offer unto you,**<br />

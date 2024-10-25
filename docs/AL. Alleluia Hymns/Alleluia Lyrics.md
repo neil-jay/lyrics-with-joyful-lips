@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 ### AL.10 ALLELUIA! PRAISE GOD / PSALM 116
 ***Chorus:*** <br />
 **Alleluia! Praise God, O praise the Lord! (2)**<br />
