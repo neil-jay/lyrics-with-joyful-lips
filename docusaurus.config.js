@@ -9,11 +9,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'With Joyful Lips Lyrics',
-  tagline: 'With Joyful Lips: A Source for full Lyrics',
+  tagline: 'A Source of complete Lyrics',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://with-joyful-lips-lyrics.neiljay.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -75,10 +75,10 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'With Joyful Lips Lyrics',
-        logo: {
-          alt: 'With Joyful Lips',
-          src: 'img/logo.svg',
-        },
+        // logo: {
+        //   alt: 'With Joyful Lips',
+        //   src: 'img/logo.svg',
+        // },
         items: [
           {
             type: 'docSidebar',
@@ -101,7 +101,7 @@ const config = {
             title: 'Lyrics',
             items: [
               {
-                label: 'Begin here',
+                label: 'Browse',
                 to: '/docs/intro',
               },
             ],
@@ -110,13 +110,13 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/neiljay',
+                href: '#',
               },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://discordapp.com/invite/neiljay',
+              // },
             ],
           },
           {
@@ -133,7 +133,8 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} neiljay.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://neiljay.com" target="_blank" rel="noopener noreferrer">neiljay</a>. All rights reserved.`,
+
       },
       prism: {
         theme: prismThemes.github,
