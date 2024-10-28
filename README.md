@@ -1,6 +1,6 @@
-# Intro to With Joyful Lips
+# Intro to With Joyful Lips Lyrics
 
-Welcome to With Joyful Lyrics! This site is dedicated to providing easy access to the lyrics from With Joyful Lips, a popular hymnal. Designed for both worship and educational purposes, these lyrics offer a convenient, text-based format suitable for churches, religious gatherings, and anyone looking to enrich their spiritual journey with inspiring hymns.
+Welcome to With Joyful Lips Lyrics! This site is dedicated to providing easy access to the lyrics from With Joyful Lips, a popular hymnal. Designed for both worship and educational purposes, these lyrics offer a convenient, text-based format suitable for churches, religious gatherings, and anyone looking to enrich their spiritual journey with inspiring hymns.
 
 ### About the Source and Project
 The lyrics featured here originate from the hymnal With Joyful Lips Book, authored by Fr. Jean L. Mercier. While this collection is inspired by the original text, the lyrics on this site are written in markdown files to support the website’s unique format and accessibility. Please note that this project operates independently and is not officially affiliated with the author or publisher of the hymnal. This website is built using Docusaurus, an open-source framework that enables smooth navigation and efficient performance for a pleasant user experience.

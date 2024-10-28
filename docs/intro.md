@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intro to With Joyful Lips
 
-Welcome to With Joyful Lyrics! This site is dedicated to providing easy access to the lyrics from With Joyful Lips, a popular hymnal. Designed for both worship and educational purposes, these lyrics offer a convenient, text-based format suitable for churches, religious gatherings, and anyone looking to enrich their spiritual journey with inspiring hymns.
+Welcome to With Joyful Lips Lyrics! This site is dedicated to providing easy access to the lyrics from With Joyful Lips, a popular hymnal. Designed for both worship and educational purposes, these lyrics offer a convenient, text-based format suitable for churches, religious gatherings, and anyone looking to enrich their spiritual journey with inspiring hymns.
 
 ### Getting Started with Joyful Lyrics
 
