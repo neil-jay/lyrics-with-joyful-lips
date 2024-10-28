@@ -133,7 +133,7 @@ const config = {
             ],
           },
         ],
-        copyright: `All lyrics © 1989 Fr. Jean L. Mercier. Web design © ${new Date().getFullYear()} <a href="https://neiljay.com" target="_blank" rel="noopener noreferrer">neiljay</a>. All rights reserved.`,
+        copyright: `© ${new Date().getFullYear()} <a href="https://neiljay.com">neiljay</a>. All rights reserved.`,
 
 
       },
