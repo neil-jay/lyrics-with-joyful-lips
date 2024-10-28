@@ -97,41 +97,41 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Lyrics',
-            items: [
-              {
-                label: 'Browse',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: '#',
-              },
-              // {
-              //   label: 'Discord',
-              //   href: 'https://discordapp.com/invite/neiljay',
-              // },
-            ],
-          },
-          {
-            title: 'Source',
-            items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/neil-jay/lyrics-with-joyful-lips',
-              },
-            ],
-          },
+          // {
+          //   title: 'Lyrics',
+          //   items: [
+          //     {
+          //       label: 'Browse',
+          //       to: '/docs/intro',
+          //     },
+          //   ],
+          // },
+          // {
+          //   title: 'Community',
+          //   items: [
+          //     {
+          //       label: 'Discord',
+          //       href: '#',
+          //     },
+          //     // {
+          //     //   label: 'Discord',
+          //     //   href: 'https://discordapp.com/invite/neiljay',
+          //     // },
+          //   ],
+          // },
+          // {
+          //   title: 'Source',
+          //   items: [
+          //     // {
+          //     //   label: 'Blog',
+          //     //   to: '/blog',
+          //     // },
+          //     {
+          //       label: 'GitHub',
+          //       href: 'https://github.com/neil-jay/lyrics-with-joyful-lips',
+          //     },
+          //   ],
+          // },
         ],
         copyright: `© ${new Date().getFullYear()} <a href="https://neiljay.com">neiljay</a>. All rights reserved.`,
 
