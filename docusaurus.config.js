@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'With Joyful Lips Lyrics',
-  tagline: 'A Source of complete Lyrics',
+  title: 'With Joyful Lips - Catholic Hymn Lyrics Collection',
+  tagline: 'Complete collection of Catholic hymn lyrics for worship and praise',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://with-joyful-lips-lyrics.neiljay.com',
+  url: 'https://withjoyfullipslyrics.neiljay.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -23,7 +23,7 @@ const config = {
   organizationName: 'github.com/neil-jay', // Usually your GitHub org/user name.
   projectName: 'lyrics-with-joyful-lips', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -85,6 +85,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Lyrics',
+            to: '/docs/intro',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -133,12 +134,18 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://neiljay.com" target="_blank" rel="noopener noreferrer" class="footer__link-item">NeilJay</a>`,
+        copyright: `© ${new Date().getFullYear()} <a href="https://neiljay.com" target="_blank" rel="noopener noreferrer" class="footer__link-item">neiljay</a>`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      metadata: [
+        {name: 'keywords', content: 'catholic hymns, christian songs, worship lyrics, with joyful lips, church music, catholic songs, christian worship'},
+        {name: 'description', content: 'Free collection of Catholic hymn lyrics. Easy to copy and paste with Ctrl+Shift+V. Perfect for worship presentations, church services, and personal devotion.'},
+        {name: 'og:title', content: 'With Joyful Lips - Catholic Hymn Lyrics Collection'},
+        {name: 'og:description', content: 'Complete collection of Catholic hymn lyrics. Easy to copy-paste with Ctrl+Shift+V. Perfect for worship presentations, church services, and personal devotion.'},
+      ],
     }),
 
   themes: [

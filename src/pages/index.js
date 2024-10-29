@@ -10,45 +10,20 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
-  const [searchQuery, setSearchQuery] = useState('');
-
-  const handleSearch = (e) => {
-    e.preventDefault();
-    window.location.href = `/search?q=${encodeURIComponent(searchQuery)}`;
-  };
-
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          Catholic Hymn Lyrics Collection
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <form onSubmit={handleSearch} className="margin-bottom--lg">
-          <div className="row">
-            <div className="col col--6 col--offset-3">
-              <input
-                type="text"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Search lyrics..."
-                className="button button--lg button--block"
-                style={{
-                  backgroundColor: 'white',
-                  color: 'black',
-                  border: 'none',
-                  marginBottom: '1rem'
-                }}
-              />
-            </div>
-          </div>
-        </form>
-
+        <p className="hero__subtitle">
+          Free collection of Catholic hymns and worship songs with easy copy-paste functionality
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Explore the Lyrics
+            Browse All Hymns
           </Link>
         </div>
       </div>
@@ -56,12 +31,57 @@ function HomepageHeader() {
   );
 }
 
+const FeatureList = [
+  {
+    title: 'Easy Access to Catholic Hymns',
+    description: (
+      <>
+        Browse through our comprehensive collection of Catholic hymn lyrics.
+        Perfect for worship leaders, choirs, and congregations.
+      </>
+    ),
+  },
+  {
+    title: 'Simple Copy-Paste Feature',
+    description: (
+      <>
+        Use Ctrl + Shift + V to quickly paste lyrics without formatting.
+        Ideal for creating presentation slides and worship materials.
+      </>
+    ),
+  },
+  {
+    title: 'Free and Always Updated',
+    description: (
+      <>
+        Access all hymn lyrics completely free. Our collection is regularly
+        updated with new hymns and corrections.
+      </>
+    ),
+  },
+];
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title="Catholic Hymn Lyrics - With Joyful Lips"
+      description="Free collection of Catholic hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Easy to copy and paste with Ctrl+Shift+V. Perfect for worship presentations and church services.">
+      <script type="application/ld+json">
+        {JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "With Joyful Lips",
+          "description": "Catholic Hymn Lyrics Collection from With Joyful Lips by Fr. Jean L. Mercier",
+          "url": "https://withjoyfullipslyrics.neiljay.com",
+          "keywords": "catholic hymns, with joyful lips, Fr. Jean L. Mercier, church music, hymn lyrics, catholic songs",
+          "author": {
+            "@type": "Person",
+            "name": "NeilJay"
+          }
+        })}
+      </script>
+
       <HomepageHeader />
       <main>
         <HomepageFeatures />
