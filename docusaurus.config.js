@@ -140,6 +140,21 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  themes: [
+    [
+      "@easyops-cn/docusaurus-search-local",
+      {
+        hashed: true,
+        language: ["en"],
+        indexDocs: true,
+        indexBlog: true,
+        indexPages: false,
+        highlightSearchTermsOnTargetPage: true,
+        searchResultContextMaxLength: 50,
+      },
+    ],
+  ],
 };
 
 export default config;
