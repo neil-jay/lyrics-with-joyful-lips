@@ -95,7 +95,7 @@ const config = {
         ],
       },
       footer: {
-        // style: 'dark',
+        style: 'dark',
         links: [
           // {
           //   title: 'Lyrics',
@@ -133,7 +133,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `© ${new Date().getFullYear()} <a href="https://neiljay.com">neiljay</a>. All rights reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://github.com/neil-jay" target="_blank" rel="noopener noreferrer" class="footer__link-item">NeilJay</a>.`,
       },
       prism: {
         theme: prismThemes.github,
