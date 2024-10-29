@@ -24,7 +24,6 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        
         <form onSubmit={handleSearch} className="margin-bottom--lg">
           <div className="row">
             <div className="col col--6 col--offset-3">
@@ -34,7 +33,7 @@ function HomepageHeader() {
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="Search lyrics..."
                 className="button button--lg button--block"
-                style={{ 
+                style={{
                   backgroundColor: 'white',
                   color: 'black',
                   border: 'none',
