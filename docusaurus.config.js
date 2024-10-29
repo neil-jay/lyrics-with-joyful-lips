@@ -40,7 +40,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          path: 'hymn-lyrics',
+          routeBasePath: 'hymn-lyrics',
+          sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -85,7 +87,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Lyrics',
-            to: '/docs/intro',
+            to: '/hymn-lyrics/intro',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -155,10 +157,11 @@ const config = {
         hashed: true,
         language: ["en"],
         indexDocs: true,
-        indexBlog: true,
+        indexBlog: false,
         indexPages: false,
         highlightSearchTermsOnTargetPage: true,
-        searchResultContextMaxLength: 50,
+        docsDir: "hymn-lyrics",
+        docsRouteBasePath: "hymn-lyrics",
       },
     ],
   ],
