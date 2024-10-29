@@ -1,8 +1,9 @@
 ---
-slug: /docs/intro
+slug: /intro
 title: Introduction to With Joyful Lips
 description: A comprehensive guide to accessing and using Catholic hymn lyrics from With Joyful Lips hymnal. Easy-to-use format for worship and educational purposes.
 keywords: [with joyful lips, catholic hymns, Fr. Jean L. Mercier, church hymnal, worship lyrics]
+sidebar_position: 1
 ---
 
 # Intro to With Joyful Lips
