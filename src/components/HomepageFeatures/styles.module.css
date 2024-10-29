@@ -1,11 +1,30 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 6rem 0;
+  padding: 2rem 0;
   width: 100%;
+  background: var(--ifm-color-emphasis-100);
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.howToUse ol {
+  padding-left: 1.5rem;
+}
+
+.howToUse li {
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+.copyright {
+  margin-top: 2rem;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 996px) {
+  .features {
+    padding: 1rem 0;
+  }
 }
