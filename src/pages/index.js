@@ -14,16 +14,19 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          Catholic Hymn Lyrics Collection
+          With Joyful Lips: Complete Catholic Hymn Lyrics Collection
         </Heading>
         <p className="hero__subtitle">
-          Free collection of Catholic hymns and worship songs with easy copy-paste functionality
+          Fr. Jean L. Mercier's Catholic Hymns and Worship Songs Collection | 12th Edition
+        </p>
+        <p className="hero__description">
+          Your digital hymn book: Browse and copy lyrics from the official With Joyful Lips hymnal
         </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/hymn-lyrics/intro">
-            Browse All Hymns
+            Browse Joyful Lips Hymns
           </Link>
         </div>
       </div>

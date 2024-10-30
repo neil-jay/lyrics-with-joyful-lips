@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'With Joyful Lips - Catholic Hymn Lyrics Collection',
-  tagline: 'Complete collection of Catholic hymn lyrics for worship and praise',
+  title: 'With Joyful Lips - Hymn Lyrics Collection',
+  tagline: 'Complete hymn lyrics from Fr. Jean L. Mercier\'s With Joyful Lips',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -76,7 +76,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'With Joyful Lips Lyrics',
+        title: 'Joyful Lips Hymnal',
         // logo: {
         //   alt: 'With Joyful Lips',
         //   src: 'img/logo.svg',
@@ -86,7 +86,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Lyrics',
+            label: 'Browse Hymns',
             to: '/hymn-lyrics/intro',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
@@ -143,10 +143,72 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
       metadata: [
-        {name: 'keywords', content: 'catholic hymns, christian songs, worship lyrics, with joyful lips, church music, catholic songs, christian worship'},
-        {name: 'description', content: 'Free collection of Catholic hymn lyrics. Easy to copy and paste with Ctrl+Shift+V. Perfect for worship presentations, church services, and personal devotion.'},
-        {name: 'og:title', content: 'With Joyful Lips - Catholic Hymn Lyrics Collection'},
-        {name: 'og:description', content: 'Complete collection of Catholic hymn lyrics. Easy to copy-paste with Ctrl+Shift+V. Perfect for worship presentations, church services, and personal devotion.'},
+        // Basic SEO
+        {
+          name: 'description',
+          content: 'Access complete hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Perfect for church services, worship presentations, and spiritual enrichment.',
+        },
+        {
+          name: 'keywords',
+          content: 'With Joyful Lips, hymn lyrics, Fr. Jean L. Mercier, church hymns, worship songs, catholic hymns, christian music',
+        },
+        // Open Graph / Facebook
+        {
+          property: 'og:type',
+          content: 'website',
+        },
+        {
+          property: 'og:title',
+          content: 'With Joyful Lips - Complete Hymn Lyrics Collection',
+        },
+        {
+          property: 'og:description',
+          content: 'Access complete hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Perfect for church services and worship.',
+        },
+        {
+          property: 'og:image',
+          content: 'https://yoursite.com/img/og-image.jpg', // Replace with your actual image URL
+        },
+        {
+          property: 'og:url',
+          content: 'https://yoursite.com', // Replace with your actual URL
+        },
+        // Twitter
+        {
+          name: 'twitter:card',
+          content: 'summary_large_image',
+        },
+        {
+          name: 'twitter:title',
+          content: 'With Joyful Lips - Complete Hymn Lyrics Collection',
+        },
+        {
+          name: 'twitter:description',
+          content: 'Access complete hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Perfect for church services and worship.',
+        },
+        {
+          name: 'twitter:image',
+          content: 'https://yoursite.com/img/twitter-image.jpg', // Replace with your actual image URL
+        },
+        // Additional SEO
+        {
+          name: 'author',
+          content: 'Fr. Jean L. Mercier',
+        },
+        {
+          name: 'robots',
+          content: 'index, follow',
+        },
+        // Mobile optimization
+        {
+          name: 'viewport',
+          content: 'width=device-width, initial-scale=1.0',
+        },
+        // Language declaration
+        {
+          httpEquiv: 'Content-Language',
+          content: 'en',
+        },
       ],
     }),
 
@@ -165,6 +227,18 @@ const config = {
       },
     ],
   ],
+
+  // plugins: [
+  //   [
+  //     '@docusaurus/plugin-sitemap',
+  //     {
+  //       changefreq: 'weekly',
+  //       priority: 0.5,
+  //       ignorePatterns: ['/tags/**'],
+  //       filename: 'sitemap.xml',
+  //     },
+  //   ],
+  // ],
 };
 
 export default config;
