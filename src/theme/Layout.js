@@ -8,7 +8,7 @@
     "@type": "SearchAction",
     "target": "https://withjoyfullipslyrics.neiljay.com/search?q={search_term_string}",
     "query-input": "required name=search_term_string"
-},
+  },
   "author": {
     "@type": "Person",
     "name": "Fr. Jean L. Mercier"
