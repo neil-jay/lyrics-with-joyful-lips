@@ -1,24 +1,21 @@
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "With Joyful Lips Lyrics",
-  "url": "https://withjoyfullipslyrics.neiljay.com",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://withjoyfullipslyrics.neiljay.com/search?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Fr. Jean L. Mercier"
-  },
-  "about": {
-    "@type": "Book",
-    "name": "With Joyful Lips",
-    "author": "Fr. Jean L. Mercier",
-    "bookEdition": "Twelfth Revised Edition",
-    "bookFormat": "Hymnal"
-  }
+import React from 'react';
+import Layout from '@theme-original/Layout';
+
+export default function LayoutWrapper(props) {
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "With Joyful Lips Lyrics",
+            "url": "https://withjoyfullipslyrics.neiljay.com",
+          })
+        }}
+      />
+      <Layout {...props} />
+    </>
+  );
 }
-</script>
