@@ -1,8 +1,8 @@
 ---
-slug: /intro
-title: Introduction to With Joyful Lips
-description: A comprehensive guide to accessing and using Catholic hymn lyrics from With Joyful Lips hymnal. Easy-to-use format for worship and educational purposes.
-keywords: [with joyful lips, catholic hymns, Fr. Jean L. Mercier, church hymnal, worship lyrics]
+id: intro
+title: With Joyful Lips - Complete Hymn Collection
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_position: 1
 ---
 
