@@ -80,6 +80,8 @@ const config = {
          logo: {
            alt: 'With Joyful Lips',
            src: 'img/withjoyfullipslogo.webp',
+           width: 60,  // adjust this value based on your logo size
+           height: 60, // adjust this value based on your logo size
          },
         items: [
           {
