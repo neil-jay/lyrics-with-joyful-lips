@@ -8,7 +8,7 @@ export default function HomepageFeatures() {
       <div className="container">
         <div className="row">
           <article className="col col--6 padding--lg">
-            <Heading as="h1">About With Joyful Lips</Heading>
+            <Heading as="h2">About With Joyful Lips</Heading>
             <div itemScope itemType="https://schema.org/Book">
               <meta itemProp="author" content="Fr. Jean L. Mercier" />
               <meta itemProp="bookEdition" content="Twelfth Revised Edition" />
