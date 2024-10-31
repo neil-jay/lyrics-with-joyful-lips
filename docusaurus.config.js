@@ -77,10 +77,10 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Joyful Lips Hymnal',
-        // logo: {
-        //   alt: 'With Joyful Lips',
-        //   src: 'img/logo.svg',
-        // },
+         logo: {
+           alt: 'With Joyful Lips',
+           src: 'img/withjoyfullipslogo.webp',
+         },
         items: [
           {
             type: 'docSidebar',
