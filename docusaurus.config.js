@@ -102,41 +102,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          // {
-          //   title: 'Lyrics',
-          //   items: [
-          //     {
-          //       label: 'Browse',
-          //       to: '/docs/intro',
-          //     },
-          //   ],
-          // },
-          // {
-          //   title: 'Community',
-          //   items: [
-          //     {
-          //       label: 'Discord',
-          //       href: '#',
-          //     },
-          //     // {
-          //     //   label: 'Discord',
-          //     //   href: 'https://discordapp.com/invite/neiljay',
-          //     // },
-          //   ],
-          // },
-          // {
-          //   title: 'Source',
-          //   items: [
-          //     // {
-          //     //   label: 'Blog',
-          //     //   to: '/blog',
-          //     // },
-          //     {
-          //       label: 'GitHub',
-          //       href: 'https://github.com/neil-jay/lyrics-with-joyful-lips',
-          //     },
-          //   ],
-          // },
+          // yet to add
         ],
         copyright: `© ${new Date().getFullYear()} <a href="https://neiljay.com" target="_blank" rel="noopener noreferrer" class="footer__link-item">neiljay</a>`,
       },
@@ -231,18 +197,6 @@ const config = {
       },
     ],
   ],
-
-  // plugins: [
-  //   [
-  //     '@docusaurus/plugin-sitemap',
-  //     {
-  //       changefreq: 'weekly',
-  //       priority: 0.5,
-  //       ignorePatterns: ['/tags/**'],
-  //       filename: 'sitemap.xml',
-  //     },
-  //   ],
-  // ],
 };
 
 export default config;
