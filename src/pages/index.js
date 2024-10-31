@@ -68,7 +68,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="Catholic Hymn Lyrics - With Joyful Lips"
+      title="Catholic Hymns | With Joyful Lips Digital Hymnal"
       description="Free collection of Catholic hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Easy to copy and paste with Ctrl+Shift+V. Perfect for worship presentations and church services.">
       <script type="application/ld+json">
         {JSON.stringify({
