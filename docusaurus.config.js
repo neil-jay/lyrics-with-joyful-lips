@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'With Joyful Lips - Hymn Lyrics Collection',
+  title: "With Joyful Lips",
   tagline: 'Complete hymn lyrics from Fr. Jean L. Mercier\'s With Joyful Lips',
   favicon: 'img/favicon.ico',
 

@@ -14,7 +14,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          With Joyful Lips: Complete Catholic Hymn Lyrics Collection
+          With Joyful Lips - Catholic Hymn Lyrics
         </Heading>
         <p className="hero__subtitle">
           Fr. Jean L. Mercier's Catholic Hymns and Worship Songs Collection | 12th Edition
@@ -68,7 +68,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="Catholic Hymns | With Joyful Lips Digital Hymnal"
+      title="With Joyful Lips | Catholic Digital Hymnal"
       description="Free collection of Catholic hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Easy to copy and paste with Ctrl+Shift+V. Perfect for worship presentations and church services.">
       <script type="application/ld+json">
         {JSON.stringify({
