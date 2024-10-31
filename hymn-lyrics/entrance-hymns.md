@@ -4,7 +4,7 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: A. Entrance Hymns
 sidebar_position: 2
-slug: /hymn-lyrics/entrance-hymns
+slug: /entrance-hymns
 canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/entrance-hymns
 ---
 ### A.1 JOY WAS IN MY HEART / Psalm 121
