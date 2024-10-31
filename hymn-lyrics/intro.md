@@ -1,6 +1,6 @@
 ---
 id: intro
-title: With Joyful Lips - Complete Hymn Collection
+title: With Joyful Lips Lyrics Collection
 description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
 keywords: [with joyful lips, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_position: 1
