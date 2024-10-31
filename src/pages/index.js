@@ -25,7 +25,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/hymn-lyrics/intro">
+            to="/hymn-lyrics/introduction">
             Browse Joyful Lips Hymns
           </Link>
         </div>
