@@ -45,8 +45,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/neil-jay/lyrics-with-joyful-lips/edit/main/',
+          // editUrl:
+          //   'https://github.com/neil-jay/lyrics-with-joyful-lips/edit/main/',
         },
         // blog: {
         //   showReadingTime: true,
