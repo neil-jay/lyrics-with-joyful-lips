@@ -1,6 +1,13 @@
 ---
+title: Offertory Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: B. Offertory Hymns
 sidebar_position: 4
+slug: /offertory-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/offertory-hymns
 ---
+
 ### B.1 BEHOLD THE BREAD, O LORD
 ***Chorus:***<br />
 **Behold the bread, O Lord, we offer unto you,**<br />
