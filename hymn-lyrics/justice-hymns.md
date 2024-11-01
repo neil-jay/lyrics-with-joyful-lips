@@ -1,3 +1,13 @@
+---
+title: Justice Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: J. Justice Hymns
+sidebar_position: 12
+slug: /justice-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/justice-hymns
+---
+
 ### J.2 DEEP IN THE HUMAN HEART
 Deep, deep in the human heart<br />
 The fire of justice burns:<br />
