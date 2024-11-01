@@ -1,5 +1,5 @@
 ---
-title: Lent, Penance, Conversion, Confession Hymns Lyrics
+title: Lent, Penance Hymns Lyrics
 description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: G. Lent Hymns

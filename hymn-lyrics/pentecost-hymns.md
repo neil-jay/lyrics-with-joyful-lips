@@ -1,5 +1,5 @@
 ---
-title: Pentecost, Holy Spirit, Church, Confirmation Hymns Lyrics
+title: Pentecost, Holy Spirit Hymns Lyrics
 description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: K. Pentecost Hymns
