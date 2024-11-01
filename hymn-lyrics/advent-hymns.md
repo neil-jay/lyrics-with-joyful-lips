@@ -194,9 +194,8 @@ For the Lord calls and gathers disciples.<br />
 Come, follow him<br />
 That he may give you new life.<br />
 
-### E.14 COME, QUICKLY, LORD<br />
+### E.14 COME, QUICKLY, LORD
 Promised Lord and Christ is He,<br />
-
 ***Chorus:***<br />
 **May we soon his Kingdom see,**<br />
 **Come, O Lord, quickly come.**<br />
