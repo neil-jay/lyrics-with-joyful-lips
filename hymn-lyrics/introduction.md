@@ -19,7 +19,7 @@ The lyrics available on this site are drawn from the Twelfth Revised Edition of 
 
 The lyrics featured here originate from the hymnal With Joyful Lips Book, authored by Fr. Jean L. Mercier. While this collection is inspired by the original text, the lyrics on this site are written in markdown files to support the website's unique format and accessibility. Please note that this project operates independently and is not officially affiliated with the author or publisher of the hymnal.
 
-This website is built using Docusaurus, an open-source framework that enables smooth navigation and efficient performance for a pleasant user experience. You can explore the project's source code on [GitHub here](https://github.com/neil-jay/lyrics-with-joyful-lips).
+This website is built using Docusaurus, an open-source framework that enables smooth navigation and efficient performance for a pleasant user experience. You can explore the project's source code on [GitHub here](https://rebrand.ly/withjoyfullips).
 
 ## Providing Feedback
 
