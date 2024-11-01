@@ -1,3 +1,13 @@
+---
+title: Passion, Cross, Suffering Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: H. Passion Hymns
+sidebar_position: 10
+slug: /passion-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/passion-hymns
+---
+
 ### H.1 WE HAIL THEE
 ***Chorus:***<br />
 **We hail thee, Saviour and Lord,**<br />
