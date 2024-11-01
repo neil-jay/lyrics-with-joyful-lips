@@ -69,7 +69,7 @@ export default function Home() {
   return (
     <Layout
       title="With Joyful Lips Hymn Lyrics"
-      description="Free collection of Catholic hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Easy to copy and paste with Ctrl+Shift+V. Perfect for worship presentations and church services.">
+      description="Catholic hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Easy access for worship and church services.">
       <script type="application/ld+json">
         {JSON.stringify({
           "@context": "https://schema.org",
