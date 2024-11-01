@@ -1,3 +1,13 @@
+---
+title: Saints Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: U. Saints Hymns
+sidebar_position: 23
+slug: /saints-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/saints-hymns
+---
+
 ### U.5 TRUST IN THE LORD
 ***Chorus:*** <br />
 Trust in the Lord, O you saints of God<br />
