@@ -1,3 +1,13 @@
+---
+title: Commitment, Profession, Holy Orders Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: N. Commitment Hymns
+sidebar_position: 16
+slug: /commitment-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/commitment-hymns
+---
+
 ### N.1 FROM MY HEART BREAKS FORTH
 ***Chorus:***<br />
 **From my heart breaks forth**<br />
