@@ -1,3 +1,13 @@
+---
+title: Prayers for all Circumstances Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: P. Prayer Hymns
+sidebar_position: 18
+slug: /prayer-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/prayer-hymns
+---
+
 ### P.2 IN THY ABODE, O LORD / Psalm 114
 Who will make his home in thy abode, O Lord?<br />
 Who will rest secure upon thy mountain on high?<br />
