@@ -1,3 +1,13 @@
+---
+title: Psalms Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: Z. Psalms
+sidebar_position: 28
+slug: /psalms
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/psalms
+---
+
 ### Z.1 WE SHALL NOT BE MOVED
 How blessed are the ones who never walk<br />
 Within the place where wicked scoffers talk.<br />
