@@ -1,6 +1,13 @@
 ---
+title: Advent, Hope Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: E. Advent, Hope Hymns
 sidebar_position: 7
+slug: /advent-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/advent-hymns
 ---
+
 ### E.1 BESTIR THY POWER
 ***Chorus:***<br />
 **Bestir thy power and come, Lord,**<br />
