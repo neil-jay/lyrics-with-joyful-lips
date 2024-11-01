@@ -1,3 +1,13 @@
+---
+title: Glory to God Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: VG. Glory to God Hymns
+sidebar_position: 25
+slug: /glory-to-god-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/glory-to-god-hymns
+---
+
 ### VG.1 SING TO GOD
 Sing to God a song of glory,<br />
 peace he brings to people on earth.<br />
