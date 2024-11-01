@@ -32,7 +32,7 @@ In him, joy for ever.<br />
 For he is my way,<br />
 With him, I am walking.<br />
 
-### X.3 TO THE WORLD WE GO<br />
+### X.3 TO THE WORLD WE GO
 Lightened by the word we’ve heard,<br />
 To the world we all must go,<br />
 Nourished by the bread of life,<br />
