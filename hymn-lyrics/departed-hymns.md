@@ -1,3 +1,13 @@
+---
+title: Departed Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: R. Departed Hymns
+sidebar_position: 20
+slug: /departed-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/departed-hymns
+---
+
 ### R.1 GIVE ETERNAL REST
 ***Chorus:***<br />
 **Give them, O Lord, eternal rest**<br />
