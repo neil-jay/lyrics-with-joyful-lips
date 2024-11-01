@@ -1,3 +1,13 @@
+---
+title: Paraliturgical Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: Q. Paraliturgical Hymns
+sidebar_position: 19
+slug: /paraliturgical-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/paraliturgical-hymns
+---
+
 ### Q.3 THE LORD IS HERE
 His voice can be heard in the roaring<br />
 Of breakers that crash on the shore.<br />
