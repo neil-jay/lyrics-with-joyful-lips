@@ -1,3 +1,13 @@
+---
+title: Easter, Baptism, Faith Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: I. Easter Hymns
+sidebar_position: 11
+slug: /easter-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/easter-hymns
+---
+
 ### I.1 KEEP IN MIND
 ***Chorus:***<br />
 **Keep in mind that Jesus Christ has died**<br />
