@@ -1,3 +1,13 @@
+---
+title: Jesus Christ, Sacred Heart Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: M. Jesus Christ Hymns
+sidebar_position: 15
+slug: /jesus-christ-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/jesus-christ-hymns
+---
+
 ### M.2 BEND YOUR NECK TO MY YOKE / Psalm 33
 ***Chorus-1:***<br />
 **Bend your neck to my yoke,**<br />
