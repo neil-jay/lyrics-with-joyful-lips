@@ -1,3 +1,13 @@
+---
+title: God, Creation, Trinity Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: L. Creation Hymns
+sidebar_position: 14
+slug: /creation-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/creation-hymns
+---
+
 ### L.2 WONDERFUL AND GREAT
 ***Chorus:***<br />
 **Alleluia, alleluia!**<br />
