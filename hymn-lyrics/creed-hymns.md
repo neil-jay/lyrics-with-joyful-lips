@@ -1,3 +1,13 @@
+---
+title: Creed, Glory to God Hymns Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: V. Creed Hymns
+sidebar_position: 24
+slug: /creed-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/creed-hymns
+---
+
 ### V.28 YES, LORD, WE BELIEVE
 Yes, Lord, we believe, you alone are the Truth (2).<br />
 Yes, Lord, we believe, you alone are the Light (2).<br />
