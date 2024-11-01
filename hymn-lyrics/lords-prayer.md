@@ -1,3 +1,13 @@
+---
+title: Lord's Prayer Lyrics
+description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+sidebar_label: Y. Lord's Prayer
+sidebar_position: 27
+slug: /lords-prayer
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/lords-prayer
+---
+
 ### Y.1 Lord's Prayer
 
 When he saw how great was their number,<br />
