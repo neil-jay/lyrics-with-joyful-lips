@@ -31,5 +31,5 @@ Full credit for the original content and inspiration goes to Fr. Jean L. Mercier
 
 ## Copyright Information
 
-The lyrics are copyrighted material of Fr. Jean L. Mercier, derived from the With Joyful Lips Book. Please respect the author's intellectual property rights when using this content. Additionally, this webpage, including its design, code, and unique formatting, is copyrighted to neiljay.
+The lyrics are copyrighted material of Fr. Jean L. Mercier, derived from the With Joyful Lips Book. Please respect the author's intellectual property rights when using this content. Additionally, this webpage, including its design, code, and unique formatting, is copyrighted to [neiljay](https://neiljay.com).
 
