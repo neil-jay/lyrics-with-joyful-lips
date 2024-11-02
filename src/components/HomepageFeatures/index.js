@@ -8,23 +8,21 @@ export default function HomepageFeatures() {
       <div className="container">
         <div className="row">
           <article className="col col--6 padding--lg">
-            <Heading as="h2">About With Joyful Lips</Heading>
+            <Heading as="h2">About</Heading>
             <div itemScope itemType="https://schema.org/Book">
               <meta itemProp="author" content="Fr. Jean L. Mercier" />
               <meta itemProp="bookEdition" content="Twelfth Revised Edition" />
-              <meta itemProp="bookFormat" content="Hymnal" />
+              <meta itemProp="bookFormat" content="Catholic Hymnal" />
+              <meta itemProp="inLanguage" content="en" />
               <p itemProp="description">
-                Welcome to With Joyful Lips Lyrics! This site is dedicated to providing easy access
-                to the lyrics from <span itemProp="name">With Joyful Lips</span>, a popular hymnal authored by
-                <span itemProp="author">Fr. Jean L. Mercier</span>. Designed for both worship and
-                educational purposes, these lyrics offer a convenient, text-based format suitable for
-                churches, religious gatherings, and anyone looking to enrich their spiritual journey
-                with inspiring hymns.
+                Welcome! This site provides Catholic hymn lyrics from
+                <span itemProp="name"> With Joyful Lips</span>, authored by
+                <span itemProp="author"> Fr. Jean L. Mercier</span>. The lyrics are formatted
+                for easy use in church services and worship presentations.
               </p>
               <p>
-                The lyrics available on this site are drawn from the <span itemProp="bookEdition">
-                Twelfth Revised Edition</span> of With Joyful Lips, and are displayed in a simple,
-                readable format for ease of use.
+                All content is from the <span itemProp="bookEdition">Twelfth Revised Edition</span>, 
+                presented in a clean, copy-friendly format for worship leaders.
               </p>
             </div>
           </article>
@@ -33,16 +31,16 @@ export default function HomepageFeatures() {
             <div className={styles.howToUse}>
               <nav aria-label="Usage Instructions">
                 <ol>
-                  <li><strong>Find Hymns:</strong> Use the search bar at the top to find specific hymns</li>
-                  <li><strong>Browse Collection:</strong> Click "Browse All Hymns" to explore the complete collection</li>
-                  <li><strong>Copy Lyrics:</strong> Select and copy the lyrics you need (Ctrl+C)</li>
-                  <li><strong>Paste Without Formatting:</strong> Use Ctrl+Shift+V to paste without formatting</li>
-                  <li><strong>Create Presentations:</strong> Perfect for church services and worship presentations</li>
+                  <li><strong>Search:</strong> Use the search bar to find specific hymns quickly</li>
+                  <li><strong>Browse:</strong> Navigate through organized sections of hymns</li>
+                  <li><strong>Copy:</strong> Select the lyrics (Ctrl+C or ⌘+C)</li>
+                  <li><strong>Paste:</strong> Use Ctrl+Shift+V (Windows) or ⌘+Shift+V (Mac) to remove formatting</li>
+                  <li><strong>Present:</strong> Ready for church presentations and handouts</li>
                 </ol>
               </nav>
               <p className={styles.copyright}>
                 <small>
-                  Note: The hymn lyrics are copyrighted material from With Joyful Lips Book by Fr. Jean L. Mercier.
+                  © Lyrics from With Joyful Lips by Fr. Jean L. Mercier, Twelfth Edition.
                 </small>
               </p>
             </div>
