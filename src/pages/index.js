@@ -68,19 +68,23 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="With Joyful Lips Hymn Lyrics"
-      description="Catholic hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Easy access for worship and church services.">
+      title="With Joyful Lips Lyrics"
+      description="Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Easy access for worship and church services.">
       <script type="application/ld+json">
         {JSON.stringify({
           "@context": "https://schema.org",
           "@type": "WebSite",
-          "name": "With Joyful Lips",
-          "description": "Catholic Hymn Lyrics Collection from With Joyful Lips by Fr. Jean L. Mercier",
+          "name": "With Joyful Lips Lyrics",
+          "description": "Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Easy access for worship and church services.",
           "url": "https://withjoyfullipslyrics.neiljay.com",
-          "keywords": "catholic hymns, with joyful lips, Fr. Jean L. Mercier, church music, hymn lyrics, catholic songs",
+          "keywords": "with joyful lips lyrics, catholic hymn lyrics, Fr. Jean L. Mercier, church music, catholic hymns, catholic songs",
           "author": {
             "@type": "Person",
             "name": "NeilJay"
+          },
+          "creator": {
+            "@type": "Person",
+            "name": "Fr. Jean L. Mercier"
           }
         })}
       </script>
