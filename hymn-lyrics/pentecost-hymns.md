@@ -1,7 +1,7 @@
 ---
-title: Pentecost, Holy Spirit Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
-keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+title: Pentecost and Holy Spirit Lyrics
+description: Lyrics from With Joyful Lips for Pentecost and Holy Spirit. Catholic hymns by Fr. Jean L. Mercier.
+keywords: [pentecost hymns, holy spirit songs, catholic pentecost music, with joyful lips lyrics, Fr. Jean L. Mercier, pentecost worship]
 sidebar_label: K. Pentecost Hymns
 sidebar_position: 13
 slug: /pentecost-hymns
