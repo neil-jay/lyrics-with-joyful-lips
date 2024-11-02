@@ -21,7 +21,7 @@ export default function HomepageFeatures() {
                 for easy use in church services and worship presentations.
               </p>
               <p>
-                All content is from the <span itemProp="bookEdition">Twelfth Revised Edition</span>, 
+                All content is from the <span itemProp="bookEdition">Twelfth Revised Edition</span>,
                 presented in a clean, copy-friendly format for worship leaders.
               </p>
             </div>
@@ -40,7 +40,7 @@ export default function HomepageFeatures() {
               </nav>
               <p className={styles.copyright}>
                 <small>
-                  © Lyrics from With Joyful Lips by Fr. Jean L. Mercier, Twelfth Edition.
+                  © Lyrics from With Joyful Lips by Fr. Jean L. Mercier, Twelfth Revised Edition.
                 </small>
               </p>
             </div>
