@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "With Joyful Lips Lyrics",
-  tagline: 'Complete lyrics from Fr. Jean L. Mercier\'s With Joyful Lips',
+  tagline: 'Catholic Hymnal by Fr. Jean L. Mercier',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -147,6 +147,10 @@ const config = {
           property: 'og:url',
           content: 'https://withjoyfullipslyrics.neiljay.com',
         },
+        {
+          property: 'og:site_name',
+          content: 'With Joyful Lips Lyrics',
+        },
         // Twitter
         {
           name: 'twitter:card',
@@ -164,14 +168,22 @@ const config = {
           name: 'twitter:image',
           content: 'https://withjoyfullipslyrics.neiljay.com/img/og-image.jpg',
         },
+        {
+          name: 'twitter:image:alt',
+          content: 'With Joyful Lips Catholic Hymnal Logo',
+        },
         // Additional SEO
         {
           name: 'author',
           content: 'Fr. Jean L. Mercier',
         },
         {
+          name: 'copyright',
+          content: '© 2024 With Joyful Lips Lyrics',
+        },
+        {
           name: 'robots',
-          content: 'index, follow',
+          content: 'index, follow, max-image-preview:large',
         },
         // Mobile optimization
         {
@@ -182,6 +194,10 @@ const config = {
         {
           httpEquiv: 'Content-Language',
           content: 'en',
+        },
+        {
+          name: 'language',
+          content: 'English',
         },
       ],
     }),
