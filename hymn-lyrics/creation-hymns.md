@@ -1,6 +1,6 @@
 ---
-title: God, Creation, Trinity Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+title: Creation and Trinity Lyrics
+description: Lyrics from With Joyful Lips about God, creation, and Trinity. Catholic hymns by Fr. Jean L. Mercier.
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: L. Creation Hymns
 sidebar_position: 14
