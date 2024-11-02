@@ -90,14 +90,16 @@ export default function Home() {
             "name": "Fr. Jean L. Mercier",
             "jobTitle": "Catholic Priest"
           },
-          "copyrightYear": "2018",
+          "copyrightYear": "2024",
           "license": "All Rights Reserved",
           "about": {
             "@type": "Book",
             "name": "With Joyful Lips",
             "author": "Fr. Jean L. Mercier",
             "bookEdition": "Twelfth Revised Edition",
-            "bookFormat": "Catholic Hymnal"
+            "bookFormat": "Catholic Hymnal",
+            "copyrightYear": "1989",
+            "publisher": "Better Yourself Books & Media Pvt. Ltd."
           }
         })}
       </script>
