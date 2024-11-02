@@ -1,7 +1,7 @@
 ---
-title: Prayers for all Circumstances Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
-keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+title: Prayer and Devotional Lyrics
+description: Lyrics from With Joyful Lips for prayer and devotions. Catholic hymns by Fr. Jean L. Mercier.
+keywords: [prayer hymns, devotional songs, catholic prayer music, with joyful lips lyrics, Fr. Jean L. Mercier, worship songs]
 sidebar_label: P. Prayer Hymns
 sidebar_position: 18
 slug: /prayer-hymns
