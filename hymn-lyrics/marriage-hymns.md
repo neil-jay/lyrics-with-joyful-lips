@@ -1,7 +1,7 @@
 ---
-title: Marriage, Family, Country Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
-keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+title: Marriage and Family Lyrics
+description: Lyrics from With Joyful Lips for marriage and family celebrations. Catholic hymns by Fr. Jean L. Mercier.
+keywords: [marriage hymns, wedding songs, family hymns, catholic wedding music, with joyful lips lyrics, Fr. Jean L. Mercier]
 sidebar_label: O. Marriage Hymns
 sidebar_position: 17
 slug: /marriage-hymns
