@@ -1,7 +1,7 @@
 ---
-title: Passion, Cross, Suffering Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
-keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+title: Passion and Cross Lyrics
+description: Lyrics from With Joyful Lips about Christ's Passion and the Cross. Catholic hymns by Fr. Jean L. Mercier.
+keywords: [passion hymns, cross hymns, suffering songs, catholic passion music, with joyful lips lyrics, Fr. Jean L. Mercier]
 sidebar_label: H. Passion Hymns
 sidebar_position: 10
 slug: /passion-hymns
