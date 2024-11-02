@@ -17,15 +17,16 @@ function HomepageHeader() {
           With Joyful Lips Lyrics
         </Heading>
         <p className="hero__subtitle">
-          Catholic Hymnal by Fr. Jean L. Mercier | 12th Edition
+          Catholic Hymnal by Fr. Jean L. Mercier | Twelfth Revised Edition
         </p>
         <p className="hero__description">
-          Browse and copy lyrics from With Joyful Lips for worship and church services
+          Easy access to Catholic hymn lyrics for worship and church services
         </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/hymn-lyrics/introduction">
+            to="/hymn-lyrics/introduction"
+            aria-label="Browse Catholic hymn lyrics">
             Browse Hymn Lyrics
           </Link>
         </div>
@@ -78,13 +79,25 @@ export default function Home() {
           "description": "Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Easy access for worship and church services.",
           "url": "https://withjoyfullipslyrics.neiljay.com",
           "keywords": "with joyful lips lyrics, catholic hymn lyrics, Fr. Jean L. Mercier, church music, catholic hymns, catholic songs",
+          "inLanguage": "en",
           "author": {
             "@type": "Person",
-            "name": "NeilJay"
+            "name": "NeilJay",
+            "url": "https://withjoyfullipslyrics.neiljay.com"
           },
           "creator": {
             "@type": "Person",
-            "name": "Fr. Jean L. Mercier"
+            "name": "Fr. Jean L. Mercier",
+            "jobTitle": "Catholic Priest"
+          },
+          "copyrightYear": "2018",
+          "license": "All Rights Reserved",
+          "about": {
+            "@type": "Book",
+            "name": "With Joyful Lips",
+            "author": "Fr. Jean L. Mercier",
+            "bookEdition": "Twelfth Revised Edition",
+            "bookFormat": "Catholic Hymnal"
           }
         })}
       </script>
