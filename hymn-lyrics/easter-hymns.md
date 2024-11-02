@@ -1,7 +1,7 @@
 ---
-title: Easter, Baptism, Faith Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
-keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
+title: Easter and Baptism Lyrics
+description: Lyrics from With Joyful Lips for Easter and baptism celebrations. Catholic hymns by Fr. Jean L. Mercier.
+keywords: [easter hymns, baptism hymns, catholic easter songs, with joyful lips lyrics, Fr. Jean L. Mercier, faith songs]
 sidebar_label: I. Easter Hymns
 sidebar_position: 11
 slug: /easter-hymns
