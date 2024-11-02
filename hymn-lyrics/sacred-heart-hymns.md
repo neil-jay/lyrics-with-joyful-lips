@@ -1,11 +1,11 @@
 ---
-title: Jesus Christ, Sacred Heart Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
-keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
-sidebar_label: M. Jesus Christ Hymns
+title: Jesus Christ and Sacred Heart Lyrics
+description: Lyrics from With Joyful Lips about Jesus Christ and Sacred Heart. Catholic hymns by Fr. Jean L. Mercier.
+keywords: [jesus christ hymns, sacred heart songs, catholic worship songs, with joyful lips lyrics, Fr. Jean L. Mercier, christian hymns]
+sidebar_label: M. Sacred Heart Hymns
 sidebar_position: 15
-slug: /jesus-christ-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/jesus-christ-hymns
+slug: /sacred-heart-hymns
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/sacred-heart-hymns
 ---
 
 ### M.2 BEND YOUR NECK TO MY YOKE / Psalm 33
