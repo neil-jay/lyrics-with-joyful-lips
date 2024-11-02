@@ -1,5 +1,5 @@
 ---
-title: Jesus Christ and Sacred Heart Lyrics
+title: Sacred Heart Lyrics
 description: Lyrics from With Joyful Lips about Jesus Christ and Sacred Heart. Catholic hymns by Fr. Jean L. Mercier.
 keywords: [jesus christ hymns, sacred heart songs, catholic worship songs, with joyful lips lyrics, Fr. Jean L. Mercier, christian hymns]
 sidebar_label: M. Sacred Heart Hymns
