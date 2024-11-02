@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "With Joyful Lips",
-  tagline: 'Complete hymn lyrics from Fr. Jean L. Mercier\'s With Joyful Lips',
+  title: "With Joyful Lips Lyrics",
+  tagline: 'Complete lyrics from Fr. Jean L. Mercier\'s With Joyful Lips',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -82,7 +82,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Joyful Lips Hymnal',
+        title: 'With Joyful Lips Lyrics',
         //  logo: {
         //    alt: 'With Joyful Lips',
         //    src: 'img/withjoyfullipslogo.webp',
@@ -120,11 +120,11 @@ const config = {
         // Basic SEO
         {
           name: 'description',
-          content: 'Access complete hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Perfect for church services, worship presentations, and spiritual enrichment.',
+          content: 'Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Easy access for worship and church services.',
         },
         {
           name: 'keywords',
-          content: 'With Joyful Lips, hymn lyrics, Fr. Jean L. Mercier, church hymns, worship songs, catholic hymns, christian music',
+          content: 'with joyful lips lyrics, catholic hymn lyrics, Fr. Jean L. Mercier, church music, catholic hymns, catholic songs',
         },
         // Open Graph / Facebook
         {
@@ -133,19 +133,19 @@ const config = {
         },
         {
           property: 'og:title',
-          content: 'With Joyful Lips - Complete Hymn Lyrics Collection',
+          content: 'With Joyful Lips Lyrics',
         },
         {
           property: 'og:description',
-          content: 'Access complete hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Perfect for church services and worship.',
+          content: 'Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Easy access for worship and church services.',
         },
         {
           property: 'og:image',
-          content: 'https://yoursite.com/img/og-image.jpg', // Replace with your actual image URL
+          content: 'https://withjoyfullipslyrics.neiljay.com/img/og-image.jpg',
         },
         {
           property: 'og:url',
-          content: 'https://yoursite.com', // Replace with your actual URL
+          content: 'https://withjoyfullipslyrics.neiljay.com',
         },
         // Twitter
         {
@@ -154,15 +154,15 @@ const config = {
         },
         {
           name: 'twitter:title',
-          content: 'With Joyful Lips - Complete Hymn Lyrics Collection',
+          content: 'With Joyful Lips Lyrics',
         },
         {
           name: 'twitter:description',
-          content: 'Access complete hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Perfect for church services and worship.',
+          content: 'Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Easy access for worship and church services.',
         },
         {
           name: 'twitter:image',
-          content: 'https://yoursite.com/img/twitter-image.jpg', // Replace with your actual image URL
+          content: 'https://withjoyfullipslyrics.neiljay.com/img/og-image.jpg',
         },
         // Additional SEO
         {
