@@ -3,5 +3,6 @@
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
-  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), vr=(), screen-wake-lock=(), web-share=()
+  Feature-Policy: camera 'none'; microphone 'none'; geolocation 'none'; payment 'none'; usb 'none'; vr 'none'; screen-wake-lock 'none'; web-share 'none'
 */
