@@ -207,7 +207,7 @@ const config = {
       "@easyops-cn/docusaurus-search-local",
       {
         hashed: true,
-        language: ["en"],
+        language: ["en-US"],
         indexDocs: true,
         indexBlog: false,
         indexPages: false,
