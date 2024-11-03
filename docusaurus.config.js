@@ -120,7 +120,7 @@ const config = {
         // Basic SEO
         {
           name: 'description',
-          content: 'Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Easy access for worship and church services.',
+          content: 'Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Access traditional Catholic hymns and songs for worship services, church presentations, and other celebrations.',
         },
         {
           name: 'keywords',
