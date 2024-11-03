@@ -6,7 +6,7 @@ keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn 
 sidebar_label: Introduction
 sidebar_position: 1
 slug: /introduction
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/introduction
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/introduction/
 ---
 
 Welcome to With Joyful Lips Lyrics! This site is dedicated to providing easy access to the lyrics from With Joyful Lips, a popular hymnal. Designed for both worship and educational purposes, these lyrics offer a convenient, text-based format suitable for churches, religious gatherings, and anyone looking to enrich their spiritual journey with inspiring hymns.
