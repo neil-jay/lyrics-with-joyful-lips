@@ -1,8 +1,0 @@
-/*
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self' https://www.google-analytics.com;
-  X-Frame-Options: DENY
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
-  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), vr=(), screen-wake-lock=(), web-share=()
-  Feature-Policy: camera 'none'; microphone 'none'; geolocation 'none'; payment 'none'; usb 'none'; vr 'none'; screen-wake-lock 'none'; web-share 'none'
-*/
