@@ -25,7 +25,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/hymn-lyrics/introduction"
+            to="/hymn-lyrics/introduction/"
             aria-label="Browse Catholic hymn lyrics">
             Browse Hymn Lyrics
           </Link>
