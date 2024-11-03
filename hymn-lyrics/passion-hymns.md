@@ -4,8 +4,8 @@ description: Lyrics from With Joyful Lips about Christ's Passion and the Cross. 
 keywords: [passion hymns, cross hymns, suffering songs, catholic passion music, with joyful lips lyrics, Fr. Jean L. Mercier]
 sidebar_label: H. Passion Hymns
 sidebar_position: 10
-slug: /passion-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/passion-hymns
+slug: /passion-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/passion-hymns/
 ---
 
 ### H.1 WE HAIL THEE

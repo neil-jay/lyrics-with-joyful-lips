@@ -4,8 +4,8 @@ description: Lyrics from With Joyful Lips for commitment and holy orders. Cathol
 keywords: [commitment hymns, holy orders hymns, with joyful lips lyrics, catholic hymn lyrics, Fr. Jean L. Mercier, religious vocation songs]
 sidebar_label: N. Commitment Hymns
 sidebar_position: 16
-slug: /commitment-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/commitment-hymns
+slug: /commitment-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/commitment-hymns/
 ---
 ### N.1 FROM MY HEART BREAKS FORTH
 ***Chorus:***<br />

@@ -4,8 +4,8 @@ description: Lyrics from With Joyful Lips for Pentecost and Holy Spirit. Catholi
 keywords: [pentecost hymns, holy spirit songs, catholic pentecost music, with joyful lips lyrics, Fr. Jean L. Mercier, pentecost worship]
 sidebar_label: K. Pentecost Hymns
 sidebar_position: 13
-slug: /pentecost-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/pentecost-hymns
+slug: /pentecost-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/pentecost-hymns/
 ---
 
 ### K.5 SPLENDOUR OF CREATION / Psalm 103

@@ -4,8 +4,8 @@ description: Lyrics from With Joyful Lips for Easter and baptism celebrations. C
 keywords: [easter hymns, baptism hymns, catholic easter songs, with joyful lips lyrics, Fr. Jean L. Mercier, faith songs]
 sidebar_label: I. Easter Hymns
 sidebar_position: 11
-slug: /easter-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/easter-hymns
+slug: /easter-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/easter-hymns/
 ---
 
 ### I.1 KEEP IN MIND

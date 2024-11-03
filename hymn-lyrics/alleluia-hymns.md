@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: AL. Alleluia Hymns
 sidebar_position: 3
-slug: /alleluia-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/alleluia-hymns
+slug: /alleluia-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/alleluia-hymns/
 ---
 
 ### AL.10 ALLELUIA! PRAISE GOD / PSALM 116

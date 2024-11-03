@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: S. Confirmation Hymns
 sidebar_position: 21
-slug: /confirmation-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/confirmation-hymns
+slug: /confirmation-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/confirmation-hymns/
 ---
 
 ### (S)S.1 SEND FORTH YOUR MESSENGERS

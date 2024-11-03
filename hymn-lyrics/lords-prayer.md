@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: Y. Lord's Prayer
 sidebar_position: 27
-slug: /lords-prayer
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/lords-prayer
+slug: /lords-prayer/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/lords-prayer/
 ---
 
 ### Y.1 Lord's Prayer

@@ -4,8 +4,8 @@ description: Lyrics from With Joyful Lips about God, creation, and Trinity. Cath
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: L. Creation Hymns
 sidebar_position: 14
-slug: /creation-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/creation-hymns
+slug: /creation-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/creation-hymns/
 ---
 
 ### L.2 WONDERFUL AND GREAT

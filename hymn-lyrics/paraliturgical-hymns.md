@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: Q. Paraliturgical Hymns
 sidebar_position: 19
-slug: /paraliturgical-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/paraliturgical-hymns
+slug: /paraliturgical-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/paraliturgical-hymns/
 ---
 
 ### Q.3 THE LORD IS HERE

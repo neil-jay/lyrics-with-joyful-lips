@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: B. Offertory Hymns
 sidebar_position: 4
-slug: /offertory-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/offertory-hymns
+slug: /offertory-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/offertory-hymns/
 ---
 
 ### B.1 BEHOLD THE BREAD, O LORD

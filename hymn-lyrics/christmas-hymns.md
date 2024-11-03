@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: F. Christmas Hymns
 sidebar_position: 8
-slug: /christmas-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/christmas-hymns
+slug: /christmas-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/christmas-hymns/
 ---
 
 ### F.3 GLORY TO GOD ON HIGH / Psalm 88

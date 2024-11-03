@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: C. Thanksgiving Hymns
 sidebar_position: 5
-slug: /thanksgiving-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/thanksgiving-hymns
+slug: /thanksgiving-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/thanksgiving-hymns/
 ---
 
 ### C.1 THIS IS THE DAY

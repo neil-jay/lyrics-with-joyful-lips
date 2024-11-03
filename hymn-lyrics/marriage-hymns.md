@@ -4,8 +4,8 @@ description: Lyrics from With Joyful Lips for marriage and family celebrations. 
 keywords: [marriage hymns, wedding songs, family hymns, catholic wedding music, with joyful lips lyrics, Fr. Jean L. Mercier]
 sidebar_label: O. Marriage Hymns
 sidebar_position: 17
-slug: /marriage-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/marriage-hymns
+slug: /marriage-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/marriage-hymns/
 ---
 
 ### O.1 PRAYER FOR OUR COUNTRY

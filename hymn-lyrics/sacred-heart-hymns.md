@@ -4,8 +4,8 @@ description: Lyrics from With Joyful Lips about Jesus Christ and Sacred Heart. C
 keywords: [jesus christ hymns, sacred heart songs, catholic worship songs, with joyful lips lyrics, Fr. Jean L. Mercier, christian hymns]
 sidebar_label: M. Sacred Heart Hymns
 sidebar_position: 15
-slug: /sacred-heart-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/sacred-heart-hymns
+slug: /sacred-heart-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/sacred-heart-hymns/
 ---
 
 ### M.2 BEND YOUR NECK TO MY YOKE / Psalm 33

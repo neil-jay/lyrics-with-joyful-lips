@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: G. Lent Hymns
 sidebar_position: 9
-slug: /lent-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/lent-hymns
+slug: /lent-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/lent-hymns/
 ---
 
 ### G.1 YES, I SHALL ARISE

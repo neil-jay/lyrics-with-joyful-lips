@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: R. Departed Hymns
 sidebar_position: 20
-slug: /departed-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/departed-hymns
+slug: /departed-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/departed-hymns/
 ---
 
 ### R.1 GIVE ETERNAL REST

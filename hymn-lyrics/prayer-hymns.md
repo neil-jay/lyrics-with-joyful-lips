@@ -4,8 +4,8 @@ description: Lyrics from With Joyful Lips for prayer and devotions. Catholic hym
 keywords: [prayer hymns, devotional songs, catholic prayer music, with joyful lips lyrics, Fr. Jean L. Mercier, worship songs]
 sidebar_label: P. Prayer Hymns
 sidebar_position: 18
-slug: /prayer-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/prayer-hymns
+slug: /prayer-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/prayer-hymns/
 ---
 
 ### P.2 IN THY ABODE, O LORD / Psalm 114

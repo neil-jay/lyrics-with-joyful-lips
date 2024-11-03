@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: D. Communion Hymns
 sidebar_position: 6
-slug: /communion-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/communion-hymns
+slug: /communion-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/communion-hymns/
 ---
 
 ### DD.1 THIS IS MY COMMANDMENT

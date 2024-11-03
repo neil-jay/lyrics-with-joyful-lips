@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: X. Recessional Hymns
 sidebar_position: 26
-slug: /recessional-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/recessional-hymns
+slug: /recessional-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/recessional-hymns/
 ---
 
 ### X.2 LONG LIVE THE LORD

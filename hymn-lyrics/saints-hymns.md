@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: U. Saints Hymns
 sidebar_position: 23
-slug: /saints-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/saints-hymns
+slug: /saints-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/saints-hymns/
 ---
 
 ### U.5 TRUST IN THE LORD

@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: J. Justice Hymns
 sidebar_position: 12
-slug: /justice-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/justice-hymns
+slug: /justice-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/justice-hymns/
 ---
 
 ### J.2 DEEP IN THE HUMAN HEART

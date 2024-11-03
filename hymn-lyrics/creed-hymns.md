@@ -4,8 +4,8 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: V. Creed Hymns
 sidebar_position: 24
-slug: /creed-hymns
-canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/creed-hymns
+slug: /creed-hymns/
+canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/creed-hymns/
 ---
 
 ### V.28 YES, LORD, WE BELIEVE
