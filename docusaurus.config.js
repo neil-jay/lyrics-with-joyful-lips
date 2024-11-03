@@ -207,7 +207,7 @@ const config = {
       "@easyops-cn/docusaurus-search-local",
       {
         hashed: true,
-        language: ["en-US"],
+        language: ["en"],
         indexDocs: true,
         indexBlog: false,
         indexPages: false,
@@ -218,6 +218,28 @@ const config = {
         searchBarPosition: "auto",
       },
     ],
+  ],
+
+  scripts: [
+    {
+      src: 'https://www.googletagmanager.com/gtag/js?id=G-TXSXJHGCJD',
+      async: true,
+    },
+  ],
+
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'text/javascript',
+      },
+      innerHTML: `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-TXSXJHGCJD');
+      `,
+    },
   ],
 };
 
