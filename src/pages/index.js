@@ -78,8 +78,8 @@ export default function Home() {
           "name": "With Joyful Lips Lyrics",
           "description": "Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Easy access for worship and church services.",
           "url": "https://withjoyfullipslyrics.neiljay.com",
+          "inLanguage": "en-US",
           "keywords": "with joyful lips lyrics, catholic hymn lyrics, Fr. Jean L. Mercier, church music, catholic hymns, catholic songs",
-          "inLanguage": "en",
           "author": {
             "@type": "Person",
             "name": "NeilJay",

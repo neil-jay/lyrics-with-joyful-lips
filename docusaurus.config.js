@@ -193,7 +193,7 @@ const config = {
         // Language declaration
         {
           httpEquiv: 'Content-Language',
-          content: 'en',
+          content: 'en-US',
         },
         {
           name: 'language',
