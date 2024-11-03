@@ -5,7 +5,7 @@ description: Access the complete collection of hymn lyrics from With Joyful Lips
 keywords: [with joyful lips, with joyful lips lyrics, Fr. Jean L. Mercier, hymn lyrics, twelfth revised edition]
 sidebar_label: Introduction
 sidebar_position: 1
-slug: /introduction
+slug: /introduction/
 canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/introduction/
 ---
 
