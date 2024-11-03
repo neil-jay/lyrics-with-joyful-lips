@@ -95,7 +95,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Browse Hymns',
-            to: '/hymn-lyrics/intro',
+            to: '/hymn-lyrics/introduction/',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
