@@ -1,9 +1,3 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -12,23 +6,15 @@ const config = {
   tagline: 'Catholic Hymnal by Fr. Jean L. Mercier',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
   url: 'https://withjoyfullipslyrics.neiljay.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'github.com/neil-jay', // Usually your GitHub org/user name.
-  projectName: 'lyrics-with-joyful-lips', // Usually your repo name.
+  organizationName: 'github.com/neil-jay',
+  projectName: 'lyrics-with-joyful-lips',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en-US',
     locales: ['en-US'],
@@ -43,26 +29,7 @@ const config = {
           path: 'hymn-lyrics',
           routeBasePath: 'hymn-lyrics',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/neil-jay/lyrics-with-joyful-lips/edit/main/',
         },
-        // blog: {
-        //   showReadingTime: true,
-        //   feedOptions: {
-        //     type: ['rss', 'atom'],
-        //     xslt: true,
-        //   },
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        //   // Useful options to enforce blogging best practices
-        //   onInlineTags: 'warn',
-        //   onInlineAuthors: 'warn',
-        //   onUntruncatedBlogPosts: 'warn',
-        // },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -96,12 +63,6 @@ const config = {
             position: 'left',
             label: 'Browse Hymns',
             to: '/hymn-lyrics/introduction/',
-          },
-          // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/neil-jay/lyrics-with-joyful-lips/',
-            label: 'GitHub',
-            position: 'right',
           },
         ],
       },
@@ -153,7 +114,7 @@ const config = {
         },
         {
           property: 'og:image',
-          content: 'https://withjoyfullipslyrics.neiljay.com/img/og-image.jpg',
+          content: 'https://withjoyfullipslyrics.neiljay.com/img/withjoyfullips.webp',
         },
         {
           property: 'og:url',
@@ -178,11 +139,11 @@ const config = {
         },
         {
           name: 'twitter:image',
-          content: 'https://withjoyfullipslyrics.neiljay.com/img/og-image.jpg',
+          content: 'https://withjoyfullipslyrics.neiljay.com/img/withjoyfullips.webp',
         },
         {
           name: 'twitter:image:alt',
-          content: 'With Joyful Lips Catholic Hymnal Logo',
+          content: 'With Joyful Lips Logo',
         },
         // Additional SEO
         {
