@@ -29,7 +29,7 @@ We strive to ensure that every lyric is accurately typed and formatted, but occa
 
 Full credit for the original content and inspiration goes to Fr. Jean L. Mercier, author of the With Joyful Lips Book. His work has brought joy and spiritual upliftment to many, and this project aims to honor that contribution by making his hymns more accessible to a broader audience.
 
-## Copyright Information
+## Copyright Notice
 
-The lyrics are copyrighted material of Fr. Jean L. Mercier, derived from the With Joyful Lips Book. Please respect the author's intellectual property rights when using this content. Additionally, this webpage, including its design, code, and unique formatting, is copyrighted to [neiljay](https://neiljay.com).
+The lyrics are from "With Joyful Lips" by Fr. Jean L. Mercier, Twelfth Revised Edition. © 1989 Better Yourself Books & Media Pvt. Ltd. The website design and code are copyrighted to [neiljay](https://neiljay.com). For detailed copyright information and attribution details, please visit our [Copyright & Attribution](/copyright) page.
 
