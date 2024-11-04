@@ -1,5 +1,5 @@
 ---
-title: Copyright & Attribution | With Joyful Lips
+title: Copyright | With Joyful Lips
 description: Copyright information and attributions for With Joyful Lips hymnal lyrics. All rights acknowledged.
 keywords: [with joyful lips copyright, Fr. Jean L. Mercier attribution, catholic hymnal copyright, Better Yourself Books]
 slug: /copyright/
