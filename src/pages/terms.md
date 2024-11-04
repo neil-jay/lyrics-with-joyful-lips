@@ -1,6 +1,10 @@
 ---
 title: Terms of Service
 description: Terms of service and usage guidelines for With Joyful Lips Lyrics website.
+keywords: [with joyful lips lyrics, terms of service, usage guidelines]
+sidebar_label: Terms of Service
+slug: /terms/
+canonical: https://withjoyfullipslyrics.neiljay.com/terms/
 ---
 
 # Terms of Service
