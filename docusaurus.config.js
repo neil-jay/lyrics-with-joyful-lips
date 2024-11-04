@@ -99,7 +99,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/neil-jay/lyrics-with-joyful-lips',
+            href: 'https://github.com/neil-jay/lyrics-with-joyful-lips/',
             label: 'GitHub',
             position: 'right',
           },
@@ -108,9 +108,21 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          // yet to add
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Terms of Service',
+                to: '/terms/',
+              },
+              {
+                label: 'Copyright & Attribution',
+                to: '/copyright/',
+              },
+            ],
+          },
         ],
-        copyright: `© ${new Date().getFullYear()} <a href="https://neiljay.com" target="_blank" rel="noopener noreferrer" class="footer__link-item">neiljay</a>`,
+        copyright: `© ${new Date().getFullYear()} <span style="display: inline-flex; white-space: nowrap;"><a href="https://neiljay.com" target="_blank" rel="noopener noreferrer" class="footer__link-item">neiljay</a></span>`,
       },
       prism: {
         theme: prismThemes.github,
