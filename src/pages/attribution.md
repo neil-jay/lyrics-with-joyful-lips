@@ -1,6 +1,9 @@
 ---
 title: Attribution
 description: Credits and attributions for With Joyful Lips Lyrics website.
+keywords: [with joyful lips lyrics, attribution, credits]
+slug: /attribution/
+canonical: https://withjoyfullipslyrics.neiljay.com/attribution/
 ---
 
 # Attribution
