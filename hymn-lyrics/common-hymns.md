@@ -36,6 +36,6 @@ You are seated at the right hand of the Father, have mercy on us.<br />
 
 For you alone are the Holy One, you alone are the Lord<br />
 You alone are the Most High, Jesus Christ,<br />
-wit the Holy Spirit in the glory of God the Father.<br />
+with the Holy Spirit in the glory of God the Father.<br />
 
 Amen.
