@@ -1,0 +1,57 @@
+curl -X POST "https://api.indexnow.org/indexnow" \
+-H "Content-Type: application/json; charset=utf-8" \
+-H "Host: api.indexnow.org" \
+-d '{
+  "host": "withjoyfullipslyrics.neiljay.com",
+  "key": "Jf97m307J82f9d242c8a4d6bd3854b14632n20",
+  "keyLocation": "https://withjoyfullipslyrics.neiljay.com/Jf97m307J82f9d242c8a4d6bd3854b14632n20.txt",
+  "urlList": [
+    "https://withjoyfullipslyrics.neiljay.com/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/advent-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/alleluia-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/christmas-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/commitment-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/communion-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/confirmation-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/creation-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/creed-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/departed-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/easter-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/entrance-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/glory-to-god-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/introduction/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/justice-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/lent-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/lords-prayer/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/marriage-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/offertory-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/paraliturgical-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/passion-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/pentecost-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/prayer-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/psalms/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/recessional-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/sacred-heart-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/saints-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/thanksgiving-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/virgin-mary-hymns/",
+    "https://withjoyfullipslyrics.neiljay.com/copyright/",
+    "https://withjoyfullipslyrics.neiljay.com/terms/"
+  ]
+}'
+
+
+
+
+
+https://api.indexnow.org/indexnow?url=https://withjoyfullipslyrics.neiljay.com/&key=Jf97m307J82f9d242c8a4d6bd3854b14632n20
+
+https://www.bing.com/indexnow?url=https://withjoyfullipslyrics.neiljay.com/&key=Jf97m307J82f9d242c8a4d6bd3854b14632n20
+
+https://searchadvisor.naver.com/indexnow?url=https://withjoyfullipslyrics.neiljay.com/&key=Jf97m307J82f9d242c8a4d6bd3854b14632n20
+
+https://search.seznam.cz/indexnow?url=https://withjoyfullipslyrics.neiljay.com/&key=Jf97m307J82f9d242c8a4d6bd3854b14632n20
+
+https://yandex.com/indexnow?url=https://withjoyfullipslyrics.neiljay.com/&key=Jf97m307J82f9d242c8a4d6bd3854b14632n20
+
+https://indexnow.yep.com/indexnow?url=https://withjoyfullipslyrics.neiljay.com/&key=Jf97m307J82f9d242c8a4d6bd3854b14632n20
