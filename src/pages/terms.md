@@ -54,5 +54,5 @@ Last updated: November 4, 2024
 - Continued use constitutes acceptance of updated terms
 
 ## 8. Contact
-For questions about these terms, please contact:
-neiljay@pcmender.online
+For questions about these terms, please contact us at:
+neiljay [at] pcmender [dot] online
