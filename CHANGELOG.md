@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.1.0...v1.2.0) (2024-11-21)
+
+
+### Features
+
+* Docusaurus update to 3.6. ([06e0d75](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/06e0d756a29c1f359a5262e3981bbeb477e8d6da))
+
 ## [1.1.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.0.1...v1.1.0) (2024-11-21)
 
 
