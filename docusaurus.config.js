@@ -16,8 +16,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
-    defaultLocale: 'en-US',
-    locales: ['en-US'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -166,7 +166,7 @@ const config = {
         // Language declaration
         {
           httpEquiv: 'Content-Language',
-          content: 'en-US',
+          content: 'en',
         },
         {
           name: 'language',
