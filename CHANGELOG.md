@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.2.0...v1.2.1) (2024-11-22)
+
+
+### Bug Fixes
+
+* Updated ISO Lang ([97d027b](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/97d027bbc0cbdb5f7e76344d069d0eb36bca887b))
+
 ## [1.2.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.1.0...v1.2.0) (2024-11-21)
 
 
