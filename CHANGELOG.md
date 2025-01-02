@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.3.0...v1.4.0) (2025-01-02)
+
+
+### Features
+
+* Update Christmas Carols English ([f175bc3](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/f175bc3f0a2a7ac3108dda47f9366cf373e89d1e))
+
 ## [1.3.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.2.2...v1.3.0) (2024-12-20)
 
 
