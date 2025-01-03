@@ -8,52 +8,6 @@ slug: /christams-carols/
 canonical: https://withjoyfullipslyrics.neiljay.com/hymn-lyrics/common-hymns/
 ---
 
-### Joy to the world
-
-Joy to the world the Lord is come<br />
-Let earth receive her king<br />
-Let every heart prepare Him room<br />
-And heaven and nature sing<br />
-And heaven and nature sing<br />
-And heaven and Heaven<br />
-and nature sing.<br />
-
-Joy to the world the saviour reigns<br />
-Let men their songs employ<br />
-While fields and floods<br />
-rocks hills and plains<br />
-Repeat the sounding joy<br />
-Repeat the sounding joy<br />
-Repeat, repeat the sounding joy.<br />
-
-He rules the world<br />
-with truth and grace<br />
-And makes the nations prove<br />
-The glories of His righteousness<br />
-And wonders of His love<br />
-And wonders of His love<br />
-And wonders, wonders of His love.<br />
-
-### Hark! The herald angels sing
-
-Hark! the herald angels sing,<br />
-“Glory to the new-born King;<br />
-Peace on earth, and mercy mild;<br />
-God and sinners reconciled.”<br />
-Joyful, all ye nations, rise,<br />
-Join the triumph of the skies;<br />
-With angelic hosts proclaim,<br />
-“Christ is born in Bethlehem.”<br />
-
-Christ, by highest heav’n adored,<br />
-Christ, the everlasting Lord:<br />
-Late in time behold Him come,<br />
-Offspring of a virgin’s womb.<br />
-Veiled in flesh the Godhead see,<br />
-Hail th’ incarnate Deity!<br />
-Pleased as man with man to dwell,<br />
-Jesus our Immanuel.<br />
-
 ### Angels we have heard
 
 Angels we have heard on high<br />
@@ -75,50 +29,29 @@ Him whose birth the angels sing,<br />
 Come, adore on bended knee,<br />
 Christ the Lord, the newborn King.<br />
 
-### O Come, All ye faithful
+### Christmas Polka
 
-Oh come ye, O come ye to Bethlehem;<br />
-Come and behold him<br />
-born the King of angels;<br />
+This is Christmas season so there isn't any reason<br />
+We can't dance the Christmas polka<br />
+Hear sleigh-bells ringing’<br />
+everybody's singing<br />
+Dancing the Christmas polka.<br />
 
-***Chorus:***<br />
-**O come, let us adore him,**<br />
-**O come, let us adore him,**<br />
-**O come, let us adore him,**<br />
-**Christ The Lord.**<br />
+Christmas trees and holly make everyone so jolly<br />
+And love just fills the air<br />
+It's a wonderful world for<br />
+a boy and a girl<br />
+While dancing the Christmas polka.<br />
 
-Sing choirs of angels,<br />
-sing in exultation<br />
-Sing all ye citizens of heaven above;<br />
-Glory to God, glory in the highest:<br />
-
-Yea, Lord, we greet thee,<br />
-born this happy morning;<br />
-Jesus, to thee be glory given;<br />
-Word of the Father,<br />
-now in flesh appearing.<br />
-
-### Silent Night
-
-All is calm, all is bright<br />
-Round yon Virgin, Mother and Child<br />
-Holy Infant so tender and mild<br />
-Sleep in heavenly peace<br />
-Sleep in heavenly peace.<br />
-
-Silent night, holy night<br />
-Shepherds quake at the sight<br />
-Glories stream from heaven afar<br />
-Heavenly hosts sing Alleluia<br />
-Christ the Saviour is born<br />
-Christ the Saviour is born.<br />
-
-Silent night, holy night<br />
-Son of God, love's pure light<br />
-Radiant beams from Thy holy face<br />
-With the dawn of redeeming grace<br />
-Jesus Lord, at Thy birth<br />
-Jesus Lord, at Thy birth.<br />
+A merry Christmas polka,<br />
+Let's dance, let's dance, let's dance<br />
+Everyone's so happy,<br />
+the air is filled with romance<br />
+Watch the sweethearts kissing'<br />
+As they dance underneath the mistletoe<br />
+It's a sight to behold for the<br />
+young and the old<br />
+A merry Christmas polka.<br />
 
 ### Dashing Through the Snow
 
@@ -163,16 +96,6 @@ We wanna wish you<br />
 a happy Christmas<br />
 From the bottom of our heart.<br />
 
-### We wish you a Happy Christmas
-
-We wish you a happy Christmas<br />
-And a happy New Year!<br />
-
-Good tidings we bring,<br />
-To you and your kin<br />
-Good tidings of Christmas,<br />
-And a happy New Year.<br />
-
 ### Go! Tell it on the Mountain
 
 Go, tell it on the mountain<br />
@@ -194,6 +117,97 @@ The shepherds feared and trembled<br />
 When, lo! Above the earth<br />
 Rang out the angel chorus<br />
 That hailed our Saviour’s birth.<br />
+
+### Hark! The herald angels sing
+
+Hark! the herald angels sing,<br />
+“Glory to the new-born King;<br />
+Peace on earth, and mercy mild;<br />
+God and sinners reconciled.”<br />
+Joyful, all ye nations, rise,<br />
+Join the triumph of the skies;<br />
+With angelic hosts proclaim,<br />
+“Christ is born in Bethlehem.”<br />
+
+Christ, by highest heav’n adored,<br />
+Christ, the everlasting Lord:<br />
+Late in time behold Him come,<br />
+Offspring of a virgin’s womb.<br />
+Veiled in flesh the Godhead see,<br />
+Hail th’ incarnate Deity!<br />
+Pleased as man with man to dwell,<br />
+Jesus our Immanuel.<br />
+
+### Joy to the world
+
+Joy to the world the Lord is come<br />
+Let earth receive her king<br />
+Let every heart prepare Him room<br />
+And heaven and nature sing<br />
+And heaven and nature sing<br />
+And heaven and Heaven<br />
+and nature sing.<br />
+
+Joy to the world the saviour reigns<br />
+Let men their songs employ<br />
+While fields and floods<br />
+rocks hills and plains<br />
+Repeat the sounding joy<br />
+Repeat the sounding joy<br />
+Repeat, repeat the sounding joy.<br />
+
+He rules the world<br />
+with truth and grace<br />
+And makes the nations prove<br />
+The glories of His righteousness<br />
+And wonders of His love<br />
+And wonders of His love<br />
+And wonders, wonders of His love.<br />
+
+### Long time ago in Bethlehem
+
+Long time ago in Bethlehem<br />
+So the Holy Bible say<br />
+Mary's boy child Jesus Christ<br />
+Was born on Christmas day.<br />
+
+Hark now hear the angels sing<br />
+A new king born today,<br />
+And man will live for evermore<br />
+Because of Christmas day.<br />
+
+Trumpets sound and angels sing<br />
+Listen what they say,<br />
+That man will live for evermore<br />
+Because of Christmas day.<br />
+
+Now Joseph and his wife Mary<br />
+Come to Bethlehem that night,<br />
+Then find no place to born the child<br />
+Not a single room was in sight.<br />
+
+### O Come, All ye faithful
+
+Oh come ye, O come ye to Bethlehem;<br />
+Come and behold him<br />
+born the King of angels;<br />
+
+***Chorus:***<br />
+**O come, let us adore him,**<br />
+**O come, let us adore him,**<br />
+**O come, let us adore him,**<br />
+**Christ The Lord.**<br />
+
+Sing choirs of angels,<br />
+sing in exultation<br />
+Sing all ye citizens of heaven above;<br />
+Glory to God, glory in the highest:<br />
+
+Yea, Lord, we greet thee,<br />
+born this happy morning;<br />
+Jesus, to thee be glory given;<br />
+Word of the Father,<br />
+now in flesh appearing.<br />
 
 ### Rudolph the Red nosed reindeer
 
@@ -217,48 +231,43 @@ As they shouted out with glee<br />
 “Rudolph the Red-Nosed Reindeer<br />
 You'll go down in history”.<br />
 
-### Christmas Polka
+### Silent Night
 
-This is Christmas season so there isn't any reason<br />
-We can't dance the Christmas polka<br />
-Hear sleigh-bells ringing’<br />
-everybody's singing<br />
-Dancing the Christmas polka.<br />
+All is calm, all is bright<br />
+Round yon Virgin, Mother and Child<br />
+Holy Infant so tender and mild<br />
+Sleep in heavenly peace<br />
+Sleep in heavenly peace.<br />
 
-Christmas trees and holly make everyone so jolly<br />
-And love just fills the air<br />
-It's a wonderful world for<br />
-a boy and a girl<br />
-While dancing the Christmas polka.<br />
+Silent night, holy night<br />
+Shepherds quake at the sight<br />
+Glories stream from heaven afar<br />
+Heavenly hosts sing Alleluia<br />
+Christ the Saviour is born<br />
+Christ the Saviour is born.<br />
 
-A merry Christmas polka,<br />
-Let's dance, let's dance, let's dance<br />
-Everyone's so happy,<br />
-the air is filled with romance<br />
-Watch the sweethearts kissing'<br />
-As they dance underneath the mistletoe<br />
-It's a sight to behold for the<br />
-young and the old<br />
-A merry Christmas polka.<br />
+Silent night, holy night<br />
+Son of God, love's pure light<br />
+Radiant beams from Thy holy face<br />
+With the dawn of redeeming grace<br />
+Jesus Lord, at Thy birth<br />
+Jesus Lord, at Thy birth.<br />
 
-### Long time ago in Bethlehem
+### We wish you a Happy Christmas
 
-Long time ago in Bethlehem<br />
-So the Holy Bible say<br />
-Mary's boy child Jesus Christ<br />
-Was born on Christmas day.<br />
+We wish you a happy Christmas<br />
+And a happy New Year!<br />
 
-Hark now hear the angels sing<br />
-A new king born today,<br />
-And man will live for evermore<br />
-Because of Christmas day.<br />
+Good tidings we bring,<br />
+To you and your kin<br />
+Good tidings of Christmas,<br />
+And a happy New Year.<br />
 
-Trumpets sound and angels sing<br />
-Listen what they say,<br />
-That man will live for evermore<br />
-Because of Christmas day.<br />
 
-Now Joseph and his wife Mary<br />
-Come to Bethlehem that night,<br />
-Then find no place to born the child<br />
-Not a single room was in sight.<br />
+
+
+
+
+
+
+
