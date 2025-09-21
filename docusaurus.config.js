@@ -78,7 +78,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'introduction',
+            docId: 'intro',
             position: 'left',
             label: 'About',
             to: '/hymn-lyrics/introduction/',

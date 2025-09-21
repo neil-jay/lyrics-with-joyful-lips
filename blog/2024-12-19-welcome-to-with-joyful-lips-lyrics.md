@@ -1,7 +1,6 @@
 ---
 slug: welcome-to-with-joyful-lips-lyrics
 title: Welcome to With Joyful Lips Lyrics - Your Complete Catholic Hymnal Resource
-authors: [neiljay]
 tags: [catholic-hymns, worship-music, with-joyful-lips, fr-jean-mercier]
 ---
 
