@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.2](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.4.1...v1.4.2) (2025-09-21)
+
+
+### Performance Improvements
+
+* SEO improvements ([bd8edc8](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/bd8edc8051a1361b29b26164fb60592f0325b46c))
+
+
+### Styling
+
+* update css component ([6a73a9d](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/6a73a9d3d64e59c5477763bb2e518226e996d0ff))
+
 ### [1.4.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.4.0...v1.4.1) (2025-01-03)
 
 
