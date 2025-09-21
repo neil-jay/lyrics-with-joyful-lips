@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.3](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.4.2...v1.4.3) (2025-09-21)
+
+
+### Bug Fixes
+
+* issue with author ([92f8207](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/92f8207157c3f5bf68b5e329b28f37bc3bf05df1))
+
 ### [1.4.2](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.4.1...v1.4.2) (2025-09-21)
 
 
