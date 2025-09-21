@@ -30,12 +30,24 @@ const config = {
           routeBasePath: 'hymn-lyrics',
           sidebarPath: require.resolve('./sidebars.js'),
         },
+        blog: {
+          showReadingTime: true,
+          readingTime: ({content, frontMatter, defaultReadingTime}) =>
+            defaultReadingTime({content, options: {wordsPerMinute: 300}}),
+          feedOptions: {
+            type: 'all',
+            title: 'With Joyful Lips Lyrics Blog',
+            description: 'Updates and insights about Catholic hymn lyrics and worship music',
+            copyright: '© 2024 With Joyful Lips Lyrics. All rights reserved.',
+            language: 'en',
+          },
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
         sitemap: {
           changefreq: 'weekly',
-          priority: 0.5,
+          priority: 0.8,
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
@@ -63,6 +75,18 @@ const config = {
             position: 'left',
             label: 'Browse Hymns',
             to: '/hymn-lyrics/introduction/',
+          },
+          {
+            type: 'doc',
+            docId: 'introduction',
+            position: 'left',
+            label: 'About',
+            to: '/hymn-lyrics/introduction/',
+          },
+          {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left',
           },
         ],
       },
@@ -94,10 +118,6 @@ const config = {
         {
           name: 'description',
           content: 'Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Access traditional Catholic hymns and songs for worship services, church presentations, and other celebrations.',
-        },
-        {
-          name: 'keywords',
-          content: 'with joyful lips lyrics, catholic hymn lyrics, Fr. Jean L. Mercier, church music, catholic hymns, catholic songs',
         },
         // Open Graph / Facebook
         {
@@ -156,7 +176,15 @@ const config = {
         },
         {
           name: 'robots',
-          content: 'index, follow, max-image-preview:large',
+          content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1',
+        },
+        {
+          name: 'googlebot',
+          content: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1',
+        },
+        {
+          name: 'bingbot',
+          content: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1',
         },
         // Mobile optimization
         {
@@ -171,6 +199,26 @@ const config = {
         {
           name: 'language',
           content: 'English',
+        },
+        {
+          name: 'geo.region',
+          content: 'US',
+        },
+        {
+          name: 'geo.placename',
+          content: 'United States',
+        },
+        {
+          name: 'distribution',
+          content: 'global',
+        },
+        {
+          name: 'rating',
+          content: 'general',
+        },
+        {
+          name: 'revisit-after',
+          content: '7 days',
         },
       ],
     }),
