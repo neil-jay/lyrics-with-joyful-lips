@@ -50,8 +50,7 @@ jobs:
             echo "No version found in package.json, initializing to 0.1.0"
             npm version 0.1.0 --no-git-tag-version
           fi
-          # Run standard-version but tell it to not create git tags - we'll do that later
-          npm run release -- --skip.tag true
+          npm run release -- --ci
           new_version=$(node -p "require('./package.json').version")
           echo "new_version=$new_version" >> $GITHUB_OUTPUT
 
@@ -59,7 +58,7 @@ jobs:
         id: changelog
         run: |
           # Get the latest version's changelog
-          CHANGELOG_CONTENT=$(awk '/^### \[/ {if (p) {exit}; if (!p) {p=1; next}} p' CHANGELOG.md | sed '/^### \[/d')
+          CHANGELOG_CONTENT=$(awk '/^##+ \[/ {if (p) {exit}; if (!p) {p=1; next}} p' CHANGELOG.md | sed '/^##+ \[/d')
           # Escape newlines and special characters for GitHub Actions
           CHANGELOG_CONTENT="${CHANGELOG_CONTENT//'%'/'%25'}"
           CHANGELOG_CONTENT="${CHANGELOG_CONTENT//$'\n'/'%0A'}"
