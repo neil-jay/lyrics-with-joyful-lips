@@ -6,6 +6,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://withjoyfullipslyrics.neiljay.com',
+	outDir: './build',
 	integrations: [
 		sitemap(),
 		starlight({
