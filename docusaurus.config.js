@@ -1,6 +1,5 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
-/** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "With Joyful Lips Lyrics",
   tagline: 'Catholic Hymnal by Fr. Jean L. Mercier',
