@@ -3,6 +3,13 @@
 
 # Production
 /build
+/dist
+
+# Astro
+/.astro
+
+# Legacy
+/legacy
 
 # Generated files
 .docusaurus
