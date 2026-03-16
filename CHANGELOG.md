@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.6.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.6.0...v1.6.1) (2026-03-16)
+
+### Bug Fixes
+
+* output build directory for cloudflare pages ([b80820e](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/b80820e5872d05301c6259a7f771938317f2b6cc))
+
 ## [1.6.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.5.3...v1.6.0) (2026-03-16)
 
 ### Features
