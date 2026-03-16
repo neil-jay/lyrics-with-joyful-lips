@@ -1,0 +1,90 @@
+---
+import EditLink from '@astrojs/starlight/components/EditLink.astro';
+import LastUpdated from '@astrojs/starlight/components/LastUpdated.astro';
+import Pagination from '@astrojs/starlight/components/Pagination.astro';
+---
+
+<footer class="sl-flex">
+	<div class="meta sl-flex">
+		<EditLink />
+		<LastUpdated />
+	</div>
+	<Pagination />
+	<div class="site sl-flex" aria-label="Site footer">
+		<nav class="links" aria-label="Site links">
+			<a href="/about/">About</a>
+			<a href="/terms/">Terms</a>
+			<a href="/copyright/">Copyright</a>
+			<a href="/blog/">Blog</a>
+		</nav>
+		<p class="copy">
+			© {new Date().getFullYear()} With Joyful Lips Lyrics · By{' '}
+			<a href="https://neiljay.com" target="_blank" rel="noopener noreferrer">neiljay</a>
+		</p>
+	</div>
+</footer>
+
+<style>
+	@layer starlight.core {
+		footer {
+			flex-direction: column;
+			gap: 1.5rem;
+		}
+
+		.meta {
+			gap: 0.75rem 3rem;
+			justify-content: space-between;
+			flex-wrap: wrap;
+			margin-top: 3rem;
+			font-size: var(--sl-text-sm);
+			color: var(--sl-color-gray-3);
+		}
+
+		.meta > :global(p:only-child) {
+			margin-inline-start: auto;
+		}
+
+		.site {
+			margin-top: 1rem;
+			padding-top: 1.25rem;
+			border-top: 1px solid var(--sl-color-hairline);
+			gap: 0.75rem;
+			align-items: center;
+			justify-content: space-between;
+			flex-wrap: wrap;
+			color: var(--sl-color-gray-3);
+			font-size: var(--sl-text-sm);
+		}
+
+		.links {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 0.75rem 1.25rem;
+		}
+
+		.links a {
+			color: inherit;
+			text-decoration: none;
+		}
+
+		.links a:hover {
+			color: var(--sl-color-white);
+			text-decoration: underline;
+		}
+
+		.copy {
+			margin: 0;
+		}
+
+		.copy a {
+			color: var(--sl-color-accent);
+			text-decoration: none;
+			font-weight: 650;
+		}
+
+		.copy a:hover {
+			color: var(--sl-color-white);
+			text-decoration: none;
+		}
+	}
+</style>

@@ -1,33 +1,29 @@
 {
   "name": "lyrics-with-joyful-lilps",
   "version": "1.5.2",
+  "type": "module",
   "private": true,
   "scripts": {
-    "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
-    "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
-    "clear": "docusaurus clear",
-    "serve": "docusaurus serve",
-    "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids",
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "check": "astro check",
+    "preview": "astro preview",
+    "astro": "astro",
     "release": "release-it"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.9.2",
-    "@docusaurus/preset-classic": "^3.9.2",
-    "@easyops-cn/docusaurus-search-local": "^0.55.1",
-    "@mdx-js/react": "^3.1.1",
-    "clsx": "^2.1.1",
-    "prism-react-renderer": "^2.4.1",
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "@astrojs/sitemap": "^3.7.1",
+    "@astrojs/starlight": "^0.38.1",
+    "astro": "^6.0.1",
+    "sharp": "^0.34.2"
   },
   "devDependencies": {
+    "@astrojs/check": "^0.9.8",
     "@release-it/conventional-changelog": "^10.0.6",
     "conventional-changelog-conventionalcommits": "^9.3.0",
-    "release-it": "^19.2.4"
+    "release-it": "^19.2.4",
+    "typescript": "^5.9.3"
   },
   "release-it": {
     "git": {
@@ -50,20 +46,7 @@
     }
   },
   "overrides": {
-    "serialize-javascript": "^7.0.4",
     "undici": "^6.24.1"
-  },
-  "browserslist": {
-    "production": [
-      ">0.5%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 3 chrome version",
-      "last 3 firefox version",
-      "last 5 safari version"
-    ]
   },
   "engines": {
     "node": ">=22.0"

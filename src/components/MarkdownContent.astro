@@ -1,0 +1,12 @@
+---
+import '@astrojs/starlight/style/markdown.css';
+import HymnCopyEnhancer from './HymnCopyEnhancer.astro';
+
+const pathname = Astro.url.pathname;
+const isHymnLyricsPage = pathname.startsWith('/hymn-lyrics/') && pathname !== '/hymn-lyrics/introduction/';
+---
+
+<div class="sl-markdown-content" data-hymn-lyrics={isHymnLyricsPage ? '' : undefined}>
+	<slot />
+	{isHymnLyricsPage && <HymnCopyEnhancer />}
+</div>
