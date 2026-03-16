@@ -1481,6 +1481,75 @@ I am the Life.<br />
 No one can come to the Father<br />
 But only through me.<br />
 
+### D 101 OH COME TO THE WATER
+***Chorus:***<br />
+**Oh come to the water,**<br />
+**all you who are thirsty**<br />
+**And drink, drink deeply.**<br />
+**Though you don’t have a penny**<br />
+**And your clothes are in rags,**<br />
+**You’ll be welcome to drink all you can.**<br />
+
+Come, take your choice of wine and milk;<br />
+Everything here is free!<br />
+Why spend your money on worthless food;<br />
+Everything here is free!<br />
+
+Now, listen well and you will find<br />
+Food that will feed your soul.<br />
+Just come to me to receive your share,<br />
+Food that will feed your soul.<br />
+
+I promise you good things to come:<br />
+You are my chosen ones.<br />
+I name you witness to my world:<br />
+You are my chosen ones.<br />
+
+### D 102 TASTE AND SEE
+***Chorus:***<br />
+**Taste and see how good our God can be,**<br />
+**O taste...(2)**<br />
+
+I will bless the Lord at all times:<br />
+My mouth will proclaim His praise,<br />
+My souls make its boast in the Lord, our God.<br />
+Let the humble hear and be glad.<br />
+
+Come, glorify the Lord with me.<br />
+Together let us praise His name.<br />
+Look to Him and grow bright in His radiant light.<br />
+And your face will never be ashamed.<br />
+
+The eyes of the Lord are on the just,<br />
+And His ear toward all their cries.<br />
+The Lord is near to the broken heart<br />
+And the crushed in spirit He saves.<br />
+
+### D 103 DO NOT WORRY: SEEK THE KINGDOM
+***Chorus:***<br />
+**Do not worry about your clothing,**<br />
+**your food and drink,**<br />
+**Seek the kingdom and**<br />
+**all the rest will be yours.**<br />
+
+Think of the ravens: how they neither<br />
+sow nor reap.<br />
+They need to build no barns, no house to store.<br />
+And yet your heavenly Father feeds and<br />
+protects them all.<br />
+Are you not worth much more than birds?<br />
+
+Think of the lilies of field, see how they grow.<br />
+Can even Solomon with them compare?<br />
+Yet not an anxious thought have they<br />
+to toil or spin.<br />
+Are you not worth much more than flow’rs?<br />
+
+Provide yourselves with never failing treasures,<br />
+Which thief cannot approach nor moth destroy.<br />
+Sell all that you possess and given in charity.<br />
+For where your treasure is, your heart will be.<br />
+
 ### D.104 MAKE ME A SERVANT
 ***Chorus:***<br />
 **Make me a servant, humble and meek.**<br />
