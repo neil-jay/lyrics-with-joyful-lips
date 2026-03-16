@@ -47,7 +47,7 @@
     ]
   },
   "engines": {
-    "node": ">=20.0"
+    "node": ">=22.0"
   },
   "keywords": [
     "with joyful lips",
