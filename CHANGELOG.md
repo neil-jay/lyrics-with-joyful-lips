@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.6.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.5.3...v1.6.0) (2026-03-16)
+
+### Features
+
+* migrate to astro starlight ([4621c65](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/4621c65cd2e59590732d783c18b131b5c870af75))
+
 ## [1.5.3](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.5.2...v1.5.3) (2026-03-16)
 
 ## [1.5.2](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.5.0...v1.5.2) (2026-03-16)
