@@ -13,6 +13,7 @@ export default defineConfig({
 			title: 'With Joyful Lips Lyrics',
 			description:
 				'Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Access hymns for worship services and church presentations.',
+			favicon: '/img/favicon.ico',
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/neil-jay/lyrics-with-joyful-lips' },
 			],
