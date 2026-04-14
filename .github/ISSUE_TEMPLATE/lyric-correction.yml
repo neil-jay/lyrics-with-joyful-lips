@@ -1,0 +1,36 @@
+name: Lyric correction
+description: Report a typo, formatting issue, or transcription error in hymn content.
+title: "Lyric correction: "
+labels:
+  - content
+body:
+  - type: input
+    id: page_url
+    attributes:
+      label: Page URL
+      description: Link to the hymn page on the site (or the file path in the repo).
+      placeholder: https://withjoyfullipslyrics.neiljay.com/...
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What’s wrong?
+      description: Describe the problem (typo, missing verse, wrong heading, order, etc.).
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_fix
+    attributes:
+      label: Proposed correction
+      description: Paste the corrected text exactly as it should appear.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source verification
+      description: How did you verify this against the printed source? (Page reference is welcome; don’t add it to the lyric files.)
+    validations:
+      required: false

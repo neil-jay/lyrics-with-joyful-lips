@@ -1,0 +1,43 @@
+name: Bug report
+description: Report a problem with the site UI, build, or deployed behavior.
+title: "Bug: "
+labels:
+  - bug
+body:
+  - type: input
+    id: page_url
+    attributes:
+      label: Page URL
+      description: Where did this happen?
+      placeholder: https://withjoyfullipslyrics.neiljay.com/...
+    validations:
+      required: true
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: What happened?
+      description: Include steps to reproduce and what you expected instead.
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      placeholder: Chrome 123 / Safari 17 / Firefox 125
+    validations:
+      required: false
+  - type: input
+    id: device
+    attributes:
+      label: Device / OS
+      placeholder: Windows 11 / macOS 15 / iOS 18 / Android 15
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Console logs (optional)
+      description: Paste any relevant console output. Please redact personal data.
+      render: shell
+    validations:
+      required: false
