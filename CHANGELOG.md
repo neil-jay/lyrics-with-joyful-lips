@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.6.4...v1.7.0) (2026-04-14)
+
+### Features
+
+* **hymn:** show green tick after copy ([fdb2e77](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/fdb2e77e434d70f2862454ab2651f72a7ea20a85))
+
 ## [1.6.4](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.6.3...v1.6.4) (2026-04-14)
 
 ## [1.6.3](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.6.2...v1.6.3) (2026-04-14)
