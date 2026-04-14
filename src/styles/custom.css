@@ -90,29 +90,12 @@ html[data-has-hero] .hero .actions {
 }
 
 .sl-markdown-content[data-hymn-lyrics] .sl-heading-wrapper.level-h3 .sl-anchor-link[data-copied="true"] {
-  color: var(--sl-color-white);
+  color: #22c55e;
 }
 
 .sl-markdown-content[data-hymn-lyrics] .sl-heading-wrapper.level-h3 .sl-anchor-link {
   opacity: 1;
   position: relative;
-}
-
-.sl-markdown-content[data-hymn-lyrics] .sl-heading-wrapper.level-h3 .sl-anchor-link[data-copied="true"]::after {
-  content: attr(data-copied-text);
-  position: absolute;
-  right: 100%;
-  top: 50%;
-  transform: translate(-0.5rem, -50%);
-  padding: 0.2rem 0.45rem;
-  border: 1px solid var(--sl-color-hairline);
-  border-radius: 0.5rem;
-  background: color-mix(in oklab, var(--sl-color-gray-6), transparent 25%);
-  color: var(--sl-color-white);
-  font-size: var(--sl-text-xs);
-  font-weight: 650;
-  white-space: nowrap;
-  pointer-events: none;
 }
 
 .home-section {

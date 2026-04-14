@@ -2,6 +2,8 @@
 	(() => {
 		const copyIconSvg =
 			'<svg width="16" height="16" viewBox="0 0 24 24"><path fill="currentColor" d="M16 1H6a2 2 0 0 0-2 2v12h2V3h10V1Zm3 4H10a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2Zm0 16H10V7h9v14Z"/></svg>';
+		const copiedIconSvg =
+			'<svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M20 6L9 17l-5-5" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
 		const isClipboardApiAvailable = () =>
 			typeof navigator !== 'undefined' && Boolean(navigator.clipboard?.writeText);
@@ -59,11 +61,15 @@
 			return normalizeFinal(parts.join('\n\n'));
 		};
 
-		const setCopiedState = (anchor) => {
+		const setCopiedState = (anchor, icon) => {
 			anchor.dataset.copied = 'true';
 			window.setTimeout(() => {
-				if (anchor.dataset.copied === 'true') delete anchor.dataset.copied;
+				if (anchor.dataset.copied === 'true') {
+					delete anchor.dataset.copied;
+					if (icon) icon.innerHTML = copyIconSvg;
+				}
 			}, 1200);
+			if (icon) icon.innerHTML = copiedIconSvg;
 		};
 
 		const decorate = (headingWrapper) => {
@@ -74,7 +80,6 @@
 			if (!heading || !anchor || !icon) return;
 			if (anchor.dataset.copyEnhanced === 'true') return;
 			anchor.dataset.copyEnhanced = 'true';
-			anchor.dataset.copiedText = 'Hymn copied';
 
 			anchor.setAttribute('title', 'Copy lyrics');
 			anchor.setAttribute('aria-label', 'Copy lyrics');
@@ -97,7 +102,7 @@
 					} else {
 						await copyTextFallback(text);
 					}
-					setCopiedState(anchor);
+					setCopiedState(anchor, icon);
 				} catch {}
 			});
 		};
