@@ -633,6 +633,16 @@ As I live from day to day,<br />
 And his joy will never end<br />
 And in heaven it will extend.<br />
 
+All injustice, hate and strife,<br />
+Sins of malice, sex and pride,<br />
+Stem from men who’ve never known<br />
+Where the seeds of peace were sown.<br />
+
+All the world’s in search of peace<br />
+But from sin they’ll never cease,<br />
+How can they expect to find<br />
+Inner joys and peace of mind?<br />
+
 Christ has risen from the dead,<br />
 Triumphed over sin and death,<br />
 And he’ll never die again<br />
