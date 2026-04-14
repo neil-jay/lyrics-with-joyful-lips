@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.3](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.2...v1.7.3) (2026-04-14)
+
+### Bug Fixes
+
+* restore hymn copy enhancer with CSP ([49187f9](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/49187f91b409f73c099d4067daaa2b322e6703b1))
+
 ## [1.7.2](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.1...v1.7.2) (2026-04-14)
 
 ### Bug Fixes
