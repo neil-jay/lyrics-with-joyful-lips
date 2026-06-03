@@ -56,8 +56,7 @@ export default defineConfig({
 				'hymn-lyrics/virgin-mary-hymns',
 				{
 					label: 'Blog',
-					collapsed: true,
-					autogenerate: { directory: 'blog' },
+					items: [{ autogenerate: { directory: 'blog', collapsed: true } }],
 				},
 				{ label: 'Terms', slug: 'terms' },
 				{ label: 'Copyright', slug: 'copyright' },

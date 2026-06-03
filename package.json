@@ -13,17 +13,17 @@
     "release": "release-it"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.7.2",
-    "@astrojs/starlight": "^0.38.3",
-    "astro": "^6.1.6",
+    "@astrojs/sitemap": "^3.7.3",
+    "@astrojs/starlight": "^0.39.3",
+    "astro": "^6.4.3",
     "sharp": "^0.34.5"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.8",
-    "@release-it/conventional-changelog": "^10.0.6",
+    "@astrojs/check": "^0.9.9",
+    "@release-it/conventional-changelog": "^11.0.1",
     "conventional-changelog-conventionalcommits": "^9.3.1",
-    "release-it": "^19.2.4",
-    "typescript": "^5.9.3"
+    "release-it": "^20.2.0",
+    "typescript": "^6.0.3"
   },
   "release-it": {
     "git": {
@@ -46,8 +46,8 @@
     }
   },
   "overrides": {
-    "undici": "^8.1.0",
-    "yaml": "^2.8.3"
+    "undici": "^8.3.0",
+    "yaml": "^2.9.0"
   },
   "engines": {
     "node": ">=22.0"
