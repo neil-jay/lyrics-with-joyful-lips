@@ -1530,6 +1530,11 @@ And His ear toward all their cries.<br />
 The Lord is near to the broken heart<br />
 And the crushed in spirit He saves.<br />
 
+O taste and see the Lord is good,<br />
+And happy are all who trust in Him.<br />
+O fear the Lord, you his holy ones,<br />
+Trust in Him and lack no good things.<br />
+
 ### D 103 DO NOT WORRY: SEEK THE KINGDOM
 ***Chorus:***<br />
 **Do not worry about your clothing,**<br />
