@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.10](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.9...v1.7.10) (2026-06-21)
+
+### Bug Fixes
+
+* **deps:** override esbuild to >=0.28.1 to resolve Windows arbitrary file read vulnerability ([15e2d48](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/15e2d48022cba5be12efba216beb2eb74c65543b))
+
 ## [1.7.9](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.8...v1.7.9) (2026-06-21)
 
 ## [1.7.8](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.7...v1.7.8) (2026-06-20)
