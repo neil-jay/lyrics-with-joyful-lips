@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.11](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.10...v1.7.11) (2026-06-21)
+
+### Bug Fixes
+
+* **security:** update CSP to use 'unsafe-inline' for scripts and allow Google Fonts stylesheet ([0904f0b](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/0904f0b75424e002e5bd51f5ff365a2e40011b16))
+
 ## [1.7.10](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.9...v1.7.10) (2026-06-21)
 
 ### Bug Fixes
