@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.13](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.12...v1.7.13) (2026-06-21)
+
+### Bug Fixes
+
+* **content:** quote hymn page descriptions in frontmatter ([519c77e](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/519c77efba5e0bc20440ad3ef81ae696cd36f780))
+
 ## [1.7.12](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.11...v1.7.12) (2026-06-21)
 
 ## [1.7.11](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.10...v1.7.11) (2026-06-21)
