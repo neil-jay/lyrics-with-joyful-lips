@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.7.12](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.11...v1.7.12) (2026-06-21)
+
 ## [1.7.11](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.10...v1.7.11) (2026-06-21)
 
 ### Bug Fixes
