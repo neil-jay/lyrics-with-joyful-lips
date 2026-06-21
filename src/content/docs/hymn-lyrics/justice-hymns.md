@@ -1,6 +1,6 @@
 ---
 title: Justice Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+description: Hymn lyrics: J.2 DEEP IN THE HUMAN HEART, J.3 LORD, WE PRAY FOR GOLDEN PEACE, J.4 MAKE US TRUE PEOPLE, J.5 GOD LOVES THE POOR, J.6 CHOOSE LIFE and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### J.2 DEEP IN THE HUMAN HEART

@@ -1,6 +1,6 @@
 ---
 title: Pentecost and Holy Spirit Lyrics
-description: Lyrics from With Joyful Lips for Pentecost and Holy Spirit. Catholic hymns by Fr. Jean L. Mercier.
+description: Hymn lyrics: K.5 SPLENDOUR OF CREATION / Psalm 103, K.6 BEHOLD AMONG US, (K)K.8 FROM THE CITIES, K.10 THE SPIRIT OF THE LORD, K.12 SPIRIT OF THE LIVING GOD, K.13 HOLY SPIRIT LORD, K.14 SEND FORTH YOUR SPIRIT / Psalm 103, K.17 ALL OVER THE WORLD and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### K.5 SPLENDOUR OF CREATION / Psalm 103

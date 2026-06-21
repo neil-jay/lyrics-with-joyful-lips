@@ -1,6 +1,6 @@
 ---
 title: Christmas Carol Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+description: Hymn lyrics: Angels we have heard, Christmas Polka, Dashing Through the Snow, Feliz Navidad, Go! Tell it on the Mountain, Hark! The herald angels sing, Joy to the world, Long time ago in Bethlehem and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### Angels we have heard

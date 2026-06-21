@@ -1,6 +1,6 @@
 ---
 title: Sacred Heart Lyrics
-description: Lyrics from With Joyful Lips about Jesus Christ and Sacred Heart. Catholic hymns by Fr. Jean L. Mercier.
+description: Hymn lyrics: M.2 BEND YOUR NECK TO MY YOKE / Psalm 33, M.4 CHRIST, REDEEMER KING, M.5 SING, MY TONGUE, M.7 PRIESTLY PEOPLE, M.11 YOU HAVE EVERYTHING, M.13 COME TO ME, M.14 JESUS IS WONDERFUL, M.15 JESUS and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### M.2 BEND YOUR NECK TO MY YOKE / Psalm 33

@@ -1,6 +1,6 @@
 ---
 title: Lord's Prayer Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+description: Hymn lyrics: Y.1 Lord's Prayer and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### Y.1 Lord's Prayer

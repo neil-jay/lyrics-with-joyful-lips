@@ -1,6 +1,6 @@
 ---
 title: Saints Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+description: Hymn lyrics: U.5 TRUST IN THE LORD and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### U.5 TRUST IN THE LORD

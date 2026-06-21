@@ -1,6 +1,6 @@
 ---
 title: Common Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+description: Hymn lyrics: Lord O Lord, O Lord Have Mercy, Glory to God, Lord I Want to, What a Friend We Have in Jesus and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### Lord O Lord, O Lord Have Mercy

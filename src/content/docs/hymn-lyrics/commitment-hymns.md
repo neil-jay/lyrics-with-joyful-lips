@@ -1,6 +1,6 @@
 ---
 title: Commitment and Holy Orders Lyrics
-description: Lyrics from With Joyful Lips for commitment and holy orders. Catholic hymns by Fr. Jean L. Mercier.
+description: Hymn lyrics: N.1 FROM MY HEART BREAKS FORTH, N.5 TAKE AND RECEIVE, N.8 TAKE UP YOUR CROSS, N.9 GIVE ME JOY, N.10 OH, THE LOVE OF MY LORD, N.11 COME, LORD JESUS, COME, N.14 ALL FOR YOU, N.17 LORD, YOU HAVE TOUCHED MY HEART and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 ### N.1 FROM MY HEART BREAKS FORTH
 ***Chorus:***<br />

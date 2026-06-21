@@ -1,6 +1,6 @@
 ---
 title: Departed Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+description: Hymn lyrics: R.1 GIVE ETERNAL REST, R.3 THIS DAY YOU SHALL BE WITH ME / PSALM 114, R.8 INTO YOUR HANDS, O LORD, R.9 ETERNAL REST, R.10 MAY THE ANGELS GO WITH YOU, R.11 A VOICE SPOKE and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### R.1 GIVE ETERNAL REST

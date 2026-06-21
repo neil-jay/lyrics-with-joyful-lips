@@ -1,6 +1,6 @@
 ---
 title: Communion Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+description: Hymn lyrics: DD.1 THIS IS MY COMMANDMENT, DD.2 WE HAVE KNOWN GOD'S LOVE, D.3 PRAYER FOR UNITY, DD.4 O LORD, FURNACE OF LOVE, D.6 I'VE RECEIVED THE LIVING BREAD, D.9 I AM THE GOOD SHEPHERD, D.10 THERE WILL BE ONE SHEPHERD, D.11 WHERE LOVE AND CHARITY and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### DD.1 THIS IS MY COMMANDMENT

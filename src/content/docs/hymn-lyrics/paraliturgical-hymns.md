@@ -1,6 +1,6 @@
 ---
 title: Paraliturgical Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+description: Hymn lyrics: Q.3 THE LORD IS HERE, Q.4 IT'S UP TO ME, Q.10 IN NEED OF LIBERATION, Q.11 ASK AND YOU WILL RECEIVE, Q.12 CAST YOUR CARE UPON THE LORD, Q.14 LISTEN, LISTEN, Q.20 PUT A LITTLE MORE OF JESUS and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### Q.3 THE LORD IS HERE

@@ -1,6 +1,6 @@
 ---
 title: Thanksgiving Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+description: Hymn lyrics: C.1 THIS IS THE DAY, C.4 THERE ARE NUMEROUS STRINGS, (C)C.5 I WILL SING GOD'S PRAISES / Psalm 22, CC.6 GREAT INDEED ARE YOUR WORKS, C.11 HEAVEN AND EARTH, C.17 I WILL SING TO MY GOD / Psalm 145, C.22 ALLELUIA, PRAISE THE LORD / Psalm 150, C.24 ALL THINGS BRIGHT AND BEAUTIFUL and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### C.1 THIS IS THE DAY

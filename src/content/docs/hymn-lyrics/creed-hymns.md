@@ -1,6 +1,6 @@
 ---
 title: Creed, Glory to God Hymns Lyrics
-description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
+description: Hymn lyrics: V.28 YES, LORD, WE BELIEVE, V.39 GLORY WE SING, VV.55 GLORY TO GOD, V.68 GLORY, GLORY and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### V.28 YES, LORD, WE BELIEVE

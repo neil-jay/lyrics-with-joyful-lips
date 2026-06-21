@@ -1,6 +1,6 @@
 ---
 title: Easter and Baptism Lyrics
-description: Lyrics from With Joyful Lips for Easter and baptism celebrations. Catholic hymns by Fr. Jean L. Mercier.
+description: Hymn lyrics: I.1 KEEP IN MIND, I.2 ALL YOU NATIONS / Psalm 65, I.3 CHRIST OUR SAVIOUR HAS RISEN, I.4 ALLELUIA! CHRIST HAS RISEN, I.7 THE SPOTLESS ROBE OF CHRIST, I.8 GOD REIGNS!, I.11 ALLELUIA, THE STRIFE IS OVER, I.12 WAKE UP, ARISE ALL YOU WHO SLEEP and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### I.1 KEEP IN MIND

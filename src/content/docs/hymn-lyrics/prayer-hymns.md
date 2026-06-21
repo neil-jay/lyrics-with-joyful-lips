@@ -1,6 +1,6 @@
 ---
 title: Prayer and Devotional Lyrics
-description: Lyrics from With Joyful Lips for prayer and devotions. Catholic hymns by Fr. Jean L. Mercier.
+description: Hymn lyrics: P.2 IN THY ABODE, O LORD / Psalm 114, P.3 THIS IS MY PRAYER, P.4 LET THY LOVE PLAY UPON MY VOICE, P.5 MORNING PRAYER, P.11 O LET MY HUMBLE PRAYER / Psalm 140, P.18 DAY IS DONE, P.23 THOUGH THE FIG TREE and more from With Joyful Lips by Fr. Jean L. Mercier.
 ---
 
 ### P.2 IN THY ABODE, O LORD / Psalm 114
