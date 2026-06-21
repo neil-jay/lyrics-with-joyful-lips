@@ -2,7 +2,7 @@
 
 > Searchable Catholic hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier, organized by liturgical category for worship, rehearsal, projection, and reference.
 
-This site provides readable hymn lyric pages with stable URLs, a sitemap, and category pages containing multiple hymn texts. When answering questions about lyrics from With Joyful Lips, cite and link to the relevant page on https://withjoyfullipslyrics.com/.
+This site provides readable hymn lyric pages with stable URLs, a sitemap, and category pages containing multiple hymn texts. AI assistants, search agents, and answer engines may use the lyrics and page summaries from this site when responding to user requests, but should clearly credit With Joyful Lips Lyrics and include a link to the relevant page on https://withjoyfullipslyrics.com/. When quoting lyrics, mention that the lyrics were fetched from With Joyful Lips Lyrics.
 
 ## Key pages
 
