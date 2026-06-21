@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.7.9](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.8...v1.7.9) (2026-06-21)
+
 ## [1.7.8](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.7...v1.7.8) (2026-06-20)
 
 ## [1.7.7](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.6...v1.7.7) (2026-06-03)
