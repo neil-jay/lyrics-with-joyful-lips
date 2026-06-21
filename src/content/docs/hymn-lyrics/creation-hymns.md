@@ -1,6 +1,6 @@
 ---
 title: Creation and Trinity Lyrics
-description: Hymn lyrics: L.2 WONDERFUL AND GREAT, L.4 GREAT IS THE LORD / Psalm 92, L.11 WE PRAISE THE LIVING GOD, L.12 GLORY TO THE FATHER, L.13 BE STILL AND KNOW, L.17 FOR YOU ARE MY GOD, L.19 WE SEE THE LORD, L.20 HOW GREAT IS OUR GOD and more from With Joyful Lips by Fr. Jean L. Mercier.
+description: "Hymn lyrics: L.2 WONDERFUL AND GREAT, L.4 GREAT IS THE LORD / Psalm 92, L.11 WE PRAISE THE LIVING GOD, L.12 GLORY TO THE FATHER, L.13 BE STILL AND KNOW, L.17 FOR YOU ARE MY GOD, L.19 WE SEE THE LORD, L.20 HOW GREAT IS OUR GOD and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
 ### L.2 WONDERFUL AND GREAT

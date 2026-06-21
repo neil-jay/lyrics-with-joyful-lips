@@ -1,6 +1,6 @@
 ---
 title: Lent, Penance Hymns Lyrics
-description: Hymn lyrics: G.1 YES, I SHALL ARISE, G.2 O LORD, BE NOT MINDFUL, G.5 ACCEPT ME, MY LORD, G.7 MOTHER OF GOD, PLEAD WITH YOUR SON, G.11 GRANT TO US, G.12 RETURN, O LORD / Psalm 6, G.13 HAVE MERCY, HEAL ME / Psalm 40, G.16 ALL YOU THAT LABOUR and more from With Joyful Lips by Fr. Jean L. Mercier.
+description: "Hymn lyrics: G.1 YES, I SHALL ARISE, G.2 O LORD, BE NOT MINDFUL, G.5 ACCEPT ME, MY LORD, G.7 MOTHER OF GOD, PLEAD WITH YOUR SON, G.11 GRANT TO US, G.12 RETURN, O LORD / Psalm 6, G.13 HAVE MERCY, HEAL ME / Psalm 40, G.16 ALL YOU THAT LABOUR and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
 ### G.1 YES, I SHALL ARISE

@@ -1,6 +1,6 @@
 ---
 title: Entrance Hymn Lyrics
-description: Hymn lyrics: A.1 JOY WAS IN MY HEART / Psalm 121, A(A).4 I WILL TURN MY STEPS, A.7 ALL THE EARTH, A.15 LONGING FOR GOD, AA.17 ALL PEOPLES OF THE UNIVERSE /Psalm 99, A.22 YOUR WORDS, O LORD, AA.25 OUR JOY, O LORD, IS IN YOU, A.26 COME, MY (BROTHERS) / Psalm 94 and more from With Joyful Lips by Fr. Jean L. Mercier.
+description: "Hymn lyrics: A.1 JOY WAS IN MY HEART / Psalm 121, A(A).4 I WILL TURN MY STEPS, A.7 ALL THE EARTH, A.15 LONGING FOR GOD, AA.17 ALL PEOPLES OF THE UNIVERSE /Psalm 99, A.22 YOUR WORDS, O LORD, AA.25 OUR JOY, O LORD, IS IN YOU, A.26 COME, MY (BROTHERS) / Psalm 94 and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 ### A.1 JOY WAS IN MY HEART / Psalm 121
 ***Chorus:***<br />

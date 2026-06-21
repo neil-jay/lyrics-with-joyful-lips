@@ -1,6 +1,6 @@
 ---
 title: Christmas, Epiphany Hymns Lyrics
-description: Hymn lyrics: F.3 GLORY TO GOD ON HIGH / Psalm 88, F.7 BE BORN IN US, F.11 REJOICE FOR CHRIST HAS COME / Psalm 97, F.12 SOMEWHERE FAR, F.15 THE LIGHT OF CHRIST, F.16 FOR UNTO US A CHILD IS BORN, F.40 A LIGHT HAS SHONE, F.41 IN HIM IS LIFE and more from With Joyful Lips by Fr. Jean L. Mercier.
+description: "Hymn lyrics: F.3 GLORY TO GOD ON HIGH / Psalm 88, F.7 BE BORN IN US, F.11 REJOICE FOR CHRIST HAS COME / Psalm 97, F.12 SOMEWHERE FAR, F.15 THE LIGHT OF CHRIST, F.16 FOR UNTO US A CHILD IS BORN, F.40 A LIGHT HAS SHONE, F.41 IN HIM IS LIFE and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
 ### F.3 GLORY TO GOD ON HIGH / Psalm 88
