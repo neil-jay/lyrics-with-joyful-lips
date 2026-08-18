@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.7.14](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.13...v1.7.14) (2026-08-18)
+
+### Build System
+
+* **deps:** update npm packages to latest stable versions
+  - astro: 6.4.8 -> 7.2.3
+  - @astrojs/starlight: 0.40.0 -> 0.41.7
+  - @astrojs/check: 0.9.9 -> 0.9.10
+  - sharp: 0.35.2 -> 0.35.3
+  - @release-it/conventional-changelog: 11.0.1 -> 12.0.0
+  - conventional-changelog-conventionalcommits: 9.3.1 -> 10.3.0
+  - release-it: 20.2.0 -> 21.0.2
+  - typescript: held at 6.x (7.x breaks astro check programmatic API)
+
 ## [1.7.13](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.12...v1.7.13) (2026-06-21)
 
 ### Bug Fixes
