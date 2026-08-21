@@ -53,6 +53,17 @@ jobs:
           npm run release -- --ci
           new_version=$(node -p "require('./package.json').version")
           echo "new_version=$new_version" >> $GITHUB_OUTPUT
+          # Only tag/release when the version actually changed. release-it
+          # does not bump when there are no qualifying commits since the
+          # last tag, so re-running the tag step on an unchanged version
+          # fails with "tag already exists".
+          if [ "$new_version" != "${{ steps.current_version.outputs.current_version }}" ]; then
+            echo "should_release=true" >> $GITHUB_OUTPUT
+            echo "Version bumped: ${{ steps.current_version.outputs.current_version }} -> $new_version"
+          else
+            echo "should_release=false" >> $GITHUB_OUTPUT
+            echo "No version change ($new_version); skipping tag and release."
+          fi
 
       - name: Extract changelog for release
         id: changelog
@@ -68,21 +79,25 @@ jobs:
           echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Create Git tag
+        if: steps.release.outputs.should_release == 'true'
         run: |
           git tag -a "v${{ steps.release.outputs.new_version }}" -m "Release v${{ steps.release.outputs.new_version }}"
 
       - name: Commit changes
+        if: steps.release.outputs.should_release == 'true'
         run: |
           git add .
           git commit -m "chore(release): ${{ steps.release.outputs.new_version }}" || echo "No changes to commit"
 
       - name: Push changes
+        if: steps.release.outputs.should_release == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git push --follow-tags origin ${{ github.ref }} || (git pull --rebase origin ${{ github.ref }} && git push --follow-tags origin ${{ github.ref }})
 
       - name: Create GitHub Release
+        if: steps.release.outputs.should_release == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
