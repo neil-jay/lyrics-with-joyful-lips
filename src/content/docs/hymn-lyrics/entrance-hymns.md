@@ -512,6 +512,11 @@ Who lives within our Land.<br />
 We too must love the alien<br />
 And give him a helping hand.<br />
 
+So fear the Lord and serve him,<br />
+Hold him fast He is your praise.<br />
+For your own eyes have marvelled<br />
+At the wonder of his ways.<br />
+
 So serve the Lord and always,<br />
 His law of justice keep<br />
 And teach it to your children<br />
