@@ -24,6 +24,16 @@ npm run check
 
 Content lives in [src/content/docs](file:///e:/GitHub/lyrics-with-joyful-lips/src/content/docs).
 
+## Deployment
+
+This site is a fully static Astro build deployed to **Cloudflare Workers** (static assets). The build output in `./build` is served via Workers Static Assets, configured in `wrangler.jsonc`. Production deployments are handled through Cloudflare's Git integration (push to `main`).
+
+To deploy manually:
+
+```bash
+npm run deploy
+```
+
 ## Providing Feedback
 We strive to ensure that every lyric is accurately typed and formatted, but occasional errors may arise. If you spot any inaccuracies or have suggestions, please feel free to reach out and share your feedback. Your input helps us improve the quality and reliability of Joyful Lyrics for everyone in the community.
 
