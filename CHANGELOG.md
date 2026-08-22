@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.7.17](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.16...v1.7.17) (2026-08-22)
+
+### Bug Fixes
+
+* **release:** include all conventional commit types ([88721c1](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/88721c1c39140e3f544d841b8f9ca59c03a4ae44))
+
+### Maintenance
+
+* **deploy:** migrate from Cloudflare Pages to Workers ([d036868](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/d036868b22f26098c0acbd2b091eb59eff84fbe7))
+* **release:** 1.7.16 ([4c657c2](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/4c657c2bfdb07615a372a13f2ad1a952901d4e8d))
+
 ## [1.7.16](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.15...v1.7.16) (2026-08-22)
 
 ### Bug Fixes

@@ -1,6 +1,6 @@
 {
   "name": "lyrics-with-joyful-lilps",
-  "version": "1.7.16",
+  "version": "1.7.17",
   "type": "module",
   "private": true,
   "scripts": {
@@ -47,18 +47,66 @@
         "preset": {
           "name": "conventionalcommits",
           "types": [
-            { "type": "feat", "section": "Features", "effect": "bump" },
-            { "type": "feature", "section": "Features", "effect": "bump" },
-            { "type": "fix", "section": "Bug Fixes", "effect": "bump" },
-            { "type": "docs", "section": "Documentation", "effect": "bump" },
-            { "type": "style", "section": "Styling", "effect": "bump" },
-            { "type": "refactor", "section": "Code Refactoring", "effect": "bump" },
-            { "type": "perf", "section": "Performance Improvements", "effect": "bump" },
-            { "type": "test", "section": "Tests", "effect": "bump" },
-            { "type": "build", "section": "Build System", "effect": "bump" },
-            { "type": "ci", "section": "CI", "effect": "bump" },
-            { "type": "chore", "section": "Maintenance", "effect": "bump" },
-            { "type": "revert", "section": "Reverts", "effect": "bump" }
+            {
+              "type": "feat",
+              "section": "Features",
+              "effect": "bump"
+            },
+            {
+              "type": "feature",
+              "section": "Features",
+              "effect": "bump"
+            },
+            {
+              "type": "fix",
+              "section": "Bug Fixes",
+              "effect": "bump"
+            },
+            {
+              "type": "docs",
+              "section": "Documentation",
+              "effect": "bump"
+            },
+            {
+              "type": "style",
+              "section": "Styling",
+              "effect": "bump"
+            },
+            {
+              "type": "refactor",
+              "section": "Code Refactoring",
+              "effect": "bump"
+            },
+            {
+              "type": "perf",
+              "section": "Performance Improvements",
+              "effect": "bump"
+            },
+            {
+              "type": "test",
+              "section": "Tests",
+              "effect": "bump"
+            },
+            {
+              "type": "build",
+              "section": "Build System",
+              "effect": "bump"
+            },
+            {
+              "type": "ci",
+              "section": "CI",
+              "effect": "bump"
+            },
+            {
+              "type": "chore",
+              "section": "Maintenance",
+              "effect": "bump"
+            },
+            {
+              "type": "revert",
+              "section": "Reverts",
+              "effect": "bump"
+            }
           ]
         }
       }
