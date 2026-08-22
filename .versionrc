@@ -1,15 +1,17 @@
 {
   "types": [
-    {"type": "feat", "section": "Features"},
-    {"type": "fix", "section": "Bug Fixes"},
-    {"type": "docs", "section": "Documentation"},
-    {"type": "style", "section": "Styling"},
-    {"type": "refactor", "section": "Code Refactoring"},
-    {"type": "perf", "section": "Performance Improvements"},
-    {"type": "test", "section": "Tests"},
-    {"type": "build", "section": "Build System"},
-    {"type": "ci", "section": "CI"},
-    {"type": "chore", "hidden": true}
+    {"type": "feat", "section": "Features", "effect": "bump"},
+    {"type": "feature", "section": "Features", "effect": "bump"},
+    {"type": "fix", "section": "Bug Fixes", "effect": "bump"},
+    {"type": "docs", "section": "Documentation", "effect": "bump"},
+    {"type": "style", "section": "Styling", "effect": "bump"},
+    {"type": "refactor", "section": "Code Refactoring", "effect": "bump"},
+    {"type": "perf", "section": "Performance Improvements", "effect": "bump"},
+    {"type": "test", "section": "Tests", "effect": "bump"},
+    {"type": "build", "section": "Build System", "effect": "bump"},
+    {"type": "ci", "section": "CI", "effect": "bump"},
+    {"type": "chore", "section": "Maintenance", "effect": "bump"},
+    {"type": "revert", "section": "Reverts", "effect": "bump"}
   ],
   "commitUrlFormat": "https://github.com/neil-jay/lyrics-with-joyful-lips/commit/{{hash}}",
   "compareUrlFormat": "https://github.com/neil-jay/lyrics-with-joyful-lips/compare/{{previousTag}}...{{currentTag}}",
