@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.16](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.15...v1.7.16) (2026-08-22)
+
+### Bug Fixes
+
+* **seo:** shorten meta descriptions to 25-160 characters for Bing compliance ([8b1014a](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/8b1014aba69860669bb4977c6a6b3b9f36d100b8))
+
 ## [1.7.15](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.14...v1.7.15) (2026-08-22)
 
 ### Bug Fixes
