@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.15](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.14...v1.7.15) (2026-08-22)
+
+### Bug Fixes
+
+* **seo:** improve title consistency, heading hierarchy, and social metadata ([364f520](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/364f52063fd93e3c531075599bb5b3444891ba09))
+
 ## [1.7.14](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.13...v1.7.14) (2026-08-18)
 
 ### Build System
