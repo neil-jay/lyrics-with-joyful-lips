@@ -1,6 +1,6 @@
 ---
 title: Advent, Hope Hymns Lyrics
-description: "Hymn lyrics: E.1 BESTIR THY POWER, E.2 JOY TO HEAVEN, E.5 REJOICE, ISRAEL / Psalm 79, E.6 MARANATHA, E.7 SHOW YOUR GOODNESS, LORD / Psalm 84, E.10 CHRISTMAS, A SAVIOUR WILL COME, E.12 THE HOUR HAS STRUCK, E.14 COME, QUICKLY, LORD and more from With Joyful Lips by Fr. Jean L. Mercier."
+description: Advent and hope hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier for Catholic worship, rehearsal, projection, and handouts.
 ---
 
 ## E.1 BESTIR THY POWER

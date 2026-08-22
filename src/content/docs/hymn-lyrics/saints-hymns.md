@@ -1,6 +1,6 @@
 ---
 title: Saints Hymns Lyrics
-description: "Hymn lyrics: U.5 TRUST IN THE LORD and more from With Joyful Lips by Fr. Jean L. Mercier."
+description: Saints hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier for Catholic worship, prayer, and reflection.
 ---
 
 ## U.5 TRUST IN THE LORD

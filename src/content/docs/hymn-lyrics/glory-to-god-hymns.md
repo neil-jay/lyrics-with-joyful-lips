@@ -1,6 +1,6 @@
 ---
 title: Glory to God Hymns Lyrics
-description: "Hymn lyrics: VG.1 SING TO GOD, VG.2 GLORY! GLORY!, VG.5 GLORY BE TO THE FATHER and more from With Joyful Lips by Fr. Jean L. Mercier."
+description: Glory to God hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier for Catholic worship, rehearsal, and projection.
 ---
 
 ## VG.1 SING TO GOD
