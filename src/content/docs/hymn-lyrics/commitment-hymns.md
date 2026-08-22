@@ -2,7 +2,7 @@
 title: Commitment and Holy Orders Lyrics
 description: "Hymn lyrics: N.1 FROM MY HEART BREAKS FORTH, N.5 TAKE AND RECEIVE, N.8 TAKE UP YOUR CROSS, N.9 GIVE ME JOY, N.10 OH, THE LOVE OF MY LORD, N.11 COME, LORD JESUS, COME, N.14 ALL FOR YOU, N.17 LORD, YOU HAVE TOUCHED MY HEART and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
-### N.1 FROM MY HEART BREAKS FORTH
+## N.1 FROM MY HEART BREAKS FORTH
 ***Chorus:***<br />
 **From my heart breaks forth**<br />
 **this lovely poem:**<br />
@@ -33,7 +33,7 @@ to Jesus Christ the Lord,<br />
 To the Spirit who dwells in our hearts,<br />
 through endless ages.<br />
 
-### N.5 TAKE AND RECEIVE
+## N.5 TAKE AND RECEIVE
 Take and receive, O Lord, my liberty,<br />
 Take all my will, my mind, my memory,<br />
 Do thou direct and govern all and sway,<br />
@@ -48,7 +48,7 @@ Thine was the gift, to thee I all resign.<br />
 Do thou direct and govern all and sway,<br />
 Do what thou wilt, command and I obey.<br />
 
-### N.8 TAKE UP YOUR CROSS
+## N.8 TAKE UP YOUR CROSS
 ***Chorus:***<br />
 **If you wish to be my disciple,**<br />
 **Take up your cross and follow me.**<br />
@@ -77,7 +77,7 @@ And be like those who wait for my return.<br />
 You who have followed me, when life is ended,<br />
 Will reap a hundredfold eternally.<br />
 
-### N.9 GIVE ME JOY
+## N.9 GIVE ME JOY
 Give me joy in my heart, keep me praising,<br />
 Give me joy in my heart, I pray.<br />
 Give me joy in my heart, keep me praising,<br />
@@ -104,7 +104,7 @@ Give me peace to my mind, I pray.<br />
 Give me peace to my mind, keep be resting,<br />
 Keep me resting till the end of day.<br />
 
-### N.10 OH, THE LOVE OF MY LORD
+## N.10 OH, THE LOVE OF MY LORD
 Oh, the love of my Lord is the essence<br />
 Of all that I love here on earth.<br />
 All the beauty I see he has given to me<br />
@@ -122,7 +122,7 @@ But I've called on his name<br />
 in the dark of my shame.<br />
 And his mercy was gentle as silence.<br />
 
-### N.11 COME, LORD JESUS, COME
+## N.11 COME, LORD JESUS, COME
 Come, Lord Jesus, come.<br />
 Come, take my hands, take them for your work.<br />
 
@@ -142,7 +142,7 @@ Come, take my hands, take them for your work.<br />
 
 ... life, take it for your own.<br />
 
-### N.14 ALL FOR YOU
+## N.14 ALL FOR YOU
 ***Chorus:***<br />
 **All for you, Lord, all for you.**<br />
 **Everything I give to you.**<br />
@@ -164,7 +164,7 @@ Take my will and freedom, take my life entire.<br />
 I offer you myself and all I have.<br />
 All for you my God.<br />
 
-### N.17 LORD, YOU HAVE TOUCHED MY HEART
+## N.17 LORD, YOU HAVE TOUCHED MY HEART
 ***Chorus:***<br />
 **Lord your have touched my heart**<br />
 **and left me speechless.**<br />
@@ -182,7 +182,7 @@ Even my body shall in safety rest.<br />
 Your presence makes my life on earth a heaven.<br />
 Your steadfast love and care fill me with joy.<br />
 
-### N.18 TAKE MY LIFE
+## N.18 TAKE MY LIFE
 Take my life, O Lord, take my life,<br />
 **That my life be worship.**<br />
 Take my life, O Lord, take my life,<br />
@@ -204,7 +204,7 @@ That this bread become now your flesh.<br />
 Take this wine...<br />
 That this wine be changed to your blood.<br />
 
-### N.19 YOUR WILL BE DONE
+## N.19 YOUR WILL BE DONE
 ***Chorus:***<br />
 **Lord, your will be done,**<br />
 **Yes, Lord, your will be done.**<br />
@@ -226,7 +226,7 @@ Are no more near us — they are dead,<br />
 Our tear filled eyes are blind to see<br />
 That you are there:<br />
 
-### N.20 OUR HEARTS WERE MADE FOR YOU
+## N.20 OUR HEARTS WERE MADE FOR YOU
 ***Chorus:***<br />
 **Our hearts were made for you, Lord,**<br />
 **Our hearts were made for you.**<br />
@@ -248,7 +248,7 @@ I will write it on your heart;<br />
 I will be your God and Saviour,<br />
 You, my people set apart.<br />
 
-### N.24 I GIVE MY HANDS
+## N.24 I GIVE MY HANDS
 I give my hands to do your work<br />
 And, Jesus Lord, I give them willingly,<br />
 I give my feet to go your way<br />
@@ -275,7 +275,7 @@ In me your Father and the human race.<br />
 I give myself that you may grow<br />
 In me and make my life a song of praise.<br />
 
-### N.25 DEEP CALLS TO DEEP
+## N.25 DEEP CALLS TO DEEP
 Deep calls to deep<br />
 And my soul finds no resting place but Him.<br />
 He is my God,<br />
@@ -295,7 +295,7 @@ For He created me to be his own.<br />
 He understands<br />
 The joy and pain of life He too has known.<br />
 
-### N.26 I SURRENDER ALL
+## N.26 I SURRENDER ALL
 All to Jesus I surrender,<br />
 all to Him I freely give,<br />
 I will ever love and trust Him,<br />
@@ -326,7 +326,7 @@ take me to thy Father’s side.<br />
 Let me fee thy Holy Spirit,<br />
 Truly know that he’s my guide.<br />
 
-### N.27 OH THE WORD OF MY LORD
+## N.27 OH THE WORD OF MY LORD
 ***Chorus:***<br />
 **Oh the word of my Lord,**<br />
 **deep within my being,**<br />
@@ -358,7 +358,7 @@ You will create and overthrow,<br />
 Reap harvests I will sow:<br />
 your word is mine.<br />
 
-### N.28 I HAVE BEEN CRUCIFIED
+## N.28 I HAVE BEEN CRUCIFIED
 ***Chorus:***<br />
 **I have been crucified with Christ, (2)**<br />
 **It is no longer I who live**<br />
@@ -375,7 +375,7 @@ Of the precious worth of knowing Christ...<br />
 For in weakness is Jesus' power shown:<br />
 When I'm weak, I know I am strong in Him.<br />
 
-### N.29 HERE I AM, LORD
+## N.29 HERE I AM, LORD
 ***Chorus:***<br />
 **Here I am, Lord, is it I, Lord?**<br />
 **I have heard you calling in the night,**<br />
@@ -409,7 +409,7 @@ Till their hearts be satisfied.<br />
 I will give my life to them:<br />
 Whom shall I send?<br />
 
-### N.30 BLOOM WHERE YOU'RE PLANTED
+## N.30 BLOOM WHERE YOU'RE PLANTED
 ***Chorus:***<br />
 **Bloom bloom, bloom where you’re planted,**<br />
 **You will find your way!**<br />
@@ -431,7 +431,7 @@ Let yourself be! (2)<br />
 Look at the gifts you have been given,<br />
 Let them go free! (2)<br />
 
-### N.31 LIKE A SUNFLOWER
+## N.31 LIKE A SUNFLOWER
 ***Chorus:***<br />
 **Life a sunflower that follows**<br />
 **Every movement of the sun,**<br />
@@ -444,7 +444,7 @@ In simplicity, honesty, I follow. (2)<br />
 
 In simplicity, fidelity, I follow. (2)<br />
 
-### N.32 TO FOLLOW THE LORD
+## N.32 TO FOLLOW THE LORD
 ***Chorus:***<br />
 **To follow the Lord and find freedom**<br />
 **To love as He loved and bring peace**<br />
@@ -466,7 +466,7 @@ To struggle for justice and right,<br />
 To stand for the truth and be honest,<br />
 To die to oneself in the fight.<br />
 
-### N.34 I CALL YOU
+## N.34 I CALL YOU
 ***Chorus:***<br />
 **I call you from your brothers (sisters),**<br />
 **I send you in my name.**<br />
@@ -490,7 +490,7 @@ And love as I have done.<br />
 So they can see what "brother" ("sister") means<br />
 And can feel that they are one.<br />
 
-### N.35 TAKE MY LIFE
+## N.35 TAKE MY LIFE
 ***Chorus:***<br />
 **Take my life, O Lord, and ever let it stay**<br />
 **Consecrated to your care.**<br />
@@ -512,7 +512,7 @@ Take and anoint it with your love.<br />
 Let me worship you in spirit and in truth.<br />
 By your touch may my life be renewed.<br />
 
-### N.37 CALLED TO BE SERVANTS
+## N.37 CALLED TO BE SERVANTS
 ***Chorus:***<br />
 **Called to be servants, called to be sons,**<br />
 **Called to be daughters, we're called to be one.**<br />
@@ -536,7 +536,7 @@ He has breathed on us with his holy breath.<br />
 He gives the faith to respond to his News.<br />
 We're free to show mercy, to love, to be bruised.<br />
 
-### N.38 I DELIGHT GREATLY IN THE LORD
+## N.38 I DELIGHT GREATLY IN THE LORD
 ***Chorus:***<br />
 **I delight greatly in the Lord,**<br />
 **My soul rejoices in my God. (2)**<br />

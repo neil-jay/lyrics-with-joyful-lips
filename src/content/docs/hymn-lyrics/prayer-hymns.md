@@ -3,7 +3,7 @@ title: Prayer and Devotional Lyrics
 description: "Hymn lyrics: P.2 IN THY ABODE, O LORD / Psalm 114, P.3 THIS IS MY PRAYER, P.4 LET THY LOVE PLAY UPON MY VOICE, P.5 MORNING PRAYER, P.11 O LET MY HUMBLE PRAYER / Psalm 140, P.18 DAY IS DONE, P.23 THOUGH THE FIG TREE and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### P.2 IN THY ABODE, O LORD / Psalm 114
+## P.2 IN THY ABODE, O LORD / Psalm 114
 Who will make his home in thy abode, O Lord?<br />
 Who will rest secure upon thy mountain on high?<br />
 
@@ -25,7 +25,7 @@ Who honours those who fear the Lord.<br />
 One who sings the glory of the Triune God,<br />
 Now, as for ever, in eternity.<br />
 
-### P.3 THIS IS MY PRAYER
+## P.3 THIS IS MY PRAYER
 ***Chorus:***<br />
 **This is my prayer to thee, my Lord:**<br />
 **Strike, strike at the root of penury in my heart.**<br />
@@ -45,7 +45,7 @@ my mind high above daily trifles.<br />
 Give me the strength to surrender<br />
 my strength to thy will with love.<br />
 
-### P.4 LET THY LOVE PLAY UPON MY VOICE
+## P.4 LET THY LOVE PLAY UPON MY VOICE
 ***Chorus:***<br />
 **Let thy love play upon my voice**<br />
 **and rest on my silence.**<br />
@@ -61,7 +61,7 @@ And flow in all currents of my own love.<br />
 Let me carry thy love in my life as a harp does its music<br />
 And give it back to thee at last with my life.<br />
 
-### P.5 MORNING PRAYER
+## P.5 MORNING PRAYER
 ***Chorus:***<br />
 **I have come to thee to take thy touch**<br />
 **before I begin my day.**<br />
@@ -77,7 +77,7 @@ through the desert of noise.<br />
 Let thy love's sunshine kiss the peaks of my thoughts<br />
 And linger in my life's valley where the harvest ripens.<br />
 
-### P.11 O LET MY HUMBLE PRAYER / Psalm 140
+## P.11 O LET MY HUMBLE PRAYER / Psalm 140
 ***Chorus:***<br />
 **O let my humble prayer arise,**<br />
 **Like fragrant incense in your sight,**<br />
@@ -92,7 +92,7 @@ Do not incline my heart to evil.<br />
 To the Father and Son and Spirit<br />
 Glory be for ever and ever. Amen.<br />
 
-### P.18 DAY IS DONE
+## P.18 DAY IS DONE
 ***Chorus:***<br />
 **Day is done but love remains,**<br />
 **Shadows fall but steadfast hope prevails.**<br />
@@ -114,7 +114,7 @@ Is our prayer this eventide.<br />
 Day is spent, the night begins,<br />
 Therefore, Lord, with us abide.<br />
 
-### P.23 THOUGH THE FIG TREE
+## P.23 THOUGH THE FIG TREE
 Though the fig tree does not blossom<br />
 And there be no fruit on the vines,<br />
 The produce of the olive fails<br />

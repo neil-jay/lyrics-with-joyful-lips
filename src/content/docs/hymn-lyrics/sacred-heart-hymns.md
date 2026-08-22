@@ -3,7 +3,7 @@ title: Sacred Heart Lyrics
 description: "Hymn lyrics: M.2 BEND YOUR NECK TO MY YOKE / Psalm 33, M.4 CHRIST, REDEEMER KING, M.5 SING, MY TONGUE, M.7 PRIESTLY PEOPLE, M.11 YOU HAVE EVERYTHING, M.13 COME TO ME, M.14 JESUS IS WONDERFUL, M.15 JESUS and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### M.2 BEND YOUR NECK TO MY YOKE / Psalm 33
+## M.2 BEND YOUR NECK TO MY YOKE / Psalm 33
 ***Chorus-1:***<br />
 **Bend your neck to my yoke,**<br />
 **See how light is my burden:**<br />
@@ -36,7 +36,7 @@ He is blest, the one who in him takes refuge.<br />
 Come and learn how wise is the fear of God,<br />
 For his face indeed frowns on evil doers.<br />
 
-### M.4 CHRIST, REDEEMER KING
+## M.4 CHRIST, REDEEMER KING
 ***Chorus-1:***<br />
 **Hosanna to the Son of David,**<br />
 **Blessed is He who comes in the name of the Lord,**<br />
@@ -70,7 +70,7 @@ Accept the prayers we bring.<br />
 Who in all good delightest, thou,<br />
 good and gracious King.<br />
 
-### M.5 SING, MY TONGUE
+## M.5 SING, MY TONGUE
 ***Tantum Ergo***<br />
 Let all bow in adoration<br />
 To this Sacrament so great.<br />
@@ -86,7 +86,7 @@ Praised be Christ, his Son, our Lord,<br />
 Praised be God, the Holy Spirit,<br />
 Triune Godhead be adored, Amen.<br />
 
-### M.7 PRIESTLY PEOPLE
+## M.7 PRIESTLY PEOPLE
 ***Chorus:***<br />
 **Come, Priestly people, God's kingly race,**<br />
 **Dedicated nation, people of God,**<br />
@@ -116,7 +116,7 @@ We give you praise,<br />
 O Son of David<br />
 and Son of Abraham.<br />
 
-### M.11 YOU HAVE EVERYTHING
+## M.11 YOU HAVE EVERYTHING
 ***Chorus:***<br />
 **You have everything when you have Christ (2).**<br />
 **You are filled with God through your union,**<br />
@@ -133,7 +133,7 @@ You have risen with the Lord.<br />
 When Jesus comes in glory,<br />
 you'll appear in glory too.<br />
 
-### M.13 COME TO ME
+## M.13 COME TO ME
 ***Chorus:***<br />
 **Jesus, meek and humble of heart,**<br />
 **Make my heart like yours.**<br />
@@ -153,7 +153,7 @@ When I’m the light of life?<br />
 Come where my Father dwells,<br />
 I’m the Way, the Truth and the Life.<br />
 
-### M.14 JESUS IS WONDERFUL
+## M.14 JESUS IS WONDERFUL
 ***Chorus:***<br />
 **Jesus is wonderful, Jesus is mine,**<br />
 **Jesus loves you and me all the time.**<br />
@@ -169,7 +169,7 @@ Jesus lives, his peace can be mine.<br />
 Walking the road He showed me brings freedom.<br />
 Loving the way He loves, brings joy.<br />
 
-### M.15 JESUS
+## M.15 JESUS
 ***Chorus:***<br />
 **Jesus, you are my salvation,**<br />
 **Jesus, you’re my inspiration,**<br />
@@ -195,7 +195,7 @@ Jesus, our high priest, our passover Lamb,<br />
 Jesus, the brightness and image of God,<br />
 Jesus, the King of peace.<br />
 
-### M.17 JESUS CHRIST, MY LORD
+## M.17 JESUS CHRIST, MY LORD
 ***Chorus:***<br />
 **Jesus Christ, my Lord and Saviour,**<br />
 **Jesus Christ who died for me,**<br />
@@ -213,7 +213,7 @@ It's You, Lord, that cures me from all my ills.<br />
 In You, Lord, I trust, in You, Lord, I gladden,<br />
 In You, Lord, I live, no, not I, but You.<br />
 
-### M.18 DRAW ME, O LORD
+## M.18 DRAW ME, O LORD
 Draw me, O Lord, to your heart of love.<br />
 Draw me, O Lord, to your love.<br />
 Draw me, O Lord, to your boundless love.<br />
@@ -234,7 +234,7 @@ You are the One sent from God;<br />
 Do feed me, Lord, with the bread of life,<br />
 That I may hunger no more.<br />
 
-### M.19 O WHAT A GIFT
+## M.19 O WHAT A GIFT
 ***Chorus:***<br />
 **O what a gift, what a wonderful gift:**<br />
 **Who can tell the wonders of the Lord?**<br />
@@ -258,7 +258,7 @@ That his Father's will would be known.<br />
 Lion of Judah, Light of the World,<br />
 Our Redeemer came to his own: Christ...<br />
 
-### M.22 HIS NAME IS HIGHER
+## M.22 HIS NAME IS HIGHER
 ***Chorus:***<br />
 **His name is higher than any other.**<br />
 **His name is Jesus, his name is Lord (2).**<br />
@@ -275,7 +275,7 @@ His yoke is easy, his burden light.<br />
 In Him is victory, in Him redemption,<br />
 In Him salvation, He sets us free.<br />
 
-### M.23 SING LIFE, SING LOVE, SING JESUS
+## M.23 SING LIFE, SING LOVE, SING JESUS
 ***Chorus:***<br />
 **Sing life, sing love sing Jesus,**<br />
 **Sing out whoever you are. (2)**<br />
@@ -295,7 +295,7 @@ Jesus the truth and the way.<br />
 Though life was lost and the truth was denied,<br />
 Love lives again as we greet the Lord’s new day.<br />
 
-### M.24 WONDERFUL LOVE
+## M.24 WONDERFUL LOVE
 ***Chorus:***<br />
 **Love of my Lord, Love of my Lord!**<br />
 **Wonderful, wonderful Love!**<br />
@@ -315,7 +315,7 @@ No mind can comprehend,<br />
 No power on earth can bring to birth<br />
 The mystery of his love so wonderful!<br />
 
-### M.25 IF YOU REALLY LOVE JESUS
+## M.25 IF YOU REALLY LOVE JESUS
 ***Chorus:***<br />
 **If you really love Jesus,**<br />
 **you will do his will,**<br />
@@ -337,7 +337,7 @@ to be generous, to be mild,<br />
 "You will not see my kingdom<br />
 if you don't remain a child".<br />
 
-### M.26 JESUS THE HEALER
+## M.26 JESUS THE HEALER
 
 Jesus the healer healer is here in our midst,<br />
 As he has promised to be,<br />
@@ -365,7 +365,7 @@ Given by Jesus your Son,<br />
 Brought by your Spirit and healing us now,<br />
 Praise be to God, three in one.<br />
 
-### M.27 SING, I WILL SING TO HIM
+## M.27 SING, I WILL SING TO HIM
 
 Sing, I will sing to Him, (3)<br />
 I will sing to Jesus, Jesus, Jesus,<br />
@@ -391,7 +391,7 @@ Hope, Jesus is my hope, (3)<br />
 I shall live forever, ever, ever,<br />
 I shall live for ever, ever with Him!<br />
 
-### M.28 WE SEEK THEE
+## M.28 WE SEEK THEE
 ***Chorus:***<br />
 **We seek Thee, Lord Jesus,**<br />
 **we seek thy blessed face,**<br />
@@ -411,7 +411,7 @@ So our eyes are focused on you, O Lord!<br />
 Like the sparrows building nests beside your altar,<br />
 In your loving care, Lord, we feel secure.<br />
 
-### M.29 SOMETHING WHICH IS KNOWN
+## M.29 SOMETHING WHICH IS KNOWN
 Something which is known<br />
 to have been from the beginning:<br />
 This we have heard and seen with our own eyes.<br />
@@ -433,7 +433,7 @@ Source of our hope, abiding gift of God's love.<br />
 Thru that love we pass and are born in life unending:<br />
 Jesus, our Lord, the fulness of our joy.<br />
 
-### M.30 WE SEE CHRIST
+## M.30 WE SEE CHRIST
 We see Christ with eyes of the heart,<br />
 With our hands we touch the Word of life.<br />
 What we see and hear we declare<br />
@@ -458,7 +458,7 @@ If we claim to share in his life,<br />
 We must walk in his light to banish<br />
 all evil and strife!<br />
 
-### M.32 WHO SHALL SEPARATE US?
+## M.32 WHO SHALL SEPARATE US?
 ***Chorus:***<br />
 **Who shall separate us**<br />
 **from the love of Christ? (2)**<br />
@@ -481,7 +481,7 @@ Knowing well he'll hold our hand.<br />
 For Christ has truly risen as he said.<br />
 Jesus is no longer dead.<br />
 
-### M.36 MY HEART OVERFLOWS
+## M.36 MY HEART OVERFLOWS
 ***Chorus:***<br />
 **My heart overflows with a goodly theme,**<br />
 **I will address my verses to the King;**<br />
@@ -508,7 +508,7 @@ The wisdom, the power,<br />
 the Lamb who died for all,<br />
 And the Master of life and death.<br />
 
-### M.38 O COME, LET US WORSHIP
+## M.38 O COME, LET US WORSHIP
 ***Chorus:***<br />
 **O come, let us worship and bow down,**<br />
 **Let us kneel before the Lord our King,**<br />
@@ -530,7 +530,7 @@ He takes away our sins,<br />
 On the cross for mankind he gave his life,<br />
 God's beloved Son.<br />
 
-### M.40 GOD'S LOVE IS SO WONDERFUL
+## M.40 GOD'S LOVE IS SO WONDERFUL
 ***Chorus:***<br />
 **God’s love is so wonderful,**<br />
 **Jesus is so wonderful,**<br />

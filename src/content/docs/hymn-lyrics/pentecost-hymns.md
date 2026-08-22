@@ -3,7 +3,7 @@ title: Pentecost and Holy Spirit Lyrics
 description: "Hymn lyrics: K.5 SPLENDOUR OF CREATION / Psalm 103, K.6 BEHOLD AMONG US, (K)K.8 FROM THE CITIES, K.10 THE SPIRIT OF THE LORD, K.12 SPIRIT OF THE LIVING GOD, K.13 HOLY SPIRIT LORD, K.14 SEND FORTH YOUR SPIRIT / Psalm 103, K.17 ALL OVER THE WORLD and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### K.5 SPLENDOUR OF CREATION / Psalm 103
+## K.5 SPLENDOUR OF CREATION / Psalm 103
 ***Chorus:***<br />
 **Send forth your Spirit, O Lord,**<br />
 **That the face of the earth be renewed.**<br />
@@ -36,7 +36,7 @@ Praise to God, the author of these marvels,<br />
 To God, the mighty One,<br />
 Who made the earth, glory to his name.<br />
 
-### K.6 BEHOLD AMONG US
+## K.6 BEHOLD AMONG US
 ***Chorus:***<br />
 **Behold among us the dwelling place of God;**<br />
 **We shall be his people**<br />
@@ -57,7 +57,7 @@ Branches bearing fruit in the grace of the Lord;<br />
 Branches rooted in his great love,<br />
 The Church of Christ the Lord!<br />
 
-### (K)K.8 FROM THE CITIES
+## (K)K.8 FROM THE CITIES
 From the cities, through the lanes,<br />
 (Onward we must go)<br />
 From the mountains, valleys, plains.<br />
@@ -91,19 +91,19 @@ To our haven drawing near,<br />
 Whether healthy, whether ill,<br />
 Always doing God's own will.<br />
 
-### K.10 THE SPIRIT OF THE LORD
+## K.10 THE SPIRIT OF THE LORD
 The Spirit of the Lord is now upon me,<br />
 To heal the broken heart and set the captives free,<br />
 To open prison doors and make the blind to see,<br />
 The Spirit of the Lord is now on me.<br />
 
-### K.12 SPIRIT OF THE LIVING GOD
+## K.12 SPIRIT OF THE LIVING GOD
 Spirit of the Living God, fall afresh on me!<br />
 Spirit of the Living God, fall afresh on me!<br />
 Break me, melt me, mould me, fill me.<br />
 Spirit of the living God, fall afresh on me.<br />
 
-### K.13 HOLY SPIRIT LORD
+## K.13 HOLY SPIRIT LORD
 Holy Spirit Lord, gift of God,<br />
 Holy Spirit Lord, light of truth,<br />
 Holy Spirit Lord, fire of love,<br />
@@ -124,7 +124,7 @@ Holy Spirit Lord, give us hope,<br />
 Holy Spirit Lord, give us love,<br />
 Come, Holy Spirit come.<br />
 
-### K.14 SEND FORTH YOUR SPIRIT / Psalm 103
+## K.14 SEND FORTH YOUR SPIRIT / Psalm 103
 ***Chorus:***<br />
 **Send forth your Spirit, O Lord,**<br />
 **That the face of the earth be renewed.**<br />
@@ -149,7 +149,7 @@ I will thank the author of those marvels.<br />
 Praise to God the Father, Son and Spirit,<br />
 Both now and for ever. Amen.<br />
 
-### K.17 ALL OVER THE WORLD
+## K.17 ALL OVER THE WORLD
 All over the world, the Spirit is moving,<br />
 All over the world, as the prophets said it would be,<br />
 All over the world, there’s a mighty revelation<br />
@@ -175,7 +175,7 @@ Deep down in my heart, as the prophets said it would be,<br />
 Deep down in my heart, there’s a mighty revelation<br />
 Of the glory of the Lord as the waters cover the sea.<br />
 
-### K.19 THE SPIRIT OF THE LORD
+## K.19 THE SPIRIT OF THE LORD
 ***Chorus:***<br />
 **The Spirit of the Lord will be poured upon us,**<br />
 **Then shall the desert soon become such fertile land.**<br />
@@ -197,7 +197,7 @@ For all to share and care for,<br />
 So will our God bring to birth<br />
 The Spirit within us.<br />
 
-### K.22 THE CHURCH'S ONE FOUNDATION
+## K.22 THE CHURCH'S ONE FOUNDATION
 ***Chorus:***<br />
 **The Church's one foundation**<br />
 **Is Jesus Christ, her Saviour and Lord.**<br />
@@ -219,7 +219,7 @@ And still we form one body,<br />
 The body of the Lord,<br />
 Perfected by the Spirit in our hearts.<br />
 
-### K.23 LORD, SEND OUT YOUR SPIRIT / Psalm 103
+## K.23 LORD, SEND OUT YOUR SPIRIT / Psalm 103
 ***Chorus:***<br />
 **Lord, send out your Spirit,**<br />
 **And renew the face of the earth (2).**<br />
@@ -239,7 +239,7 @@ And may the Lord be glad in his work.<br />
 Pleasing to Him be my theme,<br />
 For I rejoice in the Lord.<br />
 
-### K.24 WHERE TWO OR THREE ARE GATHERED
+## K.24 WHERE TWO OR THREE ARE GATHERED
 ***Chorus:***<br />
 **Where two or three are gathered in my name,**<br />
 **There am I, there am I.**<br />
@@ -261,7 +261,7 @@ As a nation, united we stand!<br />
 But it's only through grace we are worthy<br />
 To inherit and enter our land.<br />
 
-### K.25 BUILD YOUR CHURCH, LORD
+## K.25 BUILD YOUR CHURCH, LORD
 I am building a people of power,<br />
 I am forming a people of praise,<br />
 That will move through this land by my Spirit<br />

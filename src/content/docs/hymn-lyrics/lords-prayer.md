@@ -3,7 +3,7 @@ title: Lord's Prayer Lyrics
 description: "Hymn lyrics: Y.1 Lord's Prayer and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### Y.1 Lord's Prayer
+## Y.1 Lord's Prayer
 
 When he saw how great was their number,<br />
 Jesus went up to the mountain,<br />

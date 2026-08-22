@@ -3,7 +3,7 @@ title: Justice Hymns Lyrics
 description: "Hymn lyrics: J.2 DEEP IN THE HUMAN HEART, J.3 LORD, WE PRAY FOR GOLDEN PEACE, J.4 MAKE US TRUE PEOPLE, J.5 GOD LOVES THE POOR, J.6 CHOOSE LIFE and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### J.2 DEEP IN THE HUMAN HEART
+## J.2 DEEP IN THE HUMAN HEART
 Deep, deep in the human heart<br />
 The fire of justice burns:<br />
 A vision of a world renewed<br />
@@ -35,7 +35,7 @@ We leave the past behind<br />
 And move into the future's world<br />
 With open heart and mind.<br />
 
-### J.3 LORD, WE PRAY FOR GOLDEN PEACE
+## J.3 LORD, WE PRAY FOR GOLDEN PEACE
 ***Chorus:*** <br />
 **Lord, we pray for golden peace,**<br />
 **Peace all over the land,**<br />
@@ -57,7 +57,7 @@ righteousness be done.<br />
 Let goodness rule the hearts of all,<br />
 evil be overcome.<br />
 
-### J.4 MAKE US TRUE PEOPLE
+## J.4 MAKE US TRUE PEOPLE
 
 Make us true people to all those in need,<br />
 Filled with compassion in thought, word and deed,<br />
@@ -74,7 +74,7 @@ Give us your power to bring sight to the blind,<br />
 Love to the loveless and gladness for pain,<br />
 Filling all hearts with the joy of your name. (2)<br />
 
-### J.5 GOD LOVES THE POOR
+## J.5 GOD LOVES THE POOR
 God loves the poor, God loves the rich,<br />
 But calls us all to share.<br />
 
@@ -95,7 +95,7 @@ Shall help God's new age come.<br />
 Praise God in joy, praise God in pain.<br />
 Praise God for evermore.<br />
 
-### J.6 CHOOSE LIFE
+## J.6 CHOOSE LIFE
 Choose life and turn from death,<br />
 Make peace instead of war,<br />
 Share love in place of hate,<br />

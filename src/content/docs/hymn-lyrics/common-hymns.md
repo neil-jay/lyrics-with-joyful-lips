@@ -3,13 +3,13 @@ title: Common Hymns Lyrics
 description: "Hymn lyrics: Lord O Lord, O Lord Have Mercy, Glory to God, Lord I Want to, What a Friend We Have in Jesus and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### Lord O Lord, O Lord Have Mercy
+## Lord O Lord, O Lord Have Mercy
 
 Lord O Lord, Lord O Lord have mercy (2)<br />
 Christ O Christ, Christ O Christ, have mercy (2)<br />
 Lord O Lord, Lord O Lord have mercy (2)<br />
 
-### Glory to God
+## Glory to God
 
 ***Chorus:***<br />
 **Glory to God (2)**<br />
@@ -35,7 +35,7 @@ with the Holy Spirit in the glory of God the Father.<br />
 
 Amen.
 
-### Lord I Want to
+## Lord I Want to
 
 ***Chorus:***<br />
 **Lord I want to, I want to offer you**<br />
@@ -61,7 +61,7 @@ Just let me lean on your side,<br />
 Let me e'er with you abide<br />
 And in your presence, I'll face it all.
 
-### What a Friend We Have in Jesus
+## What a Friend We Have in Jesus
 
 What a friend we have in Jesus,<br />
 All our sins and griefs to bear!<br />

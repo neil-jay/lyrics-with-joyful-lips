@@ -3,7 +3,7 @@ title: Creation and Trinity Lyrics
 description: "Hymn lyrics: L.2 WONDERFUL AND GREAT, L.4 GREAT IS THE LORD / Psalm 92, L.11 WE PRAISE THE LIVING GOD, L.12 GLORY TO THE FATHER, L.13 BE STILL AND KNOW, L.17 FOR YOU ARE MY GOD, L.19 WE SEE THE LORD, L.20 HOW GREAT IS OUR GOD and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### L.2 WONDERFUL AND GREAT
+## L.2 WONDERFUL AND GREAT
 ***Chorus:***<br />
 **Alleluia, alleluia!**<br />
 
@@ -21,7 +21,7 @@ All nations shall come to worship you<br />
 in your presence<br />
 For your justice has been made known.<br />
 
-### L.4 GREAT IS THE LORD / Psalm 92
+## L.4 GREAT IS THE LORD / Psalm 92
 ***Chorus:***<br />
 **Great is the Lord, the ruler in heaven**<br />
 **And on earth the Master of life and death,**<br />
@@ -48,7 +48,7 @@ To Father, Son and Spirit blest,<br />
 Glory and praise now and ever,<br />
 The God who is, who was and who will be.<br />
 
-### L.11 WE PRAISE THE LIVING GOD
+## L.11 WE PRAISE THE LIVING GOD
 
 We praise the living God,<br />
 We praise the living God,<br />
@@ -71,7 +71,7 @@ The Father, Son and Spirit,<br />
 Living and reigning now and ever:<br />
 We praise the Trinity, the Trinity.<br />
 
-### L.12 GLORY TO THE FATHER
+## L.12 GLORY TO THE FATHER
 ***Chorus:***<br />
 **Glory to the Father, sing glory to the Son,**<br />
 **Glory to the Spirit, glory, glory ev'ry one.**<br />
@@ -94,14 +94,14 @@ You have worked upon the land,<br />
 But the foolish ones will never see them,<br />
 They can't understand.<br />
 
-### L.13 BE STILL AND KNOW
+## L.13 BE STILL AND KNOW
 Be still and know that I am God. (3)<br />
 
 I am the Lord that healeth thee.<br />
 
 In thee, O Lord, do I put my trust.<br />
 
-### L.17 FOR YOU ARE MY GOD
+## L.17 FOR YOU ARE MY GOD
 ***Chorus:***<br />
 **For you are my God.**<br />
 **You alone are my joy!**<br />
@@ -127,7 +127,7 @@ In your presence: the fullness of joy.<br />
 To be at your right hand for ever<br />
 For me would be happiness always.<br />
 
-### L.19 WE SEE THE LORD
+## L.19 WE SEE THE LORD
 We see the Lord, (2)<br />
 He is sitting on a throne and his robe fills the temple. (2)<br />
 The angels cry: “Holy”  (2)<br />
@@ -150,7 +150,7 @@ so our prayers fill the temple. (2)<br />
 The people cry: “Glory!” (2)<br />
 The people cry: “Glory to the Lord !”<br />
 
-### L.20 HOW GREAT IS OUR GOD
+## L.20 HOW GREAT IS OUR GOD
 ***Chorus:***<br />
 **How great is our God,**<br />
 **how great is his name**<br />
@@ -167,7 +167,7 @@ And He said: "I'll never....<br />
 He gave us his Spirit and now we can see.<br />
 And He said: "I'll never..."<br />
 
-### L.21 I AM WISDOM
+## L.21 I AM WISDOM
 I was born before creation,<br />
 When the world was yet to be.<br />
 From the dawn of time uncounted<br />
@@ -194,7 +194,7 @@ And I'm with Him to this day;<br />
 So I'm glad to see his image<br />
 In the people of today.<br />
 
-### L.22 ABBA, FATHER
+## L.22 ABBA, FATHER
 ***Chorus:***<br />
 **Abba, Father (2), we love you!**<br />
 
@@ -211,7 +211,7 @@ we pray you!<br />
 
 Give us this day our daily bread (3), we ask you.<br />
 
-### L.23 FATHER SO LOVING
+## L.23 FATHER SO LOVING
 ***Chorus:***<br />
 **Father so loving, Magnificent God,**<br />
 **Generous Giver, Beneficent Lord!**<br />
@@ -225,7 +225,7 @@ In giving your blood, you give us rebirth.<br />
 You call us your children. you call us your friends;<br />
 We call you our joy, we call you our strength.<br />
 
-### L.24 WORTHY IS THE LAMB
+## L.24 WORTHY IS THE LAMB
 Worthy, worthy is the Lamb (3) that was slain,<br />
 
 ***Chorus:***<br />
@@ -239,7 +239,7 @@ Glory, power and victory to our God!<br />
 
 Blessing, honour to the Lamb (3) that was slain.<br />
 
-### L.26 MY GOD, ONLY SOURCE OF MY JOY / Psalm 15
+## L.26 MY GOD, ONLY SOURCE OF MY JOY / Psalm 15
 ***Chorus:***<br />
 **For you are my God, only source of my joy.**<br />
 **You keep me in your love,**<br />
@@ -266,7 +266,7 @@ For he has saved my life.<br />
 He shows me the footway of life<br />
 And gives me his joy and peace.<br />
 
-### L.27 MAY YOU BE BLEST
+## L.27 MAY YOU BE BLEST
 ***Chorus:***<br />
 **May you be blest, O God of love!**<br />
 **May you be blest for Jesus Christ!**<br />
@@ -284,7 +284,7 @@ God with us... God of all...<br />
 Suffering Lord... Wounded Lord...<br />
 Dying Lord... Risen Lord...<br />
 
-### L.28 THEN SINGS MY SOUL
+## L.28 THEN SINGS MY SOUL
 Oh, Lord my God, when I, in awesome wonder,<br />
 Consider all the world thy hand has made,<br />
 I see the stars, I hear the mighty thunder,<br />
@@ -304,7 +304,7 @@ What happiness, what joy shall fill my heart!<br />
 When I shall bow in humble adoration,<br />
 And then proclaim, my God, how great thou art!<br />
 
-### L.29 SPIRIT OF JOY
+## L.29 SPIRIT OF JOY
 ***Chorus:***<br />
 **Spirit of joy, exceeding all joys,**<br />
 **Fill every heart.**<br />
@@ -332,7 +332,7 @@ As you work from hour to hour.<br />
 Joy, Joy, unspeakable joy, joy, of the just!<br />
 Joy of creation, God’s own joy on earth!<br />
 
-### L.31 THE HEAVENS DECLARE / Psalm 18:28
+## L.31 THE HEAVENS DECLARE / Psalm 18:28
 ***Chorus:***<br />
 **The heavens declare the glory of God,**<br />
 **The glory of God, alleluia!**<br />
@@ -354,7 +354,7 @@ The glory that’s due<br />
 To the most High, wonderful name,<br />
 And he’ll give us peace.<br />
 
-### L.36 WE BELIEVE
+## L.36 WE BELIEVE
 We believe in God the Father<br />
 We believe, we believe,<br />
 We believe, He is the Holy one,<br />
@@ -377,7 +377,7 @@ We believe in life everlasting,<br />
 We believe, we believe, Amen,<br />
 We believe, Amen, we believe.<br />
 
-### L.37 GOD STILL LOVES THE WORLD
+## L.37 GOD STILL LOVES THE WORLD
 Every tiny star that twinkles in the night sky,<br />
 Every drop of morning dew,<br />
 Every spark of fire blazing in the furnace.<br />
@@ -411,7 +411,7 @@ Tells the fascinating news to those who dare to hope<br />
 And the message is:<br />
 God stil...<br />
 
-### L.38 ONLY IN GOD
+## L.38 ONLY IN GOD
 ***Chorus:***<br />
 **Only in God will my soul be at rest,**<br />
 **From Him comes my hope, my salvation.**<br />
@@ -428,7 +428,7 @@ Of His long lasting love.<br />
 You yourself, Lord, reward all who labour<br />
 For love of your name.<br />
 
-### L.40 FATHER, WE LOVE YOU
+## L.40 FATHER, WE LOVE YOU
 Father we love you, we worship and adore you.<br />
 
 ***Chorus:***<br />
@@ -440,7 +440,7 @@ Jesus...<br />
 
 Spirit...<br />
 
-### L.43 I HAVE MADE A COVENANT
+## L.43 I HAVE MADE A COVENANT
 I have made a covenant with my chosen,<br />
 Given my servant my word.<br />
 I have made your name to last for ever,<br />
@@ -472,7 +472,7 @@ For I make Him my first born Son.<br />
 I cannot take back my given promise,<br />
 I have called him to shine like the sun.<br />
 
-### L.44 TO THE KING OF ALL AGES
+## L.44 TO THE KING OF ALL AGES
 To the King of all ages,<br />
 Immortal and invisible,<br />
 To the only wise God and Saviour.<br />
@@ -489,7 +489,7 @@ To the Father in heaven,<br />
 His Son incarnate, Jesus Christ,<br />
 To the Spirit who dwells amongst us.<br />
 
-### L.45 I GIVE YOU ALL THE HONOUR
+## L.45 I GIVE YOU ALL THE HONOUR
 I give you all the honour<br />
 And praise that's due your name<br />
 For you are the King of glory,<br />
@@ -509,7 +509,7 @@ You've set this captive free,<br />
 I will lift my voice to praise your name<br />
 For all eternity.<br />
 
-### L.47 HOW PRECIOUS, O LORD
+## L.47 HOW PRECIOUS, O LORD
 
 How precious, O Lord, is your unfailing love;<br />
 We find refuge in the shadow of your wings.<br />

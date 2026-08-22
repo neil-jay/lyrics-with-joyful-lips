@@ -3,13 +3,13 @@ title: Creed, Glory to God Hymns Lyrics
 description: "Hymn lyrics: V.28 YES, LORD, WE BELIEVE, V.39 GLORY WE SING, VV.55 GLORY TO GOD, V.68 GLORY, GLORY and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### V.28 YES, LORD, WE BELIEVE
+## V.28 YES, LORD, WE BELIEVE
 Yes, Lord, we believe, you alone are the Truth (2).<br />
 Yes, Lord, we believe, you alone are the Light (2).<br />
 Yes, Lord, we believe, you alone are the Way (2).<br />
 Yes, Lord, we believe, you alone are the Life (2).<br />
 
-### V.39 GLORY WE SING
+## V.39 GLORY WE SING
 Glory we sing to God on high:<br />
 Peace on earth to all his friends.<br />
 We thank, we praise, we worship him,<br />
@@ -25,7 +25,7 @@ Glory to you, the only Lord!<br />
 To God be glory, Christ most high,<br />
 The Spirit and the Father.<br />
 
-### VV.55 GLORY TO GOD
+## VV.55 GLORY TO GOD
 ***Chorus:*** <br />
 **Glory to God in the highest,**<br />
 **Peace to his people on earth.**<br />
@@ -45,7 +45,7 @@ You alone are the Lord.<br />
 With the Holy Spirit<br />
 In the glory the Father.<br />
 
-### V.68 GLORY, GLORY
+## V.68 GLORY, GLORY
 ***Chorus:*** <br />
 **Glory, glory, glory to God in the highest**<br />
 **And peace to his people on earth.**<br />

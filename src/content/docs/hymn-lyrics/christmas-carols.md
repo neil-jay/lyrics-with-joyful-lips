@@ -3,7 +3,7 @@ title: Christmas Carol Lyrics
 description: "Hymn lyrics: Angels we have heard, Christmas Polka, Dashing Through the Snow, Feliz Navidad, Go! Tell it on the Mountain, Hark! The herald angels sing, Joy to the world, Long time ago in Bethlehem and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### Angels we have heard
+## Angels we have heard
 
 Angels we have heard on high<br />
 Sweetly singing o'er the plains<br />
@@ -24,7 +24,7 @@ Him whose birth the angels sing,<br />
 Come, adore on bended knee,<br />
 Christ the Lord, the newborn King.<br />
 
-### Christmas Polka
+## Christmas Polka
 
 This is Christmas season so there isn't any reason<br />
 We can't dance the Christmas polka<br />
@@ -48,7 +48,7 @@ It's a sight to behold for the<br />
 young and the old<br />
 A merry Christmas polka.<br />
 
-### Dashing Through the Snow
+## Dashing Through the Snow
 
 In a one-horse open sleigh<br />
 O'er the fields we go<br />
@@ -77,7 +77,7 @@ Misfortune seemed his lot<br />
 He got into a drifted bank<br />
 And then we got upsot.<br />
 
-### Feliz Navidad
+## Feliz Navidad
 
 Feliz Navidad<br />
 Feliz Navidad<br />
@@ -91,7 +91,7 @@ We wanna wish you<br />
 a happy Christmas<br />
 From the bottom of our heart.<br />
 
-### Go! Tell it on the Mountain
+## Go! Tell it on the Mountain
 
 Go, tell it on the mountain<br />
 Over the hills and everywhere<br />
@@ -113,7 +113,7 @@ When, lo! Above the earth<br />
 Rang out the angel chorus<br />
 That hailed our Saviour’s birth.<br />
 
-### Hark! The herald angels sing
+## Hark! The herald angels sing
 
 Hark! the herald angels sing,<br />
 “Glory to the new-born King;<br />
@@ -133,7 +133,7 @@ Hail th’ incarnate Deity!<br />
 Pleased as man with man to dwell,<br />
 Jesus our Immanuel.<br />
 
-### Joy to the world
+## Joy to the world
 
 Joy to the world the Lord is come<br />
 Let earth receive her king<br />
@@ -159,7 +159,7 @@ And wonders of His love<br />
 And wonders of His love<br />
 And wonders, wonders of His love.<br />
 
-### Long time ago in Bethlehem
+## Long time ago in Bethlehem
 
 Long time ago in Bethlehem<br />
 So the Holy Bible say<br />
@@ -181,7 +181,7 @@ Come to Bethlehem that night,<br />
 Then find no place to born the child<br />
 Not a single room was in sight.<br />
 
-### O Come, All ye faithful
+## O Come, All ye faithful
 
 Oh come ye, O come ye to Bethlehem;<br />
 Come and behold him<br />
@@ -204,7 +204,7 @@ Jesus, to thee be glory given;<br />
 Word of the Father,<br />
 now in flesh appearing.<br />
 
-### Rudolph the Red nosed reindeer
+## Rudolph the Red nosed reindeer
 
 Rudolph the Red-Nosed Reindeer<br />
 Had a very shiny nose<br />
@@ -226,7 +226,7 @@ As they shouted out with glee<br />
 “Rudolph the Red-Nosed Reindeer<br />
 You'll go down in history”.<br />
 
-### Silent Night
+## Silent Night
 
 All is calm, all is bright<br />
 Round yon Virgin, Mother and Child<br />
@@ -248,7 +248,7 @@ With the dawn of redeeming grace<br />
 Jesus Lord, at Thy birth<br />
 Jesus Lord, at Thy birth.<br />
 
-### We wish you a Happy Christmas
+## We wish you a Happy Christmas
 
 We wish you a happy Christmas<br />
 And a happy New Year!<br />

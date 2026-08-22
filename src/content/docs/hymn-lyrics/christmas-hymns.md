@@ -3,7 +3,7 @@ title: Christmas, Epiphany Hymns Lyrics
 description: "Hymn lyrics: F.3 GLORY TO GOD ON HIGH / Psalm 88, F.7 BE BORN IN US, F.11 REJOICE FOR CHRIST HAS COME / Psalm 97, F.12 SOMEWHERE FAR, F.15 THE LIGHT OF CHRIST, F.16 FOR UNTO US A CHILD IS BORN, F.40 A LIGHT HAS SHONE, F.41 IN HIM IS LIFE and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### F.3 GLORY TO GOD ON HIGH / Psalm 88
+## F.3 GLORY TO GOD ON HIGH / Psalm 88
 ***Chorus-1:***<br />
 **Glory to God on high and peace to all those He loves.**<br />
 
@@ -58,7 +58,7 @@ In my sight his throne is like the sun,<br />
 Like the moon it shall endure forever,<br />
 A faithful witness in the skies.<br />
 
-### F.7 BE BORN IN US
+## F.7 BE BORN IN US
 ***Chorus:***<br />
 **Be born in us, Incarnate Love! (2)**<br />
 
@@ -73,7 +73,7 @@ Take our hands and fold them in your prayer.<br />
 
 Take our hearts and give them your will to love.<br />
 
-### F.11 REJOICE FOR CHRIST HAS COME / Psalm 97
+## F.11 REJOICE FOR CHRIST HAS COME / Psalm 97
 ***Chorus:***<br />
 **Rejoice, rejoice, for Christ has come**<br />
 **and all have seen his salvation.**<br />
@@ -108,7 +108,7 @@ He comes to reign over all the earth,<br />
 The world with justice he will rule<br />
 And all the people with fairness.<br />
 
-### F.12 SOMEWHERE FAR
+## F.12 SOMEWHERE FAR
 Somewhere far from town and people<br />
 In a stable poor,<br />
 Jesus Christ was born of Mary,<br />
@@ -135,7 +135,7 @@ You can hear it still,<br />
 If you bend his cave to enter,<br />
 If you're of good will.<br />
 
-### F.15 THE LIGHT OF CHRIST
+## F.15 THE LIGHT OF CHRIST
 ***Chorus:***<br />
 **The light of Christ has come into the world (2).**<br />
 
@@ -154,7 +154,7 @@ So that we might have salvation;<br />
 From the darkness of our sins we walk<br />
 Into glory with Christ Jesus.<br />
 
-### F.16 FOR UNTO US A CHILD IS BORN
+## F.16 FOR UNTO US A CHILD IS BORN
 
 For unto us a child is born,<br />
 Unto us a Son is given,<br />
@@ -164,7 +164,7 @@ Wonderful Counsellor, the Mighty God,<br />
 The Everlasting Father<br />
 And the Prince of Peace is He.<br />
 
-### F.40 A LIGHT HAS SHONE
+## F.40 A LIGHT HAS SHONE
 ***Chorus:***<br />
 **A light has shone upon us this day;**<br />
 **For the Lord, our Saviour, is born for us.**<br />
@@ -184,7 +184,7 @@ Let all the lands and seas shout for joy.<br />
 To God be glory in the highest heav'n, evermore<br />
 And peace on earth to people of good will.<br />
 
-### F.41 IN HIM IS LIFE
+## F.41 IN HIM IS LIFE
 
 He came unto His own and His own received Him not,<br />
 But His life is the light of all (2).<br />
@@ -196,7 +196,7 @@ But His life is the light of all (2).<br />
 But as many as received, to them He gave the power<br />
 To become the children of God (2).<br />
 
-### F.42 CHRISTMAS ALLELUIA
+## F.42 CHRISTMAS ALLELUIA
 ***Chorus:***<br />
 **Alleluia, (5)**<br />
 
@@ -209,7 +209,7 @@ Peace on earth to all people of good will.<br />
 Worship the Lord on this day most holy.<br />
 For a great light has shone down upon the earth.<br />
 
-### F.46 CHRISTMAS IS A BABY
+## F.46 CHRISTMAS IS A BABY
 ***Chorus:***<br />
 **Christmas is a baby in a smelly stall,**<br />
 **Jesus Christ is homeless, God who loves us all.**<br />
@@ -227,7 +227,7 @@ Finding God Almighty in a baby's cries.<br />
 Christmas is wise scholars turning from their scrolls<br />
 To the greatest mystery: God which flesh enfolds.<br />
 
-### F.48 EVERY DAY, IT'S CHRISTMAS
+## F.48 EVERY DAY, IT'S CHRISTMAS
 
 Glory to God, peace to his people on earth.<br />
 We bring you tidings of joy<br />

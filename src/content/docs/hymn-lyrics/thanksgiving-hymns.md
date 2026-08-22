@@ -3,7 +3,7 @@ title: Thanksgiving Hymns Lyrics
 description: "Hymn lyrics: C.1 THIS IS THE DAY, C.4 THERE ARE NUMEROUS STRINGS, (C)C.5 I WILL SING GOD'S PRAISES / Psalm 22, CC.6 GREAT INDEED ARE YOUR WORKS, C.11 HEAVEN AND EARTH, C.17 I WILL SING TO MY GOD / Psalm 145, C.22 ALLELUIA, PRAISE THE LORD / Psalm 150, C.24 ALL THINGS BRIGHT AND BEAUTIFUL and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### C.1 THIS IS THE DAY
+## C.1 THIS IS THE DAY
 
 This is the day which the Lord has made,<br />
 Let us be glad and rejoice:<br />
@@ -28,7 +28,7 @@ Rising, he conquered all strife;<br />
 having attended his banquet of love,<br />
 Rise in his newness of life.<br />
 
-### C.4 THERE ARE NUMEROUS STRINGS
+## C.4 THERE ARE NUMEROUS STRINGS
 ***Chorus:***<br />
 **There are numerous strings in your lute,**<br />
 **let me add my own among them.**<br />
@@ -44,7 +44,7 @@ In the dance of your festival of lights,<br />
 My heart will throb and<br />
 My life will be one with your smile.<br />
 
-### (C)C.5 I WILL SING GOD'S PRAISES / Psalm 22
+## (C)C.5 I WILL SING GOD'S PRAISES / Psalm 22
 ***Chorus-1:***<br />
 **I will sing God's praises,**<br />
 **Now and for evermore.**<br />
@@ -69,7 +69,7 @@ His loving favours pursue me.<br />
 
 His house: my dwelling for ever.<br />
 
-### CC.6 GREAT INDEED ARE YOUR WORKS
+## CC.6 GREAT INDEED ARE YOUR WORKS
 ***Chorus:***<br />
 **Great indeed are your works, O Lord,**<br />
 **Now and evermore.**<br />
@@ -91,7 +91,7 @@ to the heavenly kingdom.<br />
 Then at the end of all time,<br />
 You will come in glory.<br />
 
-### C.11 HEAVEN AND EARTH
+## C.11 HEAVEN AND EARTH
 ***Chorus:***<br />
 **Heav'n and earth for ever sing**<br />
 **Praises to their God.**<br />
@@ -109,7 +109,7 @@ As thrice with love we say: Holy God.<br />
 So we join in prayer, with the angels we adore,<br />
 While giving thanks to God evermore.<br />
 
-### C.17 I WILL SING TO MY GOD / Psalm 145
+## C.17 I WILL SING TO MY GOD / Psalm 145
 ***Chorus:***<br />
 **O give thanks to the Lord, for he is good (3)**<br />
 **Yes, eternal is his love.**<br />
@@ -134,7 +134,7 @@ But the wicked he foils and they stumble.<br />
 Yes, the Lord reigns for ever and ever,<br />
 He is king over Sion without end.<br />
 
-### C.22 ALLELUIA, PRAISE THE LORD / Psalm 150
+## C.22 ALLELUIA, PRAISE THE LORD / Psalm 150
 ***Chorus:***<br />
 **Alleluia, alleluia, alleluia, alleluia!**<br />
 
@@ -150,7 +150,7 @@ With the clashing of cymbals, praise the Lord, Al.<br />
 Praise to God, the Father and the Son, Al.<br />
 To the Spirit for ever glory be, Al.<br />
 
-### C.24 ALL THINGS BRIGHT AND BEAUTIFUL
+## C.24 ALL THINGS BRIGHT AND BEAUTIFUL
 ***Chorus:***<br />
 **All things bright and beautiful,**<br />
 **All creatures great and small,**<br />
@@ -177,7 +177,7 @@ And lips that we might tell,<br />
 How great is God almighty,<br />
 Who has made all things well.<br />
 
-### C.26 GOD IS SO GOOD
+## C.26 GOD IS SO GOOD
 
 God is so good, God is so good,<br />
 God is so good, He’s so good to me.<br />
@@ -194,7 +194,7 @@ I’ll trust in Him...<br />
 
 I’ll sing his praise...<br />
 
-### C.28 PRAISE HIM
+## C.28 PRAISE HIM
 
 Praise him, praise him,<br />
 Praise him in the morning,<br />
@@ -210,7 +210,7 @@ Serve Him.<br />
 
 Jesus.<br />
 
-### C.39 I WILL SING OF THE MERCIES
+## C.39 I WILL SING OF THE MERCIES
 ***Chorus:***<br />
 **I will sing of the mercies of the Lord,**<br />
 **For ever I will sing, I will sing. (2)**<br />
@@ -220,7 +220,7 @@ Your faithfulness, your faithfulness,<br />
 With my mouth will I make known<br />
 Your faithfulness to all generation.<br />
 
-### C.40 PRAISE THE LORD AND SING
+## C.40 PRAISE THE LORD AND SING
 ***Chorus:***<br />
 **Praise the Lord and sing halleluiah,**<br />
 **halleluiah, halleluiah (2).**<br />
@@ -241,7 +241,7 @@ praise him in the night...<br />
 Praise him in the thunder for he is the<br />
 God of might...<br />
 
-### C.42 SING OUT TO GOD
+## C.42 SING OUT TO GOD
 ***Chorus:***<br />
 **Sing out to God, shout to the Lord,**<br />
 **Praise him with all your heart. (2)**<br />
@@ -261,7 +261,7 @@ Glory. honour, praise,<br />
 Through the Spirit with them one,<br />
 Joyful hearts we raise!<br />
 
-### C.48 SING PRAISES TO THE LORD
+## C.48 SING PRAISES TO THE LORD
 
 Sing praises to the Lord, alleluia!<br />
 
@@ -273,7 +273,7 @@ He died that we might live,<br />
 He rose again to life,<br />
 He lives no more to die, alleluia!<br />
 
-### C.49 JESUS IS MY SONG
+## C.49 JESUS IS MY SONG
 
 Jesus is my song of joy,<br />
 He is my everything.<br />
@@ -291,7 +291,7 @@ Love<br />
 
 Peace<br />
 
-### C.46 WE SHALL SING YOUR PRAISE
+## C.46 WE SHALL SING YOUR PRAISE
 ***Chorus:***<br />
 **We shall sing your praise, O Lord,**<br />
 **Now and evermore, now and evermore,**<br />
@@ -312,7 +312,7 @@ And  every widow you defend: Yes, O Lord,<br />
 For us your love shall never end,<br />
 Yes, O Lord, we shall sing your praise.<br />
 
-### C.50 ALWAYS
+## C.50 ALWAYS
 ***Chorus:***<br />
 **Always I will sing of the glory of the Lord,**<br />
 **Always I will sing of the glory of the Lord, always.**<br />
@@ -328,7 +328,7 @@ Love Him, love Him, for he loved us to the end.<br />
 Name Him, name Him, King of the universe,<br />
 Love Him, love Him, for He is the God of Love.<br />
 
-### C.51 PRAISE GOD / Psalm 145
+## C.51 PRAISE GOD / Psalm 145
 ***Chorus:***<br />
 **Praise God, praise God,**<br />
 **Let his love remind us of the power of his name.**<br />
@@ -369,7 +369,7 @@ And holy in his works.<br />
 He raises up the lowly and<br />
 He lifts the falling up for ever.<br />
 
-### C.54 WHAT THANKS, O LORD
+## C.54 WHAT THANKS, O LORD
 ***Chorus:***<br />
 **What thanks O Lord, can I render Thee,**<br />
 **For al the gifts Thou showered on me?**<br />
@@ -391,7 +391,7 @@ Yes, eternal is His love.<br />
 Though I walk in the midst of affliction,<br />
 He stretches his hand to save.<br />
 
-### C.55 SING MY SOUL
+## C.55 SING MY SOUL
 ***Chorus:***<br />
 **Sing my soul to the Lord of the universe!**<br />
 **Lift your heart in song!**<br />
@@ -415,7 +415,7 @@ all in one to be!<br />
 He redeemed us by his blood,<br />
 Now we form a family!<br />
 
-### C.56 ALL MY DAYS
+## C.56 ALL MY DAYS
 ***Chorus:***<br />
 **Till the end of my days, O Lord,**<br />
 **I will bless your name, sing your praise,**<br />
@@ -436,7 +436,7 @@ That you sent us your Saviour Son.<br />
 His death and his rising will heal us<br />
 And draw us all unto you.<br />
 
-### C.58 DAWN IS BREAKING
+## C.58 DAWN IS BREAKING
 
 Dawn, it is breaking, the night, it has gone,<br />
 Day is beginning, the air’s filled with song.<br />
@@ -457,7 +457,7 @@ Waves breaking gently while white seagulls cry.<br />
 Sun, it is setting, the night, it is nigh.<br />
 Day, it is ending, the moon’s in the sky.<br />
 
-### C.59 HEAVEN AND EARTH PROCLAIM
+## C.59 HEAVEN AND EARTH PROCLAIM
 ***Chorus:***<br />
 **Heav’n and earth proclaim God’s glory;**<br />
 **Skies and seas show forth his handiworks.**<br />
@@ -484,7 +484,7 @@ God, our Father, O bless, the Lord!<br />
 For Christ his Son, O bless, the Lord!<br />
 Spirit Holy, O bless, the Lord!<br />
 
-### C.60 THIS WORLD YOU HAVE MADE
+## C.60 THIS WORLD YOU HAVE MADE
 ***Chorus:***<br />
 **This world you have made is a beautiful place:**<br />
 **It tells the power of your love.**<br />
@@ -506,7 +506,7 @@ Infinity drifts in space,<br />
 Your grandeur straddles the mountain tops,<br />
 And we see your face in each face.<br />
 
-### C.61 WORSHIP, GLORY, PRAISE AND HONOUR / Psalm 148
+## C.61 WORSHIP, GLORY, PRAISE AND HONOUR / Psalm 148
 ***Chorus:***<br />
 **Worship, Glory, praise and honour,**<br />
 **Worship and honour to God.**<br />
@@ -549,7 +549,7 @@ All glory be to you,<br />
 Glory to God most high,<br />
 We bless our God!<br />
 
-### C.63 THANK YOU
+## C.63 THANK YOU
 ***Chorus:***<br />
 **Thank you, O Lord, your love is boundless.**<br />
 **Thank you, your presence is our peace.**<br />
@@ -571,7 +571,7 @@ Thank you for every joy we share.<br />
 Thank you for all our friends and neighbours.<br />
 Thank you for those who love and care.<br />
 
-### C.66 BE EXALTED, O GOD
+## C.66 BE EXALTED, O GOD
 
 I will give thanks to you, O Lord, among the people<br />
 I will sing praises to you among the nations,<br />
@@ -595,7 +595,7 @@ Age to age proclaim your splendour and your glory<br />
 You are kind to us, O God, full over tender love and mercy,<br />
 And your graciousness and your constancy have no compare.<br />
 
-### C.69 IN HIS TIME
+## C.69 IN HIS TIME
 
 In His time, In His time,<br />
 He makes all things beautiful in His time.<br />
@@ -621,7 +621,7 @@ If for years we fail to scan<br />
 What is his eternal plan,<br />
 We’ll remember that He can, all the time.<br />
 
-### C.70 I WONDER
+## C.70 I WONDER
 
 When I look at the sky which You have made,<br />
 At the moon and the stars which You set into place,<br />
@@ -637,7 +637,7 @@ At the creatures on land and the fish in the sea,<br />
 I know You care for the smallest bird,<br />
 I know that You love me!<br />
 
-### C.72 O SING TO THE CHIEF MUSICIAN
+## C.72 O SING TO THE CHIEF MUSICIAN
 
 O sing to the Chief Musician,<br />
 O sing from the depths of your hearts.<br />
@@ -656,7 +656,7 @@ Worthy is He, the Lamb that was slain,<br />
 His song of salvation: our fav'rite refrain,<br />
 O sing to the Chief Musician a glorious song.<br />
 
-### (C)C.73 THY LOVING KINDNESS
+## (C)C.73 THY LOVING KINDNESS
 
 Thy loving kindness is better than life, (2)<br />
 My lips shall praise Thee, thus will I bless Thee,<br />
@@ -690,7 +690,7 @@ Happy the people, who call on His name,<br />
 My lips shall praise Thee, thus will I bless Thee,<br />
 I will lift up my hands unto Thy name. (2)<br />
 
-### C.74 LORD, YOUR WAYS ARE TRUE AND JUST
+## C.74 LORD, YOUR WAYS ARE TRUE AND JUST
 
 Lord, your ways are true and just<br />
 And we will praise your name,<br />
@@ -712,7 +712,7 @@ Yes, your truth makes us all free...<br />
 Guide us, Lord, along your path.<br />
 Send our hearts to do your will.<br />
 
-### C.77 I WILL SING UNTO THE LORD
+## C.77 I WILL SING UNTO THE LORD
 
 I will sing unto the Lord as long as I live,<br />
 I will sing praise to my God while I have my being.<br />
@@ -728,7 +728,7 @@ Seen everywhere in our land, remembered for ever.<br />
 Search for the Lord, never cease, worship Him,<br />
 With all your Heart, with all your strength, worship Him.<br />
 
-### C.78 I WILL PRAISE YOU, O LORD
+## C.78 I WILL PRAISE YOU, O LORD
 ***Chorus:***<br />
 **I will praise you, O Lord, with all my heart (2)**<br />
 **And I will glorify your name for evermore,**<br />
@@ -750,7 +750,7 @@ So gracious, so ready to forgive the sinful soul.<br />
 There is none like you, O Lord, upon the earth,<br />
 In heav’n above.<br />
 
-### C.80 LORD, MAKE ME AN INSTRUMENT
+## C.80 LORD, MAKE ME AN INSTRUMENT
 
 Lord, make me an instrument,<br />
 an instrument of worship,<br />
@@ -762,7 +762,7 @@ For we are a symphony... of worship...<br />
 
 We'll sing you a love-song... of worship...<br />
 
-### C.81 SING UNTO THE LORD A NEW SONG
+## C.81 SING UNTO THE LORD A NEW SONG
 ***Chorus:***<br />
 **Sing unto the Lord a new song,**<br />
 **Sing unto the Lord, all the earth.**<br />

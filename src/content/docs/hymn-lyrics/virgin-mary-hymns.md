@@ -3,7 +3,7 @@ title: Blessed Virgin Mary Hymns Lyrics
 description: "Hymn lyrics: T.1 HOLY MOTHER OF OUR REDEEMER, T.4 ALL THE BRIGHT MORNING STARS, T.6 YOU ARE THE HONOUR, T.7 MY SOUL GLORIFIES THE LORD, T.8 MY SOUL SINGS THE GLORY OF GOD, T.20 MARY SAID: \"YES\", T.21 WITHIN YOUR SPLENDOUR / Psalm 44, T.24 HAIL, HOLY QUEEN and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### T.1 HOLY MOTHER OF OUR REDEEMER
+## T.1 HOLY MOTHER OF OUR REDEEMER
 Holy Mother of our Redeemer,<br />
 Ever open gate of heaven<br />
 And star of the sea,<br />
@@ -14,7 +14,7 @@ Remaining ever Virgin.<br />
 Receive the greetings of the Angel Gabriel,<br />
 And have pity on us, sinners.<br />
 
-### T.4 ALL THE BRIGHT MORNING STARS
+## T.4 ALL THE BRIGHT MORNING STARS
 ***Chorus:***<br />
 **All the bright morning stars**<br />
 **Sing together her praises**<br />
@@ -38,7 +38,7 @@ Proclaiming his name as Jesus, the Lord.<br />
 O Virgin Mary, Queen of all angels and men,<br />
 O full of his grace, implore God for us.<br />
 
-### T.6 YOU ARE THE HONOUR
+## T.6 YOU ARE THE HONOUR
 ***Chorus:***<br />
 **You are the honour,**<br />
 **You are the glory of our people,**<br />
@@ -62,7 +62,7 @@ Holy Virgin Mary.<br />
 Give praise to God in the Church and Christ,<br />
 Holy Virgin Mary.<br />
 
-### T.7 MY SOUL GLORIFIES THE LORD
+## T.7 MY SOUL GLORIFIES THE LORD
 ***Chorus-1:***<br />
 **My soul glorifies the Lord, my spirit**<br />
 **rejoices in God, my Saviour.**<br />
@@ -101,7 +101,7 @@ For Abraham and his sons for ever.<br />
 Praise the Father, the Son and Holy Spirit,<br />
 Both now and for ever, world without end.<br />
 
-### T.8 MY SOUL SINGS THE GLORY OF GOD
+## T.8 MY SOUL SINGS THE GLORY OF GOD
 ***Chorus:***<br />
 **My soul sings the glory of God,**<br />
 **My spirit finds joy in the Lord, my Saviour.**<br />
@@ -135,7 +135,7 @@ To Abraham and his posterity.<br />
 To God, the mighty One, give praise for ever more,<br />
 The Father, Son, and Holy Spirit blest.<br />
 
-### T.20 MARY SAID: "YES"
+## T.20 MARY SAID: "YES"
 "O maiden, will you be the mother of the Saviour?<br />
 Your God has chosen you to give the world his Son.<br />
 His power will be your shield, his Spirit come upon you."<br />
@@ -156,7 +156,7 @@ And nail him to a tree, your sinless, spotless one.<br />
 The price of mankind’s ransom will heavy full upon him."<br />
 And Mary bowed and said: "God’s will be done!"<br />
 
-### T.21 WITHIN YOUR SPLENDOUR / Psalm 44
+## T.21 WITHIN YOUR SPLENDOUR / Psalm 44
 ***Chorus-1:***<br />
 **Within your splendour and in your beauty,**<br />
 **You reign triumphant, O Virgin Mary!**<br />
@@ -189,7 +189,7 @@ All thanks and glory evermore.<br />
 O Mother of God and mother of all mankind,<br />
 Guide us to Christ, your blessed Son.<br />
 
-### T.24 HAIL, HOLY QUEEN
+## T.24 HAIL, HOLY QUEEN
 Hail Holy Queen, Mother of Mercy,<br />
 Hail, our life, our sweetness and our hope.<br />
 To you, do we cry, Eve’s poor banished children,<br />
@@ -200,7 +200,7 @@ After our exile, show to us<br />
 The fruit of your womb, Jesus.<br />
 O clement, O loving, O sweet Virgin Mary! (2)<br />
 
-### T.26 HAIL, MARY, FULL OF GRACE
+## T.26 HAIL, MARY, FULL OF GRACE
 ***Chorus:***<br />
 **Hail, Mary, full of grace and mother of our God,**<br />
 **O pray for us, poor sinners, Hail, Mary, full of grace.**<br />
@@ -223,7 +223,7 @@ O bless’d among all women, O Mary, pray for us.<br />
 Now show yourself to us as Mother of all mankind.<br />
 O bless’d among all women, O Mary, pray for us.<br />
 
-### T.29 INVOCATION TO MARY
+## T.29 INVOCATION TO MARY
 ***Chorus:***<br />
 **Help us to live as your children,**<br />
 **O give us your courage to say: Amen!**<br />
@@ -240,7 +240,7 @@ When all our work is in vain.<br />
 Help us to live our commitment,<br />
 Help us to answer God’s call.<br />
 
-### T.30 TO OUR LADY OF THE WAY
+## T.30 TO OUR LADY OF THE WAY
 No one can live as an island,<br />
 Journeying through life alone.<br />
 Since we're most loved by a mother,<br />
@@ -267,7 +267,7 @@ We shall run short of wine.<br />
 Then, as at Cana, request your Son<br />
 To make our lives divine.<br />
 
-### T.32 I WILL GREATLY REJOICE
+## T.32 I WILL GREATLY REJOICE
 ***Chorus:***<br />
 **I will greatly rejoice in the Lord (2)**<br />
 **My soul shall exult, shall exult in my God.**<br />
@@ -283,7 +283,7 @@ And as a garden causes what is sown in it to spring up,<br />
 So the Lord will cause righteousness and praise<br />
 To spring forth before all the nations.<br />
 
-### T.33 O WITH WHAT JOY
+## T.33 O WITH WHAT JOY
 O with what joy we sing of Mary,<br />
 A woman of great love,<br />
 Whose openness and loving kindness,<br />
@@ -293,7 +293,7 @@ Be with us as we pray<br />
 To know the whisper of his presence.<br />
 The wonder of his love!<br />
 
-### T.34 LET'S SING TO OUR MOTHER
+## T.34 LET'S SING TO OUR MOTHER
 ***Chorus:***<br />
 **Let’s sing to our Mother,**<br />
 **As we would sing to our love,**<br />
@@ -319,7 +319,7 @@ Bride of the Spirit of Love.<br />
 Reigning triumphant, Leading your children<br />
 Home to heaven above.<br />
 
-### T.35 HOLY VIRGIN, BY GOD'S DECREE
+## T.35 HOLY VIRGIN, BY GOD'S DECREE
 Holy Virgin, by God’s decree,<br />
 You were called eternally,<br />
 That He could give his Son to our race.<br />
@@ -343,7 +343,7 @@ Love and beauty you portray.<br />
 Showing the path to Christ we must trace,<br />
 Mary, our mother, hail full of grace.<br />
 
-### T.37 WHEN YOU CAME TO BETHLEHEM
+## T.37 WHEN YOU CAME TO BETHLEHEM
 ***Chorus:***<br />
 **Ave Maria, Mother of God’s son.**<br />
 **Mother of our Saviour,**
@@ -364,7 +364,7 @@ Help us Mother dear.<br />
 May we really welcome Him,<br />
 When He’s born this year. (2)<br />
 
-### T.38 YOUR GREATNESS
+## T.38 YOUR GREATNESS
 ***Chorus:***<br />
 **Your greatness was your faith,**<br />
 **Your greatness was your love.**<br />
@@ -381,7 +381,7 @@ Like Isaac of the promise, your Son we all await.<br />
 Rejoice, Zion's daughter, the mother of our King,<br />
 We, his kingly people, to you we gladly sing.<br />
 
-### T.40 MOTHER OF Jesus
+## T.40 MOTHER OF Jesus
 ***Chorus:***<br />
 **Mother of Jesus and Mother of lowliness,**<br />
 **Bearing the Light of the world,**<br />
@@ -408,7 +408,7 @@ You are the Father's delight:<br />
 Pray for us, sinners, to Jesus, your Son,<br />
 Show us the Light of the world.<br />
 
-### T.44 O VIRGIN FAIR
+## T.44 O VIRGIN FAIR
 ***Chorus:***<br />
 **O Virgin fair, star of the sea,**<br />
 **My dearest mother, pray for me.**<br />
@@ -433,7 +433,7 @@ Had all your sorrow wiped away,<br />
 As God the Father’s will was done,<br />
 When from death’s hold He freed your Son.<br />
 
-### T.45 MY SOUL PROCLAIMS THE LORD
+## T.45 MY SOUL PROCLAIMS THE LORD
 ***Chorus***<br />
 **My soul proclaims the Lord, my God.**<br />
 **My spirit sings his praise.**<br />
@@ -455,7 +455,7 @@ The rich He sends away.<br />
 The promise made to Abraham<br />
 Is filled by Him each day.<br />
 
-### T.46 AVE MARIA
+## T.46 AVE MARIA
 ***Chorus:***<br />
 **Ave Maria, gratia plena,**<br />
 **Dominus tecum, benedicta tu.**<br />
@@ -475,7 +475,7 @@ And I see your smiling face,<br />
 Every thought, every word<br />
 Is lost in your embrace.<br />
 
-### T.49 MOTHER OF JESUS, FULL OF GRACE
+## T.49 MOTHER OF JESUS, FULL OF GRACE
 ***Chorus:***<br />
 **Mother of Jesus, Virgin full of grace,**<br />
 **Mary, we praise you, honour of our race.**<br />
@@ -510,7 +510,7 @@ Morning star of the sea,<br />
 Gate of heavenly bliss,<br />
 Surest guide to the Lord.<br />
 
-### T.52 QUEEN OF HEAVEN, REJOICE
+## T.52 QUEEN OF HEAVEN, REJOICE
 Oueen of heaven rejoice, allelu, alleluia,<br />
 For the Son you were worthy to bear,<br />
 Has now risen indeed as he said, alleluia,<br />
@@ -530,7 +530,7 @@ Your concern for the poor of our race.<br />
 While the people proclaim you: "Most blest among women",<br />
 Let the angels sing: "Hail, full of grace".<br />
 
-### T.53 I WILL MAGNIFY YOUR NAME
+## T.53 I WILL MAGNIFY YOUR NAME
 ***Chorus:***<br />
 **I will magnify your name, O Lord, alleluia,**<br />
 **I will drink of the well of your love, alleluia!**<br />
@@ -550,7 +550,7 @@ And the rich empty handed send away.<br />
 I will worship you to the end of my days,<br />
 With a heart that is full of praise.<br />
 
-### T.54 GLORY AND HONOUR TO Mary
+## T.54 GLORY AND HONOUR TO Mary
 ***Chorus:***<br />
 **Let there be glory and honour and praises,**<br />
 **Glory and honour to Mary,**<br />
@@ -571,7 +571,7 @@ Gladly welcomed God's plan for her.<br />
 She was present at Cana, pleading.<br />
 She was standing by the cross of Christ.<br />
 
-### T.55 O HOW WE LOVE MARY
+## T.55 O HOW WE LOVE MARY
 O how we love, Mary, to praise you,<br />
 Honour your name, bless you always.<br />
 You are the mother of Jesus Christ<br />
@@ -593,14 +593,14 @@ To love as you loved, care as you cared.<br />
 Help us say yes when we are called<br />
 To serve and do God's will.<br />
 
-### T.56 LET MY SOUL PROCLAIM
+## T.56 LET MY SOUL PROCLAIM
 ***Chorus:***<br />
 **Let my soul proclaim your greatness**<br />
 **For ever, O my God.**<br />
 
 ***For verses see, T.7***<br />
 
-### T.59 AVE MARIA
+## T.59 AVE MARIA
 ***Chorus:***<br />
 **Ave Maria! (4)**<br />
 

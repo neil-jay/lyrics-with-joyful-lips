@@ -3,7 +3,7 @@ title: Mission, Confirmation Hymns Lyrics
 description: "Hymn lyrics: (S)S.1 SEND FORTH YOUR MESSENGERS, S.2 GO FORTH AND PROCLAIM THE GOOD NEWS, S.5 THE SPIRIT OF GOD RESTS UPON ME, S.8 HAUL, HAUL AWAY, S.9 LET ALL PROCLAIM, S.10 COME, FOLLOW ME, S.11 BLESSED ARE THEY, S.12 FOLLOW ME and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### (S)S.1 SEND FORTH YOUR MESSENGERS
+## (S)S.1 SEND FORTH YOUR MESSENGERS
 ***Chorus-1:***<br />
 **Send forth your messengers, O Lord,**<br />
 **They will spread your light**<br />
@@ -30,13 +30,13 @@ your life with those<br />
 Who, strangers though they be,<br />
 seek from you their repose.<br />
 
-### S.2 GO FORTH AND PROCLAIM THE GOOD NEWS
+## S.2 GO FORTH AND PROCLAIM THE GOOD NEWS
 ***Chorus:***<br />
 **Go forth and proclaim the good news,**<br />
 **Making all nations my disciples, alleluia, amen.**<br />
 ***For verses: see Z.95***<br />
 
-### S.5 THE SPIRIT OF GOD RESTS UPON ME
+## S.5 THE SPIRIT OF GOD RESTS UPON ME
 ***Chorus:***<br />
 **The Spirit of God rests upon me,**<br />
 **The Spirit of God consecrates me,**<br />
@@ -62,7 +62,7 @@ salvation to all...<br />
 ...Called to reveal his glory among<br />
 all the people...<br />
 
-### S.8 HAUL, HAUL AWAY
+## S.8 HAUL, HAUL AWAY
 ***Chorus:***<br />
 **Haul, haul away. Haul, haul away.**<br />
 **Cast the nets wide and sink the nets deep**<br />
@@ -89,7 +89,7 @@ His friends came to help when they heard Peter call...<br />
 But he said: "Come with me and be fishers of men".<br />
 And it's...<br />
 
-### S.9 LET ALL PROCLAIM
+## S.9 LET ALL PROCLAIM
 ***Chorus:***<br />
 **Let all proclaim to the glory of the Father**<br />
 **That Jesus Lord, that Jesus is Lord,**<br />
@@ -111,7 +111,7 @@ Loving every friend and foe, forgiving all the time.<br />
 This shall be the sign by which all people'll know you're mine.<br />
 That you love and treat each other the way that I have shown.<br />
 
-### S.10 COME, FOLLOW ME
+## S.10 COME, FOLLOW ME
 I am the Light, bringing you out of darkness,<br />
 So come, take my light to the world.<br />
 I am the Bread you must feed to the hungry.<br />
@@ -138,7 +138,7 @@ To help feed my lambs, feed my sheep.<br />
 Bring back the straying and bind up their wounds<br />
 And rejoice when you've found what was lost.<br />
 
-### S.11 BLESSED ARE THEY
+## S.11 BLESSED ARE THEY
 Blessed are they who are poor in spirit,<br />
 Theirs is the Kingdom of God.<br />
 Bless us, O Lord, make us poor in spirit;<br />
@@ -178,7 +178,7 @@ Blest those who suffer from persecution,<br />
 Theirs is the Kingdom of God.<br />
 Bless us, O Lord, when they persecute us!...<br />
 
-### S.12 FOLLOW ME
+## S.12 FOLLOW ME
 ***Chorus:***<br />
 **Follow me, follow me, leave your home and family,**<br />
 **Leave your fishing nets and boats upon the shore.**<br />
@@ -207,7 +207,7 @@ Though all of you may scatter,br>
 Each follow his own path,<br />
 Still the spirit of love will lead you home.<br />
 
-### S.13 LEAVE YOUR COUNTRY & YOUR PEOPLE
+## S.13 LEAVE YOUR COUNTRY & YOUR PEOPLE
 ***Chorus:***<br />
 **Leave your country and your people,**<br />
 **Leave your family and your friends.**<br />
@@ -234,7 +234,7 @@ Climb the narrow, rocky ledge,<br />
 Leave behind all the things that hinder,<br />
 Go with only God as pledge.<br />
 
-### S.15 WE ARE GOD'S PEOPLE
+## S.15 WE ARE GOD'S PEOPLE
 ***Chorus:***<br />
 **We are God's people:**<br />
 **He has called us and chosen us,**<br />
@@ -253,7 +253,7 @@ that we may spread his kingdom of peace.<br />
 God gives us the Spirit of Christ<br />
 that we may bring his justice to all.<br />
 
-### S.16 YOU ARE A CHOSEN GENERATION
+## S.16 YOU ARE A CHOSEN GENERATION
 ***Chorus:***<br />
 **You are a chosen generation,**<br />
 **A royal priesthood, a holy nation,**<br />
@@ -270,7 +270,7 @@ Into his marvellous light (2). (For....)<br />
 
 **Into freedom (4), into his marvellous light (2)**<br />
 
-### S.17 THE HARVEST IS GREAT
+## S.17 THE HARVEST IS GREAT
 ***Chorus:***<br />
 **The harvest is great and plentiful**<br />
 **But the lab'rers are very few,**<br />
@@ -297,7 +297,7 @@ That death gives way to life.<br />
 How the cross of Christ destroys<br />
 The wisdom of the wise!<br />
 
-### S.19 GOD'S SPIRIT IS IN MY HEART
+## S.19 GOD'S SPIRIT IS IN MY HEART
 God’s Spirit is in my heart,<br />
 He has called me and se t me apart.<br />
 This is what I have to do,br>

@@ -3,7 +3,7 @@ title: Passion and Cross Lyrics
 description: "Hymn lyrics: H.1 WE HAIL THEE, H.3 PRAYER TO THE SUFFERING INNOCENT / Psalm 21, H.4 O CROSS, ERECTED ABOVE THE WORLD, H.6 THE REPROACHES, HH.8 CHRIST BECAME OBEDIENT, H.9 YOU WHO PASS BY THE WAY / Psalm 68, H.11 FROM THE DEPTHS I CALL / Psalm 129, H.12 BE THIS MIND IN YOU and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### H.1 WE HAIL THEE
+## H.1 WE HAIL THEE
 ***Chorus:***<br />
 **We hail thee, Saviour and Lord,**<br />
 **Thy cross ever be adored!**<br />
@@ -23,7 +23,7 @@ Redeem us from sin and strife;<br />
 Renew  in us thy passion,<br />
 And grant us eternal life.<br />
 
-### H.3 PRAYER TO THE SUFFERING INNOCENT / Psalm 21
+## H.3 PRAYER TO THE SUFFERING INNOCENT / Psalm 21
 ***Chorus-1:***<br />
 **My Father, not my will**<br />
 **But yours alone be done.**<br />
@@ -69,7 +69,7 @@ I will tell of your name to my brethren.<br />
 They shall praise the Lord, those who seek him,<br />
 May their hearts live for ever and ever.<br />
 
-### H.4 O CROSS, ERECTED ABOVE THE WORLD
+## H.4 O CROSS, ERECTED ABOVE THE WORLD
 
 O Cross, erected above the world,<br />
 Cross of our Saviour King! (2)<br />
@@ -99,7 +99,7 @@ Sign of redemption and life:<br />
 Homage and glory belong to thee,<br />
 Cross of our Saviour King!<br />
 
-### H.6 THE REPROACHES
+## H.6 THE REPROACHES
 ***Chorus-1:***<br />
 **My people, what have I done to you?**<br />
 **How have I afflicted you?**<br />
@@ -154,14 +154,14 @@ But you gave me a crown of thorns. (1)<br />
 I raised you to the height of majesty,<br />
 But high on a cross, you raised me. (1)<br />
 
-### HH.8 CHRIST BECAME OBEDIENT
+## HH.8 CHRIST BECAME OBEDIENT
 
 Christ became obedient unto death,<br />
 unto death, a death upon the cross.<br />
 Therefore God has raised Him to the heights,<br />
 giving Him a name above all names.<br />
 
-### H.9 YOU WHO PASS BY THE WAY / Psalm 68
+## H.9 YOU WHO PASS BY THE WAY / Psalm 68
 ***Chorus:***<br />
 **You who pass by the way, look and see;**<br />
 **Was there ever sorrow like mine?**<br />
@@ -186,7 +186,7 @@ For God does not despise his own that are in need.<br />
 Let all the living creatures on earth give Him praise,<br />
 For Sion he will save and those who love his name.<br />
 
-### H.11 FROM THE DEPTHS I CALL / Psalm 129
+## H.11 FROM THE DEPTHS I CALL / Psalm 129
 ***Chorus:***<br />
 From the depths I call to you, O Lord,<br />
 Listen to my cry.<br />
@@ -206,7 +206,7 @@ He, the Lord, is kind.<br />
 He gives us pardon, generous redemption,<br />
 Casts our sins behind.<br />
 
-### H.12 BE THIS MIND IN YOU
+## H.12 BE THIS MIND IN YOU
 
 Be this mind in you, the same that was in Jesus,<br />
 Who held not to his glory, but deigned to live with us.<br />
@@ -220,7 +220,7 @@ To him has God then given, above all names, a name,<br />
 That every knee shall bend before and every voice acclaim.<br />
 Jesus, Lord, keep this mind in us!<br />
 
-### H.16 BE NOT AFRAID
+## H.16 BE NOT AFRAID
 
 You who are burdened, toil and sweat,<br />
 Longing for rest but all in vain,<br />
@@ -246,7 +246,7 @@ People whom one has crucified,<br />
 Be not afraid of sacrifice,<br />
 Be not afraid in front of death.<br />
 
-### H.17 WERE YOU THERE?
+## H.17 WERE YOU THERE?
 Were you there when they crucified my Lord?<br />
 Were you there when they crucified my Lord?<br />
 Oh! sometimes it causes me to tremble, tr., tr.,<br />
@@ -258,7 +258,7 @@ Were you there when they pierced him in the side?<br />
 
 Were you there when they laid him in the tomb?<br />
 
-### H.21 FATHER, IF THIS CUP
+## H.21 FATHER, IF THIS CUP
 ***Chorus:***<br />
 **Father, if this cup cannot pass away,**<br />
 **Unless I drink it, your will be done.**<br />
@@ -275,7 +275,7 @@ Has eternal life.<br />
 The Spirit gives new life;<br />
 My words are Spirit and life.<br />
 
-### H.22 HE WAS WOUNDED
+## H.22 HE WAS WOUNDED
 
 He was wounded for our transgressions.<br />
 He was bruised for our iniquities.<br />
@@ -299,7 +299,7 @@ It was God's plan that He should live again.<br />
 Thus His servant has won salvation,<br />
 Won salvation for all mankind.<br />
 
-### H.24 O MY PEOPLE
+## H.24 O MY PEOPLE
 ***Chorus:***<br />
 **O my people, O my people,**<br />
 **what have done to you?**<br />
@@ -326,7 +326,7 @@ But you produced me before Pilate's court.<br />
 I raised you to the height of glory,<br />
 You raised me high on the cross of shame.<br />
 
-### H.26 FATHER, FORGIVE THEM
+## H.26 FATHER, FORGIVE THEM
 ***Chorus-1:***<br />
 Father, forgive them.<br />
 They know not what they do.<br />
@@ -356,7 +356,7 @@ Indifferent as before;<br />
 And He dies each day in our hearts of clay;<br />
 O Father, teach us how to love. (Ch. 2)<br />
 
-### H.27 HAIL, HOLY CROSS OF OUR SAVIOUR
+## H.27 HAIL, HOLY CROSS OF OUR SAVIOUR
 ***Chorus:***<br />
 **Hail, holy Cross of our Saviour,**<br />
 **Hail, holy Cross of Christ!**<br />
@@ -381,7 +381,7 @@ creation's priceless fruit,<br />
 The third day you shone a symbol<br />
 of his triumph over death.<br />
 
-### H.28 GLORY TO THE CROSS OF CHRIST
+## H.28 GLORY TO THE CROSS OF CHRIST
 ***Chorus:***<br />
 **Sing glory to the cross of Christ,**<br />
 **Sing glory, sing glory, sing glory.**<br />
@@ -397,7 +397,7 @@ Cross by which He saved the world...<br />
 Cross on which our Saviour died...<br />
 Teaching us to die for love...<br />
 
-### H.29 HE WAS DESPISED
+## H.29 HE WAS DESPISED
 
 He was despised and rejected by all,<br />
 A man of sorrows, a man of grief,<br />
@@ -420,13 +420,13 @@ Is now and ever the corner-stone.<br />
 Let every knee bend to Jesus, our Saviour,<br />
 Each tongue confess that He is Lord!<br />
 
-### H.31 SHOUT, O JERUSALEM / Psalm 23
+## H.31 SHOUT, O JERUSALEM / Psalm 23
 
 Shout, O Jerusalem, praise your God,<br />
 Zion, sing to Him and bless his name<br />
 Hosanna, Ho., Ho. to the Son of David!<br />
 
-### H.33 HIS WERE THE WOUNDS
+## H.33 HIS WERE THE WOUNDS
 ***Chorus:***<br />
 **His were the wounds that healed us, (3)**<br />
 **Behold the Lamb of God.**<br />
@@ -446,7 +446,7 @@ On the very road that he trod;<br />
 All we like sheep had gone astray,<br />
 Till he led us back to God.<br />
 
-### H.35 THE SIGN OF CONQUEST
+## H.35 THE SIGN OF CONQUEST
 To the cross Jesus was pinioned,<br />
 Helplessly for all to see,<br />
 Our sins were nailed there beside our Saviour,<br />

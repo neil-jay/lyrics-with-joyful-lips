@@ -3,7 +3,7 @@ title: Alleluia Hymns Lyrics
 description: "Hymn lyrics: AL.10 ALLELUIA! PRAISE GOD / PSALM 116, AL.12 NO LAMP LIKE YOUR WORDS, AL.17 GLORIFY THE LORD, AL.19 ALLELUIA, AL.22 ALLELUIA, AL.26 SING TO THE LORD AN ALLELUIA, AL.29 YOU GIVE ME LIFE, AL.30 MORE BEAUTIFUL THAN LIFE and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### AL.10 ALLELUIA! PRAISE GOD / PSALM 116
+## AL.10 ALLELUIA! PRAISE GOD / PSALM 116
 ***Chorus:*** <br />
 **Alleluia! Praise God, O praise the Lord! (2)**<br />
 
@@ -16,7 +16,7 @@ His faithfulness, eternal as the heavens.<br />
 All praise to God, the Father and the Son,<br />
 And Paraclete who is the bond of love.<br />
 
-### AL.12 NO LAMP LIKE YOUR WORDS
+## AL.12 NO LAMP LIKE YOUR WORDS
 ***Chorus:*** <br />
 **There’s no Lamp like your words, Lord,**<br />
 **to guide my steps, Alleluia, alleluia.**<br />
@@ -33,7 +33,7 @@ who will make me free?<br />
 From the tomb to eternal life,<br />
 who will take me safe?<br />
 
-### AL.17 GLORIFY THE LORD
+## AL.17 GLORIFY THE LORD
 ***Chorus:*** <br />
 **Glorify the Lord (3)... with me! Alleluia (3)...**<br />
 **Praise the Lord.**<br />
@@ -50,7 +50,7 @@ Taste and see that the Lord is good.<br />
 Happy the one who has trust in Him.<br />
 Fear the Lord and you will know no want.<br />
 
-### AL.19 ALLELUIA
+## AL.19 ALLELUIA
 ***Chorus:*** <br />
 **Alleluia! (5+5)**<br />
 
@@ -64,13 +64,13 @@ teach me your decrees<br />
 None to the father comes,<br />
 but only through me”.<br />
 
-### AL.22 ALLELUIA
+## AL.22 ALLELUIA
 Alleluia<br />
 Praise the Lord Almighty, all you nations:<br />
 Great his deeds, true his ways, merciful his love.<br />
 Alleluia (3+3)<br />
 
-### AL.26 SING TO THE LORD AN ALLELUIA
+## AL.26 SING TO THE LORD AN ALLELUIA
 ***Chorus:*** <br />
 **Alleluia (4)**<br />
 
@@ -84,7 +84,7 @@ Open our eyes and minds, O Lord (3), to see your law!<br />
 
 Word that reveals the Father’s love (3), we long for you!<br />
 
-### AL.29 YOU GIVE ME LIFE
+## AL.29 YOU GIVE ME LIFE
 ***Chorus:*** <br />
 **Alleluia (7)**<br />
 
@@ -100,7 +100,7 @@ and teach me your decrees, yes, teach me...<br />
 Open our hearts, O Lord our God,<br />
 to accept the words of your Son, to accept...<br />
 
-### AL.30 MORE BEAUTIFUL THAN LIFE
+## AL.30 MORE BEAUTIFUL THAN LIFE
 ***Chorus:*** <br />
 **Alleluia! (5)**<br />
 
@@ -113,7 +113,7 @@ In you I put my trust.<br />
 So all my life, I bless you, O Lord,<br />
 To you I lift my hands.<br />
 
-### AL.32 MAN DOES NOT LIVE ON BREAD ALONE
+## AL.32 MAN DOES NOT LIVE ON BREAD ALONE
 ***Chorus:*** <br />
 **Alleluia! (5)**<br />
 
@@ -126,7 +126,7 @@ That you love one another and live as one.<br />
 Heaven and earth will pass away<br />
 But the word of the Lord God will always stay.<br />
 
-### AL.33 GOSPEL ACCLAMATIONS
+## AL.33 GOSPEL ACCLAMATIONS
 ***Chorus:*** <br />
 **Alleluia, alleluia!**<br />
 
@@ -137,7 +137,7 @@ Prepare ye the way, (3)... of the Lord.<br />
 The Spirit of the Lord has been given to me,<br />
 He sends me to give good news to the poor.<br />
 
-### AL.37 MELCHIZEDECH ALLELUIA
+## AL.37 MELCHIZEDECH ALLELUIA
 ***Chorus:*** <br />
 **Alleluia, alleluia, alleluia!**<br />
 

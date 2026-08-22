@@ -3,7 +3,7 @@ title: Marriage and Family Lyrics
 description: "Hymn lyrics: O.1 PRAYER FOR OUR COUNTRY, O.2 MAY THE GOD OF ISRAEL / Psalm 127, O.3 MAY THE LORD PROTECT OUR HOMES / Psalm 126, O.5 ALL I ASK OF YOU, O.8 CANTICLE OF LOVE, O.13 THAT THE WORLD MAY BELIEVE, O.16 LET THERE BE PEACE, O.18 SING TO THE BRIDE and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### O.1 PRAYER FOR OUR COUNTRY
+## O.1 PRAYER FOR OUR COUNTRY
 Where the mind is without  fear<br />
 and the head is held high,<br />
 
@@ -27,7 +27,7 @@ its way into the dreary desert sands of dead habit,<br />
 Where the mind is led forward by thee<br />
 into ever widening thought and action.<br />
 
-### O.2 MAY THE GOD OF ISRAEL / Psalm 127
+## O.2 MAY THE GOD OF ISRAEL / Psalm 127
 ***Chorus-1:***<br />
 **May the God of Israel join in one;**<br />
 **in joy and in sorrow, the Lord is your way.**<br />
@@ -59,7 +59,7 @@ And may he protect you all your life.<br />
 May the sight of many children delight your heart;<br />
 May God grant his peace to Israel.<br />
 
-### O.3 MAY THE LORD PROTECT OUR HOMES / Psalm 126
+## O.3 MAY THE LORD PROTECT OUR HOMES / Psalm 126
 ***Chorus:***<br />
 **May the Lord be our help and salvation.**<br />
 **May the Lord protect and guard our homes.**<br />
@@ -92,7 +92,7 @@ To his Son Jesus Christ, the Lord,<br />
 To the Spirit who dwells in our hearts,<br />
 Both now and for ever. Amen.<br />
 
-### O.5 ALL I ASK OF YOU
+## O.5 ALL I ASK OF YOU
 ***Chorus:***<br />
 **All I ask of you is forever**<br />
 **to remember me as loving you.**<br />
@@ -116,7 +116,7 @@ Persons come into the fibre of our lives<br />
 And then their shadow fades and disappears,<br />
 but...<br />
 
-### O.8 CANTICLE OF LOVE
+## O.8 CANTICLE OF LOVE
 My beloved is mine and I am his,<br />
 See, he pastures his flock among the flowers.<br />
 Let me see your face, let me hear your voice,<br />
@@ -141,7 +141,7 @@ Though the waters should flood,<br />
 love can never be drowned,<br />
 How much stronger than death is love.<br />
 
-### O.13 THAT THE WORLD MAY BELIEVE
+## O.13 THAT THE WORLD MAY BELIEVE
 ***Chorus:***<br />
 **That the world may believe (3)**<br />
 **In the power of his love:**<br />
@@ -165,7 +165,7 @@ And to bear unbearable woes,<br />
 To forgive unforgivable hurts and wrongs,<br />
 To love one another "as I have loved you".<br />
 
-### O.16 LET THERE BE PEACE
+## O.16 LET THERE BE PEACE
 Let there be peace on earth and let it begin with me.<br />
 Let there be peace on earth,<br />
 the peace that was meant to be.<br />
@@ -179,7 +179,7 @@ live each moment in peace eternally.<br />
 Let there be peace on earth<br />
 and let it begin with me!<br />
 
-### O.18 SING TO THE BRIDE
+## O.18 SING TO THE BRIDE
 ***Chorus:***<br />
 **Sing to the bride, sing to the groom,**<br />
 **For they love one another in Jesus, the Lord.**<br />

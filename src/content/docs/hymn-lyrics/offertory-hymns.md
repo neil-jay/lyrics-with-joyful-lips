@@ -3,7 +3,7 @@ title: Offertory Hymns Lyrics
 description: "Hymn lyrics: B.1 BEHOLD THE BREAD, O LORD, B.2 TAKE THOU THE OFFERING, BB.6 OUR GIFTS OF BREAD AND WINE, B.9 UNITED IN ONE BODY, B.10 IN THE SIMPLICITY OF MY HEART, B(B).11 ALL THINGS ARE THINE, B.13 LIFT UP YOUR HANDS, BB.13 LIFT UP YOUR HANDS and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### B.1 BEHOLD THE BREAD, O LORD
+## B.1 BEHOLD THE BREAD, O LORD
 ***Chorus:***<br />
 **Behold the bread, O Lord, we offer unto you,**<br />
 **O take our hearts as well and consecrate them too.**<br />
@@ -17,7 +17,7 @@ We offer you the sheaves, Lord, full of grain so fine.<br />
 O nurture all your grape vines, let their branches stretch<br />
 That they may spread afar, Lord over all the earth.<br />
 
-### B.2 TAKE THOU THE OFFERING
+## B.2 TAKE THOU THE OFFERING
 ***Chorus:***<br />
 **Take thou the offering thy children make,**<br />
 **all united for thy name’s sake.**<br />
@@ -37,7 +37,7 @@ For our brothers and sisters who join in prayer,<br />
 The absent ones our hearts we lift,<br />
 Keep them all in Thy loving care.<br />
 
-### BB.6 OUR GIFTS OF BREAD AND WINE
+## BB.6 OUR GIFTS OF BREAD AND WINE
 ***Chorus:***<br />
 **Our gifts of bread and wine, which once were**<br />
 **wheat and grape, will be your flesh and blood.**<br />
@@ -52,7 +52,7 @@ Through your goodness here is wine,<br />
 Fruit of the vine and work of our hands<br />
 It will become our cup of joy.<br />
 
-### B.9 UNITED IN ONE BODY
+## B.9 UNITED IN ONE BODY
 ***Chorus***<br />
 **United in one body with Jesus Christ the Lord,**<br />
 **we bring to You our offering**<br />
@@ -70,7 +70,7 @@ We are the Body of Christ:<br />
 We must expect a share in His sorrow,<br />
 If we must rise with Him.<br />
 
-### B.10 IN THE SIMPLICITY OF MY HEART
+## B.10 IN THE SIMPLICITY OF MY HEART
 ***Chorus:***<br />
 **O Lord, my God, in the simplicity of my heart,**<br />
 **joyfully I come to give you all,**<br />
@@ -86,7 +86,7 @@ That I should obey your will, O Lord?<br />
 Of your faithfulness and salvation I shall speak,<br />
 And not hide your love and your truth from the people.<br />
 
-### B(B).11 ALL THINGS ARE THINE
+## B(B).11 ALL THINGS ARE THINE
 ***Chorus:***<br />
 **All things are Thine, O Lord:**<br />
 **We offer Thee what we receive from Thy hand.**<br />
@@ -101,7 +101,7 @@ Therefore, this day, O Lord, praises and thanks<br />
 do we give thee;<br />
 Thy name be blessed for ever and ever.<br />
 
-### B.13 LIFT UP YOUR HANDS
+## B.13 LIFT UP YOUR HANDS
 
 Lift up your hands and offer to the Lord.<br />
 Lift up your hands and offer to your God.<br />
@@ -118,7 +118,7 @@ Offer your love with his love to accord.<br />
 Eager is he to have this gift from you;<br />
 Lift up your heart unto the Lord.<br />
 
-### BB.13 LIFT UP YOUR HANDS
+## BB.13 LIFT UP YOUR HANDS
 ***Chorus:***<br />
 **Lift up your hands and offer to the Lord,**<br />
 **Lift up your eyes and see the works of God,**<br />
@@ -140,7 +140,7 @@ this, our sacrifice.<br />
 Sinners all, we bring to you<br />
 humble and contrite hearts.<br />
 
-### B.20 HUMBLY WE COME
+## B.20 HUMBLY WE COME
 ***Chorus:***<br />
 **Humbly we come before your face, O Lord:**<br />
 **Take the gifts we offer you!**<br />
@@ -157,7 +157,7 @@ Thanks to your goodness, here is wine,<br />
 Fruit of the vine and work of human hands, O Lord.<br />
 Wine to become your precious blood.<br />
 
-### B.23 LORD, ACCEPT THIS BREAD AND WINE
+## B.23 LORD, ACCEPT THIS BREAD AND WINE
 
 Lord, accept this bread and wine;<br />
 Take our hearts and make them thine,<br />
@@ -169,7 +169,7 @@ And this wine into your blood;<br />
 Change our lives, make us united, Lord,<br />
 To spread the love of Christ, the Lord.<br />
 
-### B.27 IN BREAD WE BRING YOU, LORD
+## B.27 IN BREAD WE BRING YOU, LORD
 
 In bread we bring you, Lord, our bodies' labour.<br />
 in wine we offer you our spirit’s grief.<br />
@@ -190,7 +190,7 @@ Take all we start and spoil, each hopeful dream,<br />
 The chances we have missed, the graces we resist,<br />
 Lord, in this Eucharist, take and redeem.<br />
 
-### B.28 OFFERING
+## B.28 OFFERING
 
 Blest are you, Lord God of all creation,<br />
 Thanks to your goodness, this bread we offer:<br />
@@ -206,7 +206,7 @@ Thanks to your goodness, this wine we offer:<br />
 Fruit of the vine, work of our hands,<br />
 It will become the cup of joy.<br />
 
-### B.30 BREAD AND WINE WE BRING TO YOU
+## B.30 BREAD AND WINE WE BRING TO YOU
 
 Bread and wine we bring to you, Lord,<br />
 Work of our human hands.<br />
@@ -218,7 +218,7 @@ Take our hearts, take our wills.<br />
 All that we have and all that we do, we give to you:<br />
 All for you, our Saviour and our God.<br />
 
-### B.33 ON THIS DAY OF JOY
+## B.33 ON THIS DAY OF JOY
 ***Chorus:***<br />
 **On this day of joy, on this day of hope,**<br />
 **we come to you in love, O Lord. (2)**<br />
@@ -233,7 +233,7 @@ Wine to be your saving blood.<br />
 On this day of joy, on this day of hope,<br />
 We come to you in love.<br />
 
-### B.34 COME TO THE LORD
+## B.34 COME TO THE LORD
 ***Chorus:***<br />
 **Come to the Lord, come, join us in this offering.**<br />
 **Come to the Lord, come with us as we go...**<br />
@@ -249,7 +249,7 @@ And by his presence, his Spirit in our lives will grow.<br />
 He’s paid our ransom, the price of sin.<br />
 He’s opened heaven that we might enter in, so…..<br />
 
-### B.35 WE OFFER YOU
+## B.35 WE OFFER YOU
 
 We offer you, O Lord divine,<br />
 Our humble gifts of bread and wine.<br />
@@ -262,7 +262,7 @@ Sanctify these gifts, O Lord, we pray.<br />
 **O take our hearts, take our minds,**<br />
 **Take all we have, make them Thine.**<br />
 
-### B.36 ABBA, FATHER, LET US BE YOURS
+## B.36 ABBA, FATHER, LET US BE YOURS
 ***Chorus:***<br />
 **Abba, Father, let us be yours and yours alone.**<br />
 **Set our hearts, are spirits free.**<br />
@@ -288,7 +288,7 @@ Unto it setting, how great is your name.<br />
 All the nations bring you, Lord,<br />
 Fragrant sacrifice.<br />
 
-### B.39 TAKE OUR BREAD
+## B.39 TAKE OUR BREAD
 
 Yours as we stand at the table you set,<br />
 Yours as we eat the bread our hearts can’t forget,<br />

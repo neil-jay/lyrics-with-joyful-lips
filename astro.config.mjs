@@ -10,9 +10,39 @@ export default defineConfig({
 	integrations: [
 		sitemap(),
 		starlight({
-			title: 'With Joyful Lips Lyrics',
+			title: 'With Joyful Lips',
 			description:
 				'Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Access hymns for worship services and church presentations.',
+			head: [
+				{
+					tag: 'meta',
+					attrs: {
+						property: 'og:image',
+						content: 'https://withjoyfullipslyrics.com/img/withjoyfullips.webp',
+					},
+				},
+				{
+					tag: 'meta',
+					attrs: {
+						property: 'og:image:alt',
+						content: 'With Joyful Lips Lyrics',
+					},
+				},
+				{
+					tag: 'meta',
+					attrs: {
+						name: 'twitter:image',
+						content: 'https://withjoyfullipslyrics.com/img/withjoyfullips.webp',
+					},
+				},
+				{
+					tag: 'meta',
+					attrs: {
+						name: 'twitter:image:alt',
+						content: 'With Joyful Lips Lyrics',
+					},
+				},
+			],
 			favicon: '/img/favicon.ico',
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/neil-jay/lyrics-with-joyful-lips' },

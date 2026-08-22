@@ -3,7 +3,7 @@ title: Communion Hymns Lyrics
 description: "Hymn lyrics: DD.1 THIS IS MY COMMANDMENT, DD.2 WE HAVE KNOWN GOD'S LOVE, D.3 PRAYER FOR UNITY, DD.4 O LORD, FURNACE OF LOVE, D.6 I'VE RECEIVED THE LIVING BREAD, D.9 I AM THE GOOD SHEPHERD, D.10 THERE WILL BE ONE SHEPHERD, D.11 WHERE LOVE AND CHARITY and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### DD.1 THIS IS MY COMMANDMENT
+## DD.1 THIS IS MY COMMANDMENT
 ***Chorus:***<br />
 **This is my commandment:**<br />
 **Love one another as I have loved you. (2)**<br />
@@ -33,7 +33,7 @@ Even give my body to be burnt,<br />
 If I have no love, I’m no better.<br />
 For of all the greatest is love.<br />
 
-### DD.2 WE HAVE KNOWN GOD'S LOVE
+## DD.2 WE HAVE KNOWN GOD'S LOVE
 ***Chorus:***<br />
 **We have known God's love for us,**<br />
 **Alleluia, alleluia.**<br />
@@ -60,7 +60,7 @@ If it's true, it shows itself in action.<br />
 By this we gain the knowledge of love:<br />
 "That Christ laid his life down for us."<br />
 
-### D.3 PRAYER FOR UNITY
+## D.3 PRAYER FOR UNITY
 ***Chorus-1:***<br />
 **Gracious Lord, deign to gather in your Kingdom**<br />
 **All the peoples who fill the universe.**<br />
@@ -90,7 +90,7 @@ From vale and mountain height,<br />
 Come 'neath the shadow of the cross,<br />
 One in faith and trust, in Jesus Christ.<br />
 
-### DD.4 O LORD, FURNACE OF LOVE
+## DD.4 O LORD, FURNACE OF LOVE
 ***Chorus:***<br />
 **O Lord, furnace of love,**<br />
 **Set our hearts on fire with charity.**<br />
@@ -106,7 +106,7 @@ Let's bring assurance.<br />
 Where there is sadness, let's awaken joy.<br />
 Where there is darkness, light.<br />
 
-### D.6 I'VE RECEIVED THE LIVING BREAD
+## D.6 I'VE RECEIVED THE LIVING BREAD
 ***Chorus-1:***<br />
 **I’ve received the living Bread and my heart is filled with joy. (2)**<br />
 
@@ -138,7 +138,7 @@ In the darkness of your night;<br />
 Whosoever welcomes me,<br />
 Will be led on paths aright.<br />
 
-### D.9 I AM THE GOOD SHEPHERD
+## D.9 I AM THE GOOD SHEPHERD
 ***Chorus-1:***<br />
 **O how good and delightful to live**<br />
 **together all united.**<br />
@@ -177,7 +177,7 @@ Rather have I called you my friends,<br />
 All the things I heard from my Father,<br />
 I have made known unto you.<br />
 
-### D.10 THERE WILL BE ONE SHEPHERD
+## D.10 THERE WILL BE ONE SHEPHERD
 ***Chorus:***<br />
 **There will be one shepherd, all the sheep**<br />
 **will hear his voice, they will form**<br />
@@ -213,7 +213,7 @@ For people to dwell in unity!<br />
 Praise the Father, the Son and the Holy Spirit,<br />
 Both now and for ever. Amen.<br />
 
-### D.11 WHERE LOVE AND CHARITY
+## D.11 WHERE LOVE AND CHARITY
 ***Chorus:***<br />
 **Where love and charity are found,**<br />
 **God there abides.**<br />
@@ -236,7 +236,7 @@ Where you, yourself will be<br />
 our happiness and joy,<br />
 Forever more through all ages to come. Amen.<br />
 
-### D.13 WITH YOU AS MY GUIDE / Psalm 22
+## D.13 WITH YOU AS MY GUIDE / Psalm 22
 ***Chorus:***<br />
 **With you as my guide, I’ll not want:**<br />
 **You are my Shepherd, Lord, nothing shall I fear.**<br />
@@ -261,7 +261,7 @@ Shall surely follow me<br />
 Until one day in heaven,<br />
 For ever shall I dwell.<br />
 
-### D.15 MY SOUL IS LONGING / Psalm 130
+## D.15 MY SOUL IS LONGING / Psalm 130
 ***Chorus:***<br />
 **My Soul is longing for your peace,**<br />
 **near to you, my God.**<br />
@@ -281,7 +281,7 @@ So I place my soul in your loving care.<br />
 Israel, put all your hope in God,<br />
 Place your trust in him, now and evermore.<br />
 
-### D.18 SING MY SOUL
+## D.18 SING MY SOUL
 ***Chorus:***<br />
 **Sing my soul at the joy that I feel;**<br />
 **There is now, dwelling in me, my God.**<br />
@@ -302,7 +302,7 @@ Lord, it is your wish that my life<br />
 In this world brings abundant fruit<br />
 For the kingdom of heaven.<br />
 
-### D.19 JESUS CHRIST LIVING IN US
+## D.19 JESUS CHRIST LIVING IN US
 ***Chorus:***<br />
 **Jesus Christ, living in us,**<br />
 **You are our gladness for ever.**<br />
@@ -325,7 +325,7 @@ You will return, for ever bringing us joy, alleluia!<br />
 Praise be to you, O Christ, alleluia!<br />
 Praise to the Father, Son and Spirit divine, alleluia!<br />
 
-### D.23 THIS IS MY WILL, MY ONE COMMAND
+## D.23 THIS IS MY WILL, MY ONE COMMAND
 This is my will, my one command,<br />
 That love should dwell among you all.<br />
 This is my will that you should love<br />
@@ -351,7 +351,7 @@ For my name’s sake you shall receive,<br />
 This is my will, my one command,<br />
 That love should dwell in each, in all.<br />
 
-### D.24 COME AND EAT OF MY BREAD
+## D.24 COME AND EAT OF MY BREAD
 ***Chorus:***<br />
 **Come and eat of my bread,**<br />
 **and drink of my wine:**<br />
@@ -379,7 +379,7 @@ By your love, we are drawn into unity,<br />
 Singing our joyous praises,<br />
 While rememb'ring your tender care.<br />
 
-### D.26 THEY'LL KNOW WE ARE CHRISTIANS
+## D.26 THEY'LL KNOW WE ARE CHRISTIANS
 We are one in the Spirit, we are one in the Lord,<br />
 And we pray that all unity may one day be restored.<br />
 
@@ -404,7 +404,7 @@ from whom all things come.<br />
 And all praise to Christ Jesus, His only Son,<br />
 And all praise to the Spirit, who makes us one.<br />
 
-### D.27 WHATSOEVER YOU DO
+## D.27 WHATSOEVER YOU DO
 ***Chorus:***<br />
 **Whatsoever you do to the least of my people,**<br />
 **that you do unto me.**<br />
@@ -431,7 +431,7 @@ Seeking employment, you found me a job.<br />
 When I was laughed at, you stood by my side;<br />
 When I was happy, you shared in my joy.<br />
 
-### D.29 JESUS ALWAYS LOVED HIS OWN
+## D.29 JESUS ALWAYS LOVED HIS OWN
 
 Jesus always loved his own<br />
 and he showed it to the full;<br />
@@ -472,7 +472,7 @@ than his master Christ, the Lord?<br />
 If we know and do this,<br />
 happy we shall be.<br />
 
-### DD.36 CHRIST'S LOVE FOR US
+## DD.36 CHRIST'S LOVE FOR US
 
 Love is his word, love is his way,<br />
 Feasting with all, fasting alone,<br />
@@ -498,7 +498,7 @@ Hear his command, all who are his:<br />
 “Love one another, as I have loved you.”<br />
 Love, only love is his law.<br />
 
-### D.37 TAKE, EAT
+## D.37 TAKE, EAT
 ***Chorus:***<br />
 **Take, eat, this is my Body.**<br />
 **Take, drink of this cup,**<br />
@@ -520,7 +520,7 @@ my blood is really drink.<br />
 Those who eat and drink,<br />
 will have eternal life.<br />
 
-### D.38 LORD, I ADORE YOU
+## D.38 LORD, I ADORE YOU
 ***Chorus:***<br />
 **Lord, I adore you, who dwells in my heart**<br />
 **And my soul overflows with joy.**<br />
@@ -547,7 +547,7 @@ Alleluia, evermore.<br />
 To the end of our life we shall proclaim<br />
 All the blessings of God to his people.<br />
 
-### D.40 GONE ARE THE SHADOWS
+## D.40 GONE ARE THE SHADOWS
 ***Chorus:***<br />
 **Gone are the shadows,**<br />
 **dazzling light now instead.**<br />
@@ -583,7 +583,7 @@ We had been made for you,<br />
 we shall relive in you.<br />
 You take us by the hand.<br />
 
-### D.43 THE LORD IS MY SHEPHERD
+## D.43 THE LORD IS MY SHEPHERD
 
 The Lord is my shepherd,<br />
 There is nothing I shall want.<br />
@@ -612,7 +612,7 @@ Shall follow after me.<br />
 In the Lord’s own house shall I dwell<br />
 All the days of my life.<br />
 
-### D.44 NO ONE CAN GIVE
+## D.44 NO ONE CAN GIVE
 ***Chorus:***<br />
 **No one can give to me**<br />
 **That peace which my risen Lord,**<br />
@@ -648,7 +648,7 @@ Triumphed over sin and death,<br />
 And he’ll never die again<br />
 But as Lord he’ll live and reign.<br />
 
-### D.45 COME, O LORD, TO MY HEART
+## D.45 COME, O LORD, TO MY HEART
 ***Chorus:***<br />
 **Come, O Lord, to my heart today**<br />
 **And stay with me all the day. (2)**<br />
@@ -665,7 +665,7 @@ We will live in you and you in us.<br />
 When you give yourself to us,<br />
 You bind us to yourself and each other.<br />
 
-### D.46 TAKE THIS, ALL OF YOU
+## D.46 TAKE THIS, ALL OF YOU
 ***Chorus:***<br />
 **Take this, all of you, eat of this my flesh.**<br />
 **Take, this is my blood, shed for sinners all.**<br />
@@ -687,7 +687,7 @@ I am the bread of life.<br />
 One who has faith enduring,<br />
 Will live for ever.<br />
 
-### D.49 O LORD, I'M NOT WORTHY
+## D.49 O LORD, I'M NOT WORTHY
 ***Chorus:***<br />
 **O Lord, I’m not worthy,**<br />
 **Yet you come to live in me.**<br />
@@ -709,7 +709,7 @@ As seekers of the truth,<br />
 Building each day a new world<br />
 Of justice, peace and love.<br />
 
-### D.50 ALL YOU WHO HUNGER
+## D.50 ALL YOU WHO HUNGER
 ***Chorus:***<br />
 **All you who hunger and thirst for the Lord,**<br />
 **Come to his banquet to-day,**<br />
@@ -732,7 +732,7 @@ Slaking our thirst on the way<br />
 Till we shall meet where forever<br />
 Love is the sceptre and sway.<br />
 
-### D.51 MAKE ME A CHANNEL OF PEACE
+## D.51 MAKE ME A CHANNEL OF PEACE
 
 Make me a channel of your peace,<br />
 Where there is hatred, let me bring your love,<br />
@@ -755,7 +755,7 @@ It is in pardoning that we are pardoned.<br />
 In giving to each one that we receive,<br />
 And in dying that we’re born to eternal life.<br />
 
-### D.52 COME INTO THIS HEART OF STONE
+## D.52 COME INTO THIS HEART OF STONE
 ***Chorus:***<br />
 **Come, Jesus, come into this heart of stone.**<br />
 **Come, Jesus, come into this heart of stone.**<br />
@@ -787,7 +787,7 @@ I don’t wanna be a stone,<br />
 I need your Spirit, Lord,<br />
 'Cause I cant do it alone.<br />
 
-### D.53 COME UNTO ME
+## D.53 COME UNTO ME
 
 Come unto me, all ye that labour<br />
 and are heavily laden<br />
@@ -798,7 +798,7 @@ and you shall find rest to your souls.<br />
 For my yoke is easy<br />
 and my burden is light (2).<br />
 
-### D.54 TASTE THE LIVING WATER
+## D.54 TASTE THE LIVING WATER
 
 You can taste the living water<br />
 If you come unto the Lord.<br />
@@ -813,7 +813,7 @@ Shall fall upon me.<br />
 I have found my Saviour, Jesus,<br />
 Blessed living Trinity.<br />
 
-### D.56 GIVE ME PEACE
+## D.56 GIVE ME PEACE
 Give me peace, O Lord, I pray,<br />
 In my work and in my play.<br />
 And inside my heart and mind,<br />
@@ -824,7 +824,7 @@ Let all quarrels cease to-day.<br />
 May we spread your light and love,<br />
 Lord, give us peace.<br />
 
-### D.58 LET ALL THAT IS WITHIN ME
+## D.58 LET ALL THAT IS WITHIN ME
 
 Let all that is within me, cry holy (2)<br />
 Holy, holy, holy is the Lamb that was slain.<br />
@@ -837,7 +837,7 @@ Holy, holy, holy is the Lamb that was slain.<br />
 
 ...Jesus<br />
 
-### D.59 SEEK FIRST GOD'S KINGDOM
+## D.59 SEEK FIRST GOD'S KINGDOM
 
 Do not ask anxiously what are we to eat and drink.<br />
 Seek first God's kingdom<br />
@@ -845,7 +845,7 @@ and the rest shall be yours.<br />
 Do not be worried about tomorrow:<br />
 Each day's own troubles, for the day is enough.<br />
 
-### D.60 I AM THE BREAD OF LIFE
+## D.60 I AM THE BREAD OF LIFE
 
 I am the bread of life;<br />
 He who comes to me shall not hunger,<br />
@@ -873,7 +873,7 @@ You will live for ever.<br />
 Yes, Lord, I believe that you are the Christ,<br />
 The Son of God who has come into the world.<br />
 
-### D.61 I MAY SPEAK
+## D.61 I MAY SPEAK
 
 I may speak in the tongues of angels<br />
 And foretell with a heavenly song.<br />
@@ -899,7 +899,7 @@ And a wonderful, glorious sign<br />
 Of the limitless, deep compassion<br />
 From the Power supremely divine.<br />
 
-### D.65 LORD, YOU ARE MY EVERYTHING
+## D.65 LORD, YOU ARE MY EVERYTHING
 ***Chorus:***<br />
 **Lord, you are my everything,**<br />
 **Lord, you are my friend,**<br />
@@ -921,7 +921,7 @@ Come to me and stay.<br />
 Speak your tender words of peace<br />
 To my heart to-day.<br />
 
-### D.66 WE HAVE RECEIVED THE BREAD OF LIFE
+## D.66 WE HAVE RECEIVED THE BREAD OF LIFE
 ***Chorus:***<br />
 **We have received the Bread of Life,**<br />
 **Joy fills our hearts again.**<br />
@@ -948,7 +948,7 @@ I am the only love, Which my peace ensures.'<br />
 'I am the Lamb... Sacrificed for you.<br />
 Take up your cross and be my disciple true.'<br />
 
-### D.67 COME, O LORD, AND BE MY ALL
+## D.67 COME, O LORD, AND BE MY ALL
 ***Chorus:***<br />
 **Come, O Lord, and be my all.**<br />
 **Take my will, my liberty.**<br />
@@ -972,7 +972,7 @@ But I know you love the humble.<br />
 Help me walk in trust again.<br />
 Yes, Lord, be my friend.<br />
 
-### D.68 THE LORD JESUS
+## D.68 THE LORD JESUS
 ***Chorus:***<br />
 **The Lord Jesus, after eating with his friends,**<br />
 **Washed their feet and said to them:**<br />
@@ -997,7 +997,7 @@ You who come to me<br />
 Will never thirst nor want for food<br />
 And I will raise you up on the last day.<br />
 
-### D.69 PEACE
+## D.69 PEACE
 ***Chorus:***<br />
 **Peace I leave with you, my friends,**<br />
 **Peace the world cannot give.**<br />
@@ -1025,7 +1025,7 @@ And have it to the full.<br />
 If you love me keep my word,<br />
 And our home we'll make with you.<br />
 
-### D.72 HAPPY THE HEART
+## D.72 HAPPY THE HEART
 ***Chorus:***<br />
 **Happy the heart that lives**<br />
 **In the heart of God, the heart of love,**<br />
@@ -1047,7 +1047,7 @@ And hope never disappoints.<br />
 Spirit of Love, live in us<br />
 That our joy may be complete.<br />
 
-### D.75 HOW GOOD IS THE LORD
+## D.75 HOW GOOD IS THE LORD
 ***Chorus:***<br />
 **Oh, how good is the Lord (3)**<br />
 **I never will forget what he has done for me.**<br />
@@ -1062,7 +1062,7 @@ He gives us salvation, how good is the Lord.<br />
 
 He gives us his healing, how good is the Lord.<br />
 
-### D.77 WE CELEBRATE
+## D.77 WE CELEBRATE
 
 We celebrate this festive day<br />
 With prayer and joyful song.<br />
@@ -1095,7 +1095,7 @@ Who lives, though he was dead.<br />
 So death can hold no terrors now<br />
 For those who eat this bread.<br />
 
-### D.80 MY PEACE I LEAVE WITH YOU
+## D.80 MY PEACE I LEAVE WITH YOU
 ***Chorus:***<br />
 **My peace I leave with you, my peace I give,**<br />
 **Peace that the world can't bring, I give to you.**<br />
@@ -1112,7 +1112,7 @@ It will spring up again and bear new life.<br />
 And when the Spirit comes, he'll strengthen you;<br />
 You'll be my witness through all the earth.<br />
 
-### D.81 FEED ON ME
+## D.81 FEED ON ME
 ***Chorus:***<br />
 **Feed on me, and never will you hunger;**<br />
 **Feed on me, and life will never end.**<br />
@@ -1132,7 +1132,7 @@ I will give my blood as wine to share,<br />
 Taste and know that love will grow,<br />
 Dwell in me, you'll find my Father's care.<br />
 
-### D.82 IT'S NO LONGER I THAT LIVE
+## D.82 IT'S NO LONGER I THAT LIVE
 
 It's no longer I that live,<br />
 but Christ that lives in me (2)<br />
@@ -1140,14 +1140,14 @@ He lives, He lives, Jesus is alive in me.<br />
 It's no longer I that live,<br />
 but Christ that lives in me.<br />
 
-### D.84 MAY THE PEACE OF CHRIST
+## D.84 MAY THE PEACE OF CHRIST
 
 May the peace of the Lord be with you,<br />
 With your friends and your family too.<br />
 Let it be, let it grow and everywhere you go,<br />
 May the peace of the Lord follow you.<br />
 
-### D.86 TAKE THIS AND EAT
+## D.86 TAKE THIS AND EAT
 ***Chorus:***<br />
 **Take this and eat it, for this is my body.**<br />
 **Take this and drink it, for this is my blood.**<br />
@@ -1176,7 +1176,7 @@ How my soul longs for you, O my God.<br />
 See, how good and delightful that people<br />
 Share this meal to bring unity.<br />
 
-### D.87 HOW WONDERFUL, HOW GOOD
+## D.87 HOW WONDERFUL, HOW GOOD
 
 How wonderful, how good to live in Jesus.<br />
 To let his love now fill<br />
@@ -1198,7 +1198,7 @@ A sign that we must care<br />
 For those who are in need<br />
 The poor, the hungry.<br />
 
-### D.88 LIKE A SHEPHERD
+## D.88 LIKE A SHEPHERD
 ***Chorus:***<br />
 **Like a shepherd He feeds his flock**<br />
 **And gathers the lambs in his arms,**<br />
@@ -1220,7 +1220,7 @@ If you are heavily burdened,<br />
 And take my yoke upon your shoulders,<br />
 I will give you rest.<br />
 
-### D.89 TO BE THE BODY OF THE LORD
+## D.89 TO BE THE BODY OF THE LORD
 ***Chorus:***<br />
 **To be the body of the Lord in this world,**<br />
 **To have his Spirit coursing through my soul,**<br />
@@ -1243,7 +1243,7 @@ One bread, one cup; one heart and mind.<br />
 One great human people<br />
 In fellowship divine.<br />
 
-### D.90 BREAD THAT WAS SOWN
+## D.90 BREAD THAT WAS SOWN
 ***Chorus:***<br />
 **Bread that was sown in our hills and valleys,**<br />
 **Now harvested, becomes one;**<br />
@@ -1260,7 +1260,7 @@ Nurturing good with earnest care,<br />
 Bringing to birth new life where hope has gone stale,<br />
 Faith-giving moments to share.<br />
 
-### D.91 IT IS YOUR NAME
+## D.91 IT IS YOUR NAME
 ***Chorus:***<br />
 **It is your name we bear in our hearts**<br />
 **And we know it through Jesus' words of life.**<br />
@@ -1277,7 +1277,7 @@ Seeking peace that comes from deep within.<br />
 When we search for meaning beyond words,<br />
 We'll see a new day dawning in our world.<br />
 
-### D.92 OH, HOW GOOD
+## D.92 OH, HOW GOOD
 ***Chorus:***<br />
 **O how good, how wonderful it is**<br />
 **When brothers and sisters live as one. (2)**<br />
@@ -1292,7 +1292,7 @@ Upon the mountain of the Lord,<br />
 For there the favour of the Lord remains,<br />
 The blessing of everlasting life.<br />
 
-### D.93 BIND US TOGETHER
+## D.93 BIND US TOGETHER
 ***Chorus:***<br />
 **Bind us together, Lord, Lord bind us together**<br />
 **With cords, that cannot be broken.**<br />
@@ -1314,7 +1314,7 @@ There is only one table,<br />
 Christ alone is our host.<br />
 He invites us together, that is why...<br />
 
-### D.94 YOURS IS THE KINGDOM
+## D.94 YOURS IS THE KINGDOM
 ***Chorus:***<br />
 **Yours is the Kingdom, Yours is the power**<br />
 **Yours is the glory evermore!**<br />
@@ -1336,7 +1336,7 @@ Broken bread is scattered on<br />
 The hillsides and the plains.<br />
 Broken hearts and bodies cry for rest.<br />
 
-### D.95 A NEW COMMANDMENT
+## D.95 A NEW COMMANDMENT
 ***Chorus:***<br />
 **A new commandment I give unto you,**<br />
 **That you love one another**<br />
@@ -1358,7 +1358,7 @@ Now, love is patient,<br />
 Not arrogant, nor boastful.<br />
 Love bears all things, love is eternal (2).<br />
 
-### D.96 GOD IS GOOD TO ME
+## D.96 GOD IS GOOD TO ME
 
 God is good to me! O what love I see!<br />
 Jesus as a lamb was slain.<br />
@@ -1381,7 +1381,7 @@ Lives in God and God in him.<br />
 Yes, I feel his love; fear gives way to peace,<br />
 'Cause I know He loved me first.<br />
 
-### D.97 FOR GOD SO LOVED THE WORLD
+## D.97 FOR GOD SO LOVED THE WORLD
 
 You shall love the Lord your God<br />
 with all your heart,<br />
@@ -1416,7 +1416,7 @@ May his Spirit strengthen you<br />
 with power and might.<br />
 May your lives be rooted in love.<br />
 
-### D.98 GREATER LOVE
+## D.98 GREATER LOVE
 
 Greater love and friendship<br />
 has no man than this<br />
@@ -1445,7 +1445,7 @@ Break the unjust fetter, set the captive free.<br />
 Share bread with the hungry,<br />
 make the blind to see.<br />
 
-### D.99 MAKE ME AN INSTRUMENT
+## D.99 MAKE ME AN INSTRUMENT
 
 Make me an instrument of your peace:<br />
 Where there is hatred, let me bring love.<br />
@@ -1460,7 +1460,7 @@ It is in pardoning that we are pardoned,<br />
 It is in giving that we do receive,<br />
 and it’s in dying that we’re born to life.<br />
 
-### D.100 COME TO MY FATHER
+## D.100 COME TO MY FATHER
 ***Chorus:***<br />
 **Come to my Father through me (2)**<br />
 **I’m the way, the truth and the life,**<br />
@@ -1486,7 +1486,7 @@ I am the Life.<br />
 No one can come to the Father<br />
 But only through me.<br />
 
-### D 101 OH COME TO THE WATER
+## D 101 OH COME TO THE WATER
 ***Chorus:***<br />
 **Oh come to the water,**<br />
 **all you who are thirsty**<br />
@@ -1510,7 +1510,7 @@ You are my chosen ones.<br />
 I name you witness to my world:<br />
 You are my chosen ones.<br />
 
-### D 102 TASTE AND SEE
+## D 102 TASTE AND SEE
 ***Chorus:***<br />
 **Taste and see how good our God can be,**<br />
 **O taste...(2)**<br />
@@ -1535,7 +1535,7 @@ And happy are all who trust in Him.<br />
 O fear the Lord, you his holy ones,<br />
 Trust in Him and lack no good things.<br />
 
-### D 103 DO NOT WORRY: SEEK THE KINGDOM
+## D 103 DO NOT WORRY: SEEK THE KINGDOM
 ***Chorus:***<br />
 **Do not worry about your clothing,**<br />
 **your food and drink,**<br />
@@ -1560,7 +1560,7 @@ Which thief cannot approach nor moth destroy.<br />
 Sell all that you possess and given in charity.<br />
 For where your treasure is, your heart will be.<br />
 
-### D.104 MAKE ME A SERVANT
+## D.104 MAKE ME A SERVANT
 ***Chorus:***<br />
 **Make me a servant, humble and meek.**<br />
 **Lord, let me lift up those who are weak,**<br />
@@ -1583,7 +1583,7 @@ Bring back the sheep that stray,<br />
 May I seek the lost and the weak make strong,<br />
 With justice feed the poor.<br />
 
-### D.105 MY HEART'S LIKE A FLUTE
+## D.105 MY HEART'S LIKE A FLUTE
 ***Chorus:***<br />
 **My heart’s like a flute and I want to play all day.**<br />
 **Jesus Christ is my music master.**<br />
@@ -1605,7 +1605,7 @@ There to find peace, there to find joy,<br />
 There to find love: God has prepared<br />
 A banquet for his people.<br />
 
-### D.106 TO BECOME THE BREAD OF REJOICING
+## D.106 TO BECOME THE BREAD OF REJOICING
 ***Chorus:***<br />
 **To become the bread of rejoicing,**<br />
 **To become the wine of your love.**<br />
@@ -1635,7 +1635,7 @@ See, O Lord, the wine of our joy,<br />
 The wine which flows from the grapes of our vineyards,<br />
 The joy of the earth, the wine of our feasting...<br />
 
-### D.108 CHRISTIANS, LET US LOVE
+## D.108 CHRISTIANS, LET US LOVE
 
 Christians, let us love one another,<br />
 As we share the true living bread.<br />
@@ -1661,7 +1661,7 @@ We are grains of wheat, Christ the bread.<br />
 Those who eat this bread live for ever,<br />
 One with Christ, our Lord and our head.<br />
 
-### D.110 LIVE ON IN MY LOVE
+## D.110 LIVE ON IN MY LOVE
 ***Chorus:***<br />
 **Live on, live on in my love (2)**<br />
 **As the Father has loved me, so I love you.**<br />
@@ -1685,7 +1685,7 @@ To be with you always, always.<br />
 He's the Spirit of truth,<br />
 He's the Spirit of peace, Spirit of unity.<br />
 
-### D.111 WHEN THE KINGDOM OF OUR GOD
+## D.111 WHEN THE KINGDOM OF OUR GOD
 
 When the kindness of our God was revealed in Jesus,<br />
 With compassion and with love were we born.<br />
@@ -1707,7 +1707,7 @@ Something of the love in which life can thrive.<br />
 But in Jesus did this love come to fullness for all time.<br />
 And in Him we are alive with spirit joy.<br />
 
-### D.112 TAKE, EAT AND HUNGER NO LONGER
+## D.112 TAKE, EAT AND HUNGER NO LONGER
 ***Chorus:***<br />
 **Take, eat and hunger no longer,**<br />
 **For I am the bread of life.**<br />
@@ -1729,7 +1729,7 @@ I bring you safe to the kingdom of life.<br />
 I set you free thru the Spirit I send you.<br />
 Come forward to spread the good news.<br />
 
-### D.113 I HAVE LOVED YOU
+## D.113 I HAVE LOVED YOU
 ***Chorus:***<br />
 **I have loved you with an everlasting love,**<br />
 **I have called you and you are mine. (2)**<br />
@@ -1741,7 +1741,7 @@ He will bring you his light and his peace.<br />
 
 ...His care and His love.<br />
 
-### D.115 LORD, MAKE ME LIKE YOU
+## D.115 LORD, MAKE ME LIKE YOU
 ***Chorus:***<br />
 **Lord, make me like you, please,**<br />
 **make me like you.**<br />
@@ -1764,7 +1764,7 @@ To bring Good News to the poor,<br />
 Release to the captives and sight to the blind,<br />
 To set the prisoners free.<br />
 
-### D.117 CAUSE ME TO COME
+## D.117 CAUSE ME TO COME
 
 Cause me to come to your river, O Lord,<br />
 Cause me to come to your river, O Lord, (2)<br />
@@ -1781,7 +1781,7 @@ Feed me, O Lord, with your body and blood, (2)<br />
 Strengthen my mind, strengthen my will.<br />
 strengthen my heart.<br />
 
-### D.118 WHATSOEVER YOU DO
+## D.118 WHATSOEVER YOU DO
 
 You see me hungry, lying on the footpath,<br />
 I need your love and care to quench my thirst,<br />
@@ -1807,7 +1807,7 @@ The joy of seeing you standing by my side,<br />
 I promise that your love will be rewarded,<br />
 O come, you blessed and in heav’n abide.<br />
 
-### D.120 TAKE AND EAT
+## D.120 TAKE AND EAT
 Gather at the altar, share the holy bread,<br />
 Join in celebration of the words He said:<br />
 
@@ -1831,7 +1831,7 @@ When you share this supper,<br />
 When you drink this wine,<br />
 You proclaim my dying till the end of time.<br />
 
-### D.121 LET THERE BE LOVE
+## D.121 LET THERE BE LOVE
 
 Let there be love shared among us,<br />
 Let there be love in our eyes,<br />
@@ -1860,7 +1860,7 @@ Of brotherly (sisterly) joy that is real,<br />
 Let there be joy shared among us,<br />
 Let there be joy.<br />
 
-### D.122 LOSE YOURSELF IN ME
+## D.122 LOSE YOURSELF IN ME
 ***Chorus:***<br />
 **Lose yourself in me and you will find yourself,**<br />
 **Lose yourself in me and you will find new life.**<br />
@@ -1883,7 +1883,7 @@ Though faithless we may be,<br />
 faithful He'll remain,<br />
 For how can Christ be false unto Himself?<br />
 
-### D.124 HE WHO DRINKS OF THE WATER
+## D.124 HE WHO DRINKS OF THE WATER
 
 He who drinks of the water that I give him<br />
 ne'er again will he seek other water;<br />
@@ -1911,7 +1911,7 @@ Weak and weary for want of water<br />
 But when Moses struck the rock at Massah,<br />
 Water gushed out in torrents.<br />
 
-### D.125 I AM THE LIVING BREAD
+## D.125 I AM THE LIVING BREAD
 ***Chorus:***<br />
 **I am the living Bread that came from heaven**<br />
 **And all who eat it will live for ever.**<br />
@@ -1933,7 +1933,7 @@ I grant them holiness and give them life divine<br />
 So that they'll all be one, united in my love.<br />
 I'll lead them with my hand to share my life.<br />
 
-### D.126 JESUS STAND AMONG US
+## D.126 JESUS STAND AMONG US
 
 Jesus, stand among us at the meeting of our lives,<br />
 Be our sweet agreement at the meeting of our eyes.<br />
@@ -1950,7 +1950,7 @@ at the breaking of the bread,<br />
 Join us as one body as<br />
 we worship You, our head.<br />
 
-### D.127 SEEK YOU FIRST
+## D.127 SEEK YOU FIRST
 Seek you first the kingdom of God and his righteousness<br />
 And all these things shall be added unto you.<br />
 
@@ -1972,20 +1972,20 @@ Let your light so shine before all<br />
 That they may see your good works<br />
 And glorify your Father in heaven.<br />
 
-### D.129 PEACE I GIVE TO YOU
+## D.129 PEACE I GIVE TO YOU
 Peace I give to you, to all of you, my friends,<br />
 Love is my command for love shall never cease.<br />
 Keep between yourselves the bond of charity.<br />
 Live as one united family.<br />
 
-### D.130 MY PEACE
+## D.130 MY PEACE
 My peace I give unto you,<br />
 It’s a peace that the world cannot give.<br />
 It’s a peace that the world cannot understand.<br />
 Peace to know, peace to live.<br />
 My peace I give unto you.<br />
 
-### D.131 O LET THE SON OF GOD
+## D.131 O LET THE SON OF GOD
 O let the Son of God enfold you<br />
 With his Spirit and his love,<br />
 Let him fill your heart and satisfy your soul.<br />
@@ -2004,7 +2004,7 @@ O give Him all your tears and sadness,<br />
 Give Him all your years of pain,<br />
 And you'll enter into life in Jesus' name.<br />
 
-### D.132 AS THE DEER
+## D.132 AS THE DEER
 
 As the deer pants for the water,<br />
 So my soul longs after you.<br />
@@ -2027,7 +2027,7 @@ Even though You are my Lord.<br />
 I love You more than any other,<br />
 So much more than anything.<br />
 
-### D.133 GATHER US TOGETHER
+## D.133 GATHER US TOGETHER
 ***Chorus:***<br />
 **Lord Jesus Christ, gather us together.**<br />
 **Make us one bread, one body in your love.**<br />
@@ -2047,7 +2047,7 @@ Trusting in your name which never fails.<br />
 Within your temple your praises we sing.<br />
 Glorious is your name o'er all the earth.<br />
 
-### D.134 BREAD FOR THE WORLD
+## D.134 BREAD FOR THE WORLD
 ***Chorus:***<br />
 **Bread for the world: a world of hunger.**<br />
 **Wine for all peoples: people who thirst.**<br />
@@ -2073,7 +2073,7 @@ At which the rich and powerful have become the least.<br />
 Where we survive on others in our human greed<br />
 You walk among us begging for your every need.<br />
 
-### D.135 YOU SATISFY THE HUNGRY
+## D.135 YOU SATISFY THE HUNGRY
 ***Chorus:***<br />
 **You satisfy the hungry heart**<br />
 **With gift of finest wheat.**<br />
@@ -2105,7 +2105,7 @@ Then selfless let us be,<br />
 To serve each other in your name,<br />
 In truth and charity.<br />
 
-### D.136 TAKE THIS BREAD
+## D.136 TAKE THIS BREAD
 ***Chorus:***<br />
 **Take this bread: it is my body.**<br />
 **Take this cup: it is my blood.**<br />

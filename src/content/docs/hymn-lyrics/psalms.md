@@ -3,7 +3,7 @@ title: Psalms Lyrics
 description: "Hymn lyrics: Z.1 WE SHALL NOT BE MOVED, ZZ.1 BLEST ARE THEY WHO DELIGHT, (Z)Z.8 GREAT IS YOUR NAME, LORD, Z.21 MY GOD, WHY HAVE YOU FORSAKEN ME, Z.22 MY SHEPHERD IS THE LORD, Z.23 THE LORD'S IS THE EARTH, ZZ.23 LIFT UP YOUR HEADS, O GATES, Z.24 TO YOU, LORD, I LIFT UP MY SOUL and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### Z.1 WE SHALL NOT BE MOVED
+## Z.1 WE SHALL NOT BE MOVED
 How blessed are the ones who never walk<br />
 Within the place where wicked scoffers talk.<br />
 We’re like a tree that’s planted by the water:<br />
@@ -23,7 +23,7 @@ But like the chaff they'll all be blown away...<br />
 Sing glory be to God the Father, Son,<br />
 And Holy Spirit, ever three in one...<br />
 
-### ZZ.1 BLEST ARE THEY WHO DELIGHT
+## ZZ.1 BLEST ARE THEY WHO DELIGHT
 ***Chorus:***<br />
 **Blest are they who delight**<br />
 **in the law of the Lord.**<br />
@@ -54,7 +54,7 @@ to his Son, Jesus Christ the Lord,<br />
 to the Spirit who dwells in our hearts,<br />
 both now and for ever. Amen.<br />
 
-### (Z)Z.8 GREAT IS YOUR NAME, LORD
+## (Z)Z.8 GREAT IS YOUR NAME, LORD
 ***Chorus:***<br />
 **Great is your name, Lord,**<br />
 **Its majesty fills the earth.**<br />
@@ -79,7 +79,7 @@ To his Son, Jesus Christ, the Lord,<br />
 To the Spirit who dwells in our hearts,<br />
 Both now and for ever. Amen.<br />
 
-### Z.21 MY GOD, WHY HAVE YOU FORSAKEN ME
+## Z.21 MY GOD, WHY HAVE YOU FORSAKEN ME
 ***Chorus-1:***<br />
 **Help me, my God,**<br />
 **Why have you forsaken me?**<br />
@@ -114,7 +114,7 @@ My life from the grip of these dogs.<br />
 Save my life from the jaws of these lions,<br />
 My poor soul from the horns of the oxen.<br />
 
-### Z.22 MY SHEPHERD IS THE LORD
+## Z.22 MY SHEPHERD IS THE LORD
 ***Chorus-1:***<br />
 **Fresh and green are the pastures,**<br />
 **Where he gives me repose.**<br />
@@ -157,7 +157,7 @@ Give glory to the Spirit;<br />
 To God who is, who was and who will be<br />
 For ever and ever.<br />
 
-### Z.23 THE LORD'S IS THE EARTH
+## Z.23 THE LORD'S IS THE EARTH
 ***Chorus-1:***<br />
 **Hebrew children, bearing olive branches,**<br />
 **went forth to meet the Lord,**<br />
@@ -203,7 +203,7 @@ He, the Lord of armies,<br />
 The Lord, the valiant in war,<br />
 He is the king of glory!<br />
 
-### ZZ.23 LIFT UP YOUR HEADS, O GATES
+## ZZ.23 LIFT UP YOUR HEADS, O GATES
 ***Chorus:***<br />
 **Lift up, lift up your heads, O gates,**<br />
 **And be lifted up, O ancient doors,**<br />
@@ -225,7 +225,7 @@ The Lord, strong and mighty,<br />
 Mighty in battle, the Lord of hosts,<br />
 He is the King of glory.<br />
 
-### Z.24 TO YOU, LORD, I LIFT UP MY SOUL
+## Z.24 TO YOU, LORD, I LIFT UP MY SOUL
 ***Chorus-1:***<br />
 **I place my trust in God,**<br />
 **lift up my soul to Him;**<br />
@@ -265,7 +265,7 @@ See how friendless and lonely I am,<br />
 Relieve the anguish of my heart<br />
 And set me free from my distress.<br />
 
-### Z.26 THE LORD IS MY LIGHT AND MY HELP
+## Z.26 THE LORD IS MY LIGHT AND MY HELP
 ***Chorus-1:***<br />
 **The Lord is my salvation,**<br />
 **He is my light, alleluia!**<br />
@@ -309,7 +309,7 @@ in the land of the living.<br />
 Hope in him, hold firm and take heart,<br />
 hope in the Lord!<br />
 
-### Z.30 CONFIDENT PRAYER IN DISTRESS
+## Z.30 CONFIDENT PRAYER IN DISTRESS
 ***Chorus-1:***<br />
 **All you who wait in hope for the Lord,**<br />
 **Be strong, let your heart be bold.**<br />
@@ -343,7 +343,7 @@ you show to those who trust,<br />
 Love the Lord, all you saints, who worship him:<br />
 his faithful he preserves.<br />
 
-### Z.32 THE MERCY OF THE LORD
+## Z.32 THE MERCY OF THE LORD
 ***Chorus-1:***<br />
 **May your love be upon us, O Lord,**<br />
 **As we place all our hope in you.**<br />
@@ -411,7 +411,7 @@ as we place all our hope in you.<br />
 To the Father, the Son and Holy Spirit<br />
 give praise for ever. Amen.<br />
 
-### ZZ.33 O GLORIFY THE LORD WITH ME
+## ZZ.33 O GLORIFY THE LORD WITH ME
 ***Chorus:***<br />
 **O glorify the Lord with me,**<br />
 **And let us exalt his name together.**<br />
@@ -431,7 +431,7 @@ Happy the one who trusts in Him.<br />
 Fear the Lord, all you his holy peoples,<br />
 For those who fear Him, lack nothing.<br />
 
-### Z.41 LIKE THE DEER THAT YEARNS
+## Z.41 LIKE THE DEER THAT YEARNS
 ***Chorus:***<br />
 **My soul is thirsting for the Lord,**<br />
 **When shall I see him face to face?**<br />
@@ -471,7 +471,7 @@ why groan within me?<br />
 Hope in God, I will praise him still,<br />
 my Saviour and my God.<br />
 
-### Z.42 DEFEND ME, O GOD
+## Z.42 DEFEND ME, O GOD
 ***Chorus-1:***<br />
 **I will go to the altar of God,**<br />
 **Praise the God of my joy.**<br />
@@ -510,7 +510,7 @@ both now and for ever,<br />
 The God who is, who was and who will be,<br />
 world without end.<br />
 
-### Z.46 ALL YOU PEOPLES, CLAP YOUR HANDS
+## Z.46 ALL YOU PEOPLES, CLAP YOUR HANDS
 ***Chorus-1:***<br />
 **All you peoples, cry out to God,**<br />
 **Clapping your hands with songs of joy.**<br />
@@ -549,7 +549,7 @@ to his Son, Jesus Christ, the Lord,<br />
 To the Spirit who dwells in our hearts,<br />
 Both now and for ever. Amen.<br />
 
-### Z.50 HAVE MERCY ON ME
+## Z.50 HAVE MERCY ON ME
 ***Chorus-1:***<br />
 **Rescue me, O God,**<br />
 **cleanse me from my sin.**<br />
@@ -608,7 +608,7 @@ burnt offering from me you would refuse;<br />
 my sacrifice, a contrite spirit.<br />
 A humbled, contrite heart you will not spurn.<br />
 
-### Z.54 DO NOT SPURN MY PLEADING
+## Z.54 DO NOT SPURN MY PLEADING
 ***Chorus:***<br />
 **Do not spurn my pleading to you,**<br />
 **attend to me,**<br />
@@ -641,7 +641,7 @@ The Lord who reigned before all times.<br />
 Your cares, your burden, cast upon the Lord,<br />
 for he himself supports the just.<br />
 
-### Z.62 O GOD, YOU ARE MY GOD
+## Z.62 O GOD, YOU ARE MY GOD
 ***Chorus:***<br />
 **O God, my God,**<br />
 **for you my soul is thirsting;**<br />
@@ -675,7 +675,7 @@ and left as the prey of the jackals.<br />
 But the king shall rejoice in God<br />
 for the mouth of liars shall be silenced.<br />
 
-### Z.64 TO YOU OUR PRAISE IS DUE
+## Z.64 TO YOU OUR PRAISE IS DUE
 ***Chorus:***<br />
 **Blessed the one whom you choose**<br />
 **and call to dwell in your courts.**<br />
@@ -725,7 +725,7 @@ the meadows covered with flocks,<br />
 the valleys are decked with wheat,<br />
 They shout for joy, yes, they sing.<br />
 
-### Z.71 O GOD, GIVE YOUR JUDGEMENT TO THE KING
+## Z.71 O GOD, GIVE YOUR JUDGEMENT TO THE KING
 ***Chorus-1:***<br />
 **He shall descend like the rain on the meadow,**<br />
 **In his days peace and justice shall prevail.**<br />
@@ -774,7 +774,7 @@ and endure like the sun.<br />
 Every tribe shall be blessed in him,<br />
 all nations bless his name.<br />
 
-### Z.83 HOW LOVELY IS YOUR DWELLING PLACE
+## Z.83 HOW LOVELY IS YOUR DWELLING PLACE
 ***Chorus-1:***<br />
 **Peace and joy, close to you,**<br />
 **in your courts, O my God.**<br />
@@ -818,7 +818,7 @@ he will give us his favour and glory.<br />
 The Lord will not refuse any good<br />
 to those who walk without blame.<br />
 
-### Z.91 IT IS GOOD TO GIVE THANKS
+## Z.91 IT IS GOOD TO GIVE THANKS
 ***Chorus-1:***<br />
 **The just shall flourish like the palm-tree**<br />
 **And grow like a Lebanon cedar.**<br />
@@ -857,7 +857,7 @@ still remaining fresh and green, full of sap.<br />
 To proclaim that the Lord is just,<br />
 He, my rock, in whom no wrong can be found.<br />
 
-### Z.92 THE LORD IS KING
+## Z.92 THE LORD IS KING
 ***Chorus-1:***<br />
 **Christ, our Lord, is King for evermore.**<br />
 
@@ -888,7 +888,7 @@ Give glory to the Father Almighty,<br />
 to his Son, Jesus Christ the Lord,<br />
 to the Spirit who dwells in our hearts.<br />
 
-### Z.94 COME, RING OUT YOUR JOY
+## Z.94 COME, RING OUT YOUR JOY
 ***Chorus-1:***<br />
 **O come, let us worship the Lord.**<br />
 
@@ -921,7 +921,7 @@ and said: “their hearts are astray.”<br />
 Then I took an oath in my anger:<br />
 “They shall never enter my rest.”<br />
 
-### Z.95 O SING A NEW SONG TO THE LORD
+## Z.95 O SING A NEW SONG TO THE LORD
 ***Chorus-1:***<br />
 **How great is the Lord, our God,**<br />
 **sing and bless his name.**<br />
@@ -965,7 +965,7 @@ To his Son, Jesus Christ the Lord,<br />
 To the Spirit who dwells in our hearts,<br />
 Both now and for ever. Amen.<br />
 
-### Z.97 THE MARVELS OF THE LORD
+## Z.97 THE MARVELS OF THE LORD
 ***Chorus-1:***<br />
 **O sing to the Lord your songs of praise,**<br />
 **alleluia.**<br />
@@ -1003,7 +1003,7 @@ He will rule the people with fairness.<br />
 To the Father, Son and Spirit give praise,<br />
 Both now and forever. Amen.<br />
 
-### Z.99 WORSHIP THE LORD
+## Z.99 WORSHIP THE LORD
 ***Chorus-1:***<br />
 **Worship the Lord in spirit and truth.**<br />
 **Joyfully sing praise to his name.**<br />
@@ -1035,7 +1035,7 @@ Give glory to the Father Almighty,<br />
 To his Son, Jesus Christ the Lord,<br />
 To the Spirit who dwells in our hearts.<br />
 
-### Z.102 MY SOUL, GIVE THANKS TO THE LORD
+## Z.102 MY SOUL, GIVE THANKS TO THE LORD
 ***Chorus-1:***<br />
 **My soul, give thanks to the living God:**<br />
 **All my being, bless his holy name.**<br />
@@ -1089,7 +1089,7 @@ upon those who hold him in fear;<br />
 and age after age he will do justice<br />
 to those who keep his covenant in truth.<br />
 
-### Z.104-105 MAKE KNOWN HIS DEEDS
+## Z.104-105 MAKE KNOWN HIS DEEDS
 ***Chorus:***<br />
 **O give thanks to the Lord, call on his name,**<br />
 **Make known his deeds among the people. (2)**<br />
@@ -1111,7 +1111,7 @@ Ever keeping His covenant.<br />
 Israel their land He gave,<br />
 That His people may keep His commands.<br />
 
-### Z.116 O PRAISE THE LORD, ALL NATIONS
+## Z.116 O PRAISE THE LORD, ALL NATIONS
 ***Chorus:***<br />
 **O praise the Lord, all nations,**<br />
 **All peoples, praise his name! (2)**<br />
@@ -1122,7 +1122,7 @@ Give glory to the Father, the Son and Spirit blest!<br />
 
 Laudate omens gentes, laudate Dominum!<br />
 
-### Z.120 I LIFT MY EYES
+## Z.120 I LIFT MY EYES
 ***Chorus:***<br />
 **I lift my eyes to the mountains,**<br />
 **From where shall come my help!**<br />
@@ -1144,7 +1144,7 @@ He will guard your soul.<br />
 The Lord will guard your going and your coming<br />
 Both now and for evermore (2).<br />
 
-### Z.125 WHAT MARVELS
+## Z.125 WHAT MARVELS
 ***Chorus:***<br />
 **What marvels (2),**<br />
 **the Lord has done wonders for us!**<br />
@@ -1169,7 +1169,7 @@ Carrying seed for the sowing,<br />
 They come back, they come back full of songs<br />
 As they bring home their sheaves.<br />
 
-### ZZ.125 WHEN THE LORD DELIVERED SION
+## ZZ.125 WHEN THE LORD DELIVERED SION
 ***Chorus:***<br />
 **Those who sow in tears and sorrow,**<br />
 **One day will reap with joy!**<br />
@@ -1194,7 +1194,7 @@ Carrying the seed for the sowing;<br />
 They come back, they come back, full of song,<br />
 Carrying their sheaves.<br />
 
-### Z.135 O GIVE THANKS TO THE LORD
+## Z.135 O GIVE THANKS TO THE LORD
 O give thanks to the Lord for He is good,<br />
 Great is his love, love without end,<br />
 Give thanks to the God of gods,<br />
@@ -1222,7 +1222,7 @@ And he snatched us away from our foes...<br />
 He gives food to all living things...<br />
 To the God of heaven give thanks.<br />
 
-### Z.137 THANKS DO I GIVE TO THE LORD
+## Z.137 THANKS DO I GIVE TO THE LORD
 ***Chorus:***<br />
 **Thanks do I give to the Lord**<br />
 **with my whole heart evermore.**<br />
@@ -1244,7 +1244,7 @@ your right hand will do all things for me.<br />
 For your steadfast love endures for ever.<br />
 Don’t abandon the works your hand has made.<br />
 
-### Z.144 I WILL BLESS YOU DAY AFTER DAY
+## Z.144 I WILL BLESS YOU DAY AFTER DAY
 ***Chorus-1:***<br />
 **Glory to God our King,**<br />
 **his name be blest evermore.**<br />
@@ -1293,7 +1293,7 @@ The Father, Son and Holy Spirit,<br />
 Let mankind bless his holy name<br />
 For ever, for ages unending.<br />
 
-### Z.147 PRAISE YOUR GOD, JERUSALEM
+## Z.147 PRAISE YOUR GOD, JERUSALEM
 ***Chorus:***<br />
 **Praise the Lord, praise your God, Jerusalem!**<br />
 
@@ -1315,7 +1315,7 @@ nowhere else has he taught his decrees.<br />
 To the Father and Son give glory,<br />
 To the Spirit for ever and ever.<br />
 
-### Z.150 PRAISE GOD IN HIS HOLY PLACE
+## Z.150 PRAISE GOD IN HIS HOLY PLACE
 ***Chorus:***<br />
 **Alleluia, O come, praise the Lord,**<br />
 **alleluia, alleluia!**<br />

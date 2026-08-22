@@ -3,7 +3,7 @@ title: Departed Hymns Lyrics
 description: "Hymn lyrics: R.1 GIVE ETERNAL REST, R.3 THIS DAY YOU SHALL BE WITH ME / PSALM 114, R.8 INTO YOUR HANDS, O LORD, R.9 ETERNAL REST, R.10 MAY THE ANGELS GO WITH YOU, R.11 A VOICE SPOKE and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### R.1 GIVE ETERNAL REST
+## R.1 GIVE ETERNAL REST
 ***Chorus:***<br />
 **Give them, O Lord, eternal rest**<br />
 **In your light and your peace.**<br />
@@ -19,7 +19,7 @@ You are joy, you are peace, you are life<br />
 and resurrection.<br />
 We exiles turn to you for aid.<br />
 
-### R.3 THIS DAY YOU SHALL BE WITH ME / PSALM 114
+## R.3 THIS DAY YOU SHALL BE WITH ME / PSALM 114
 ***Chorus-1:***<br />
 This day, you shall be with me in paradise.<br />
 
@@ -56,7 +56,7 @@ How dear the death of all who love him!<br />
 Grant them, O Lord, eternal rest,<br />
 And shed your light on them for ever.<br />
 
-### R.8 INTO YOUR HANDS, O LORD
+## R.8 INTO YOUR HANDS, O LORD
 ***Chorus:***<br />
 **Into your hands, O Lord, I commend my soul.**<br />
 
@@ -72,7 +72,7 @@ lead me on and guide me.<br />
 You are my refuge, O Lord,<br />
 and a mighty stronghold.<br />
 
-### R.9 ETERNAL REST
+## R.9 ETERNAL REST
 ***Chorus:***<br />
 **Eternal rest, grant to them, O Lord**<br />
 **And let perpetual light shine upon them (him, her).**<br />
@@ -93,7 +93,7 @@ I will sprinkle clean water.<br />
 I will give you new spirit,<br />
 You'll be mine for evermore.<br />
 
-### R.10 MAY THE ANGELS GO WITH YOU
+## R.10 MAY THE ANGELS GO WITH YOU
 ***Chorus:***<br />
 **May the angels go with you,**<br />
 **To the home of God's glory.**<br />
@@ -110,7 +110,7 @@ Praise the Son, who redeemed us,<br />
 Praise the life-giving Spirit.<br />
 Praise one God through all ages!<br />
 
-### R.11 A VOICE SPOKE
+## R.11 A VOICE SPOKE
 A voice spoke from heaven: Write down what I say:<br />
 "How favoured are those who die in the Lord."<br />
 

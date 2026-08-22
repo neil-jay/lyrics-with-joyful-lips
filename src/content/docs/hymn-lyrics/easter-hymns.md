@@ -3,7 +3,7 @@ title: Easter and Baptism Lyrics
 description: "Hymn lyrics: I.1 KEEP IN MIND, I.2 ALL YOU NATIONS / Psalm 65, I.3 CHRIST OUR SAVIOUR HAS RISEN, I.4 ALLELUIA! CHRIST HAS RISEN, I.7 THE SPOTLESS ROBE OF CHRIST, I.8 GOD REIGNS!, I.11 ALLELUIA, THE STRIFE IS OVER, I.12 WAKE UP, ARISE ALL YOU WHO SLEEP and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### I.1 KEEP IN MIND
+## I.1 KEEP IN MIND
 ***Chorus:***<br />
 **Keep in mind that Jesus Christ has died**<br />
 **for us and is risen from the dead;**<br />
@@ -25,7 +25,7 @@ in him all our grace.<br />
 In him our salvation,<br />
 in him all our peace.<br />
 
-### I.2 ALL YOU NATIONS / Psalm 65
+## I.2 ALL YOU NATIONS / Psalm 65
 ***Chorus:***<br />
 **All you nations,**<br />
 **sing out your joy to the Lord:**<br />
@@ -46,7 +46,7 @@ That God has brought forth by his might,<br />
 Fall on your knees before his glorious throne:<br />
 Alleluia!<br />
 
-### I.3 CHRIST OUR SAVIOUR HAS RISEN
+## I.3 CHRIST OUR SAVIOUR HAS RISEN
 ***Chorus:***<br />
 **Christ our Saviour has risen indeed:**<br />
 **Alleluia!**<br />
@@ -66,7 +66,7 @@ Joy of all the earth, our Lord has set us free.<br />
 You who hunger, see the banquet spread for you,<br />
 You who hunger, come and freely join the feast.<br />
 
-### I.4 ALLELUIA! CHRIST HAS RISEN
+## I.4 ALLELUIA! CHRIST HAS RISEN
 ***Chorus:***<br />
 **Alleluia! Alleluia!**<br />
 **Christ has risen from the dead,**<br />
@@ -90,7 +90,7 @@ They rise resplendent from their bondage,<br />
 For their Lord has set them free,<br />
 From the pow'r of death's decree.<br />
 
-### I.7 THE SPOTLESS ROBE OF CHRIST
+## I.7 THE SPOTLESS ROBE OF CHRIST
 
 The spotless robe of Christ was mine,<br />
 The day I was baptised.<br />
@@ -117,7 +117,7 @@ And share God’s heavenly bliss!<br />
 And we ourselves shall godlike be,<br />
 Our faces resplendent like his.<br />
 
-### I.8 GOD REIGNS!
+## I.8 GOD REIGNS!
 
 God reigns! The people proclaim with great joy,<br />
 alleluia!<br />
@@ -149,7 +149,7 @@ The joys of the eternal Pasch, alleluia!<br />
 For you have given life to our souls<br />
 With your precious blood.<br />
 
-### I.11 ALLELUIA, THE STRIFE IS OVER
+## I.11 ALLELUIA, THE STRIFE IS OVER
 ***Chorus:***<br />
 **Alleluia, alleluia, alleluia!**<br />
 
@@ -165,7 +165,7 @@ O risen Lord, all praise to thee,<br />
 Who from our sin has set us free,<br />
 That we may live eternally, alleluia!<br />
 
-### I.12 WAKE UP, ARISE ALL YOU WHO SLEEP
+## I.12 WAKE UP, ARISE ALL YOU WHO SLEEP
 ***Chorus:***<br />
 **Wake up, arise all you who sleep,**<br />
 **Tear down the veil of darkness deep,**<br />
@@ -181,7 +181,7 @@ We now receive the living bread: Yes...<br />
 Christ is our hope, in him we live;<br />
 We are the flock led by his call: Yes...<br />
 
-### I.14 SLEEPER AWAKE
+## I.14 SLEEPER AWAKE
 ***Chorus:***<br />
 **Sleeper, awake, arise from the dead:**<br />
 **The great day has dawned:**<br />
@@ -204,7 +204,7 @@ Blessed the one his master will find<br />
 keeping watch when he knocks!<br />
 For like a thief he will come.<br />
 
-### I.16 ALLELUIA, GIVE THANKS
+## I.16 ALLELUIA, GIVE THANKS
 ***Chorus:***<br />
 **Alleluia, alleluia, give thanks to the risen Lord,**<br />
 **Alleluia, alleluia, give praise to his name.**<br />
@@ -224,7 +224,7 @@ Life for us all, alleluia!<br />
 Come let us praise the living God,<br />
 Joyfully sing to our Saviour.<br />
 
-### I.19 O GIVE THANKS TO THE LORD / Psalm 117
+## I.19 O GIVE THANKS TO THE LORD / Psalm 117
 
 O give thanks to the Lord for He is good,<br />
 Yes, eternal is His love. (2)<br />
@@ -246,7 +246,7 @@ Alleluia, Alleluia!<br />
 This a day of gladness and joy!<br />
 Alleluia, Alleluia! (3)<br />
 
-### I.21 SPREAD THE NEWS
+## I.21 SPREAD THE NEWS
 ***Chorus:***<br />
 **Spread the news that Jesus is risen,**<br />
 **He lives again to die no more.**<br />
@@ -265,7 +265,7 @@ My mouth proclaims: Yes, Jesus lives for ever...<br />
 Let's celebrate this feast, invite the stranger,<br />
 Together rejoice: Yes, Jesus lives for ever...<br />
 
-### I.22 JESUS IS RISEN
+## I.22 JESUS IS RISEN
 ***Chorus:***<br />
 **Jesus is risen, praise your Saviour**<br />
 **and your Lord!**<br />
@@ -287,7 +287,7 @@ In the Lord baptized.<br />
 God, who is rich in mercy,<br />
 Gives us eternal life.<br />
 
-### I.23 WE SHALL RISE
+## I.23 WE SHALL RISE
 ***Chorus:***<br />
 **We shall rise, we shall rise**<br />
 **On that resurrection morning,**<br />
@@ -305,7 +305,7 @@ Halleluia to the Lamb who died (2).<br />
 Praises to the risen King (2)<br />
 Praises to the risen King of all (2).<br />
 
-### I.24 GOOD NEWS
+## I.24 GOOD NEWS
 ***Chorus:***<br />
 **Good news, (2)**<br />
 **Go proclaim to all the Good News, Good News.**<br />
@@ -327,7 +327,7 @@ Take heed and believe.<br />
 All we know is nothing but Jesus,<br />
 And him crucified.<br />
 
-### I.26 THE LORD IS OUR SAVIOUR AND SHEPHERD
+## I.26 THE LORD IS OUR SAVIOUR AND SHEPHERD
 ***Chorus:***<br />
 **The Lord is our Saviour and shepherd,**<br />
 **alleluia!**<br />
@@ -348,7 +348,7 @@ With love for each other we follow again, al.<br />
 We follow the Lord in all that we do, al.<br />
 We trust in his glory to see us through, al.<br />
 
-### I.27 HE IS LORD
+## I.27 HE IS LORD
 Have this mind among yourselves,<br />
 the mind of Jesus,<br />
 Even though he was eternally God's Son<br />
@@ -373,7 +373,7 @@ that waits for you.<br />
 For the glory God offers you as your inheritance<br />
 Was displayed when he raised Jesus from the dead.<br />
 
-### I.30 WE ARE AN EASTER PEOPLE
+## I.30 WE ARE AN EASTER PEOPLE
 We are an Easter people, ours is an Easter faith,<br />
 The yeast is rising in our hearts,<br />
 Our vine has vintage taste.<br />
@@ -389,7 +389,7 @@ We are an Easter people, ours is an Easter faith.<br />
 Our fears have died, we rise to dream,<br />
 To love, to dance, to live.<br />
 
-### I.35 THE STONE WHICH THE BUILDERS REJECTED
+## I.35 THE STONE WHICH THE BUILDERS REJECTED
 ***Chorus:***<br />
 **The stone which the builders rejected**<br />
 **Has become the corner-stone, alleluia. (2)**<br />

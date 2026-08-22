@@ -3,7 +3,7 @@ title: Paraliturgical Hymns Lyrics
 description: "Hymn lyrics: Q.3 THE LORD IS HERE, Q.4 IT'S UP TO ME, Q.10 IN NEED OF LIBERATION, Q.11 ASK AND YOU WILL RECEIVE, Q.12 CAST YOUR CARE UPON THE LORD, Q.14 LISTEN, LISTEN, Q.20 PUT A LITTLE MORE OF JESUS and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### Q.3 THE LORD IS HERE
+## Q.3 THE LORD IS HERE
 His voice can be heard in the roaring<br />
 Of breakers that crash on the shore.<br />
 His splendour is seen in the morning<br />
@@ -29,7 +29,7 @@ He comes in the heat of the city<br />
 He comes in the peace of the forest,<br />
 In desert or cool of the hills.<br />
 
-### Q.4 IT'S UP TO ME
+## Q.4 IT'S UP TO ME
 There's my neighbour so lone and forgotten,<br />
 It's up to me to make things lighter for him.<br />
 There's my neighbour so lone and forgotten.<br />
@@ -51,7 +51,7 @@ There's my neighbour who can't get a hearing.<br />
 
 There's my neighbour so tried by injustice.<br />
 
-### Q.10 IN NEED OF LIBERATION
+## Q.10 IN NEED OF LIBERATION
 ***Chorus:***<br />
 **The world stands in need of liberation, my Lord,**<br />
 **It still has to feel your power.**<br />
@@ -75,7 +75,7 @@ use to build a true community.<br />
 And we know that we all have the talent to love<br />
 but leave it buried in ourselves.<br />
 
-### Q.11 ASK AND YOU WILL RECEIVE
+## Q.11 ASK AND YOU WILL RECEIVE
 ***Chorus:***<br />
 **Ask and you will receive,**<br />
 **seek and you will find.**<br />
@@ -97,7 +97,7 @@ Whatever you seek you will always find.<br />
 For my Father will give to all those who believe<br />
 In the Spirit of love that will never end.<br />
 
-### Q.12 CAST YOUR CARE UPON THE LORD
+## Q.12 CAST YOUR CARE UPON THE LORD
 Why let worry get you down?<br />
 The Lord is there to help you.<br />
 Why put on a troubled frown?<br />
@@ -121,7 +121,7 @@ and nothing turns out right,<br />
 Ask the Lord, He'll never fail to help<br />
 and make your burden light.<br />
 
-### Q.14 LISTEN, LISTEN
+## Q.14 LISTEN, LISTEN
 ***Chorus:***<br />
 **Listen, listen, listen every one:**<br />
 **God is here for you and He is here for me.**<br />
@@ -144,7 +144,7 @@ Listen, O my people,<br />
 all you children of the world<br />
 Listen to our God as He whispers in your ear...<br />
 
-### Q.20 PUT A LITTLE MORE OF JESUS
+## Q.20 PUT A LITTLE MORE OF JESUS
 ***Chorus:***<br />
 **Put a little more of Jesus in your life,**<br />
 **The world will be a happy place:**<br />

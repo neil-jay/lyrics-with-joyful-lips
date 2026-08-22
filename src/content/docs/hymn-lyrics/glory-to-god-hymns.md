@@ -3,7 +3,7 @@ title: Glory to God Hymns Lyrics
 description: "Hymn lyrics: VG.1 SING TO GOD, VG.2 GLORY! GLORY!, VG.5 GLORY BE TO THE FATHER and more from With Joyful Lips by Fr. Jean L. Mercier."
 ---
 
-### VG.1 SING TO GOD
+## VG.1 SING TO GOD
 Sing to God a song of glory,<br />
 peace he brings to people on earth.<br />
 Worship we the King of heaven<br />
@@ -28,7 +28,7 @@ Glory to his only Son.<br />
 Glory to the Holy Spirit,<br />
 Glory to the three in one.<br />
 
-### VG.2 GLORY! GLORY!
+## VG.2 GLORY! GLORY!
 Glory to God in the highest! (2)<br />
 Let there be peace and joy for all in whom he is pleased.<br />
 
@@ -49,7 +49,7 @@ you alone are the Lord<br />
 With the Spirit in the glory of God the Father.<br />
 Amen.<br />
 
-### VG.5 GLORY BE TO THE FATHER
+## VG.5 GLORY BE TO THE FATHER
 ***Chorus:*** <br />
 **Glory be to the Father, Glory be to the Son,**<br />
 **Glory be to the Spirit, All glory to our God.**<br />
