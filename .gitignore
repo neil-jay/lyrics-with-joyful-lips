@@ -11,6 +11,9 @@
 # Cloudflare
 /.wrangler
 
+# Migration artifacts (pre-split original category MD files)
+/.backup-hymn-category-files
+
 # Misc
 .DS_Store
 .env.local
