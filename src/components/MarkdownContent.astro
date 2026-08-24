@@ -1,10 +1,15 @@
 ---
+import { getCollection } from 'astro:content';
 import '@astrojs/starlight/style/markdown.css';
 import HymnCopyEnhancer from './HymnCopyEnhancer.astro';
 
 const pathname = Astro.url.pathname;
 const isHymnLyricsPage = pathname.startsWith('/hymn-lyrics/') && pathname !== '/hymn-lyrics/introduction/';
 const segments = pathname.split('/').filter(Boolean);
+const isCategoryIndex = isHymnLyricsPage && segments.length === 2;
+const isAboutPage = pathname === '/about/';
+const isBlogIndex = pathname === '/blog/';
+const isBlogPost = pathname.startsWith('/blog/') && !isBlogIndex;
 const pageKind = isHymnLyricsPage
 	? segments.length >= 3
 		? 'hymn-detail'
@@ -12,12 +17,78 @@ const pageKind = isHymnLyricsPage
 			? 'category-index'
 			: undefined
 	: undefined;
+
+const siteUrl = Astro.site?.toString() ?? 'https://withjoyfullipslyrics.com/';
+const pageUrl = new URL(pathname, siteUrl).toString();
+const pageData = Astro.locals.starlightRoute.entry.data;
+const publishedDate = pathname === '/blog/welcome-to-with-joyful-lips-lyrics/' ? '2024-12-19' : undefined;
+const docs = isCategoryIndex || isBlogIndex ? await getCollection('docs') : [];
+const listPrefix = isCategoryIndex ? `hymn-lyrics/${segments[1]}/` : 'blog/';
+const listItems = docs
+	.filter((entry) => entry.id.startsWith(listPrefix) && !entry.id.endsWith('/index'))
+	.sort((a, b) => a.id.localeCompare(b.id))
+	.map((entry, index) => {
+		const path = isBlogIndex ? entry.id.replace(/^blog\/\d{4}-\d{2}-\d{2}-/, 'blog/') : entry.id;
+		return {
+			'@type': 'ListItem',
+			position: index + 1,
+			name: entry.data.title,
+			url: new URL(`/${path.replace(/^\/+|\/+$/g, '')}/`, siteUrl).toString(),
+		};
+	});
+
+const pageSchema = isCategoryIndex || isBlogIndex
+	? {
+			'@context': 'https://schema.org',
+			'@type': 'CollectionPage',
+			name: pageData.title,
+			description: pageData.description,
+			url: pageUrl,
+			inLanguage: 'en-US',
+			mainEntity: {
+				'@type': 'ItemList',
+				itemListElement: listItems,
+			},
+		}
+	: isAboutPage
+		? {
+				'@context': 'https://schema.org',
+				'@type': 'AboutPage',
+				name: pageData.title,
+				description: pageData.description,
+				url: pageUrl,
+				inLanguage: 'en-US',
+				isPartOf: { '@type': 'WebSite', name: 'With Joyful Lips Lyrics', url: siteUrl },
+			}
+		: isBlogPost
+			? {
+					'@context': 'https://schema.org',
+					'@type': 'BlogPosting',
+					headline: pageData.title,
+					description: pageData.description,
+					url: pageUrl,
+					inLanguage: 'en-US',
+					image: new URL('/img/withjoyfullips.webp', siteUrl).toString(),
+					...(publishedDate ? { datePublished: publishedDate } : {}),
+					mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+					author: { '@type': 'Person', name: 'Neil Jay', url: 'https://neiljay.com' },
+					publisher: {
+						'@type': 'Organization',
+						name: 'With Joyful Lips Lyrics',
+						url: siteUrl,
+						logo: { '@type': 'ImageObject', url: new URL('/img/withjoyfullips.webp', siteUrl).toString() },
+					},
+					isPartOf: { '@type': 'Blog', name: 'With Joyful Lips Lyrics Blog', url: new URL('/blog/', siteUrl).toString() },
+				}
+			: undefined;
 ---
 
 <div class="sl-markdown-content" data-hymn-lyrics={isHymnLyricsPage ? '' : undefined} data-page-kind={pageKind}>
 	<slot />
 	{isHymnLyricsPage && <HymnCopyEnhancer />}
 </div>
+
+{pageSchema && <script is:inline type="application/ld+json" set:html={JSON.stringify(pageSchema)} />}
 
 {isHymnLyricsPage && (
 	<script is:inline>
