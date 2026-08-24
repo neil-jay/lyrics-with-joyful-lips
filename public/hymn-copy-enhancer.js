@@ -36,19 +36,12 @@
 			.replace(/\n{3,}/g, '\n\n')
 			.trim();
 
-	const getSectionText = (headingWrapper) => {
-		const container = headingWrapper.closest('.sl-markdown-content');
-		if (!container) return '';
-		const wrappers = Array.from(container.querySelectorAll('.sl-heading-wrapper.level-h3'));
-		const index = wrappers.indexOf(headingWrapper);
-		const endNode = index >= 0 ? wrappers[index + 1] : null;
-
+	const collectText = (start, end) => {
 		const parts = [];
-		let current = headingWrapper;
-		while (current && current !== endNode) {
+		let current = start;
+		while (current && current !== end) {
 			if (current.nodeType === Node.ELEMENT_NODE) {
-				const element = current;
-				const clone = element.cloneNode(true);
+				const clone = current.cloneNode(true);
 				clone.querySelectorAll('a.sl-anchor-link, .sr-only').forEach((el) => el.remove());
 				clone.querySelectorAll('br').forEach((br) => br.replaceWith('\n'));
 				const text = normalizeBlock(clone.textContent ?? '');
@@ -56,8 +49,20 @@
 			}
 			current = current.nextSibling;
 		}
-
 		return normalizeFinal(parts.join('\n\n'));
+	};
+
+	const getSectionText = (headingWrapper, levelSelector) => {
+		const container = headingWrapper.closest('.sl-markdown-content');
+		if (!container) return '';
+		const wrappers = Array.from(container.querySelectorAll(levelSelector));
+		const index = wrappers.indexOf(headingWrapper);
+		const endNode = index >= 0 ? wrappers[index + 1] : null;
+		return collectText(headingWrapper, endNode);
+	};
+
+	const getEntireHymnText = (headingWrapper) => {
+		return collectText(headingWrapper, null);
 	};
 
 	const setCopiedState = (anchor, icon) => {
@@ -71,26 +76,22 @@
 		if (icon) icon.innerHTML = copiedIconSvg;
 	};
 
-	const decorate = (headingWrapper) => {
-		const heading = headingWrapper.querySelector('h3');
-		const anchor = headingWrapper.querySelector('a.sl-anchor-link');
-		const icon = anchor?.querySelector('.sl-anchor-icon');
-		const sr = anchor?.querySelector('.sr-only');
-		if (!heading || !anchor || !icon) return;
+	const wireAnchor = (anchor, icon, heading, textGetter) => {
+		if (!anchor || !icon) return;
+		const sr = anchor.querySelector('.sr-only');
 		if (anchor.dataset.copyEnhanced === 'true') return;
 		anchor.dataset.copyEnhanced = 'true';
-
 		anchor.setAttribute('title', 'Copy lyrics');
 		anchor.setAttribute('aria-label', 'Copy lyrics');
 		icon.innerHTML = copyIconSvg;
-		if (sr) sr.textContent = `Copy “${heading.textContent?.trim() ?? 'lyrics'}”`;
+		if (sr) sr.textContent = `Copy "${heading?.textContent?.trim() ?? 'lyrics'}"`;
 
 		anchor.addEventListener('click', async (event) => {
 			if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
 			event.preventDefault();
 			let text = '';
 			try {
-				text = getSectionText(headingWrapper);
+				text = textGetter();
 			} catch {
 				return;
 			}
@@ -106,10 +107,36 @@
 		});
 	};
 
-	const enhance = () => {
+	const decorate = (headingWrapper, level, mode) => {
+		const heading = headingWrapper.querySelector(`h${level}`);
+		const anchor = headingWrapper.querySelector('a.sl-anchor-link');
+		const icon = anchor?.querySelector('.sl-anchor-icon');
+		if (!heading || !anchor || !icon) return;
+
+		let textGetter;
+		if (mode === 'single') {
+			textGetter = () => getSectionText(headingWrapper, `.sl-heading-wrapper.level-h${level}`);
+		} else {
+			textGetter = () => getEntireHymnText(headingWrapper);
+		}
+		wireAnchor(anchor, icon, heading, textGetter);
+	};
+
+	const enhanceIndividualHymnPages = () => {
+		document
+			.querySelectorAll('.sl-markdown-content[data-hymn-lyrics] .sl-heading-wrapper.level-h2')
+			.forEach((w) => decorate(w, 2, 'all'));
+	};
+
+	const enhanceCategoryIndexPages = () => {
 		document
 			.querySelectorAll('.sl-markdown-content[data-hymn-lyrics] .sl-heading-wrapper.level-h3')
-			.forEach(decorate);
+			.forEach((w) => decorate(w, 3, 'single'));
+	};
+
+	const enhance = () => {
+		enhanceIndividualHymnPages();
+		enhanceCategoryIndexPages();
 	};
 
 	const run = () => {

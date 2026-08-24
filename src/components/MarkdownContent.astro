@@ -4,9 +4,63 @@ import HymnCopyEnhancer from './HymnCopyEnhancer.astro';
 
 const pathname = Astro.url.pathname;
 const isHymnLyricsPage = pathname.startsWith('/hymn-lyrics/') && pathname !== '/hymn-lyrics/introduction/';
+const segments = pathname.split('/').filter(Boolean);
+const pageKind = isHymnLyricsPage
+	? segments.length >= 3
+		? 'hymn-detail'
+		: segments.length === 2
+			? 'category-index'
+			: undefined
+	: undefined;
 ---
 
-<div class="sl-markdown-content" data-hymn-lyrics={isHymnLyricsPage ? '' : undefined}>
+<div class="sl-markdown-content" data-hymn-lyrics={isHymnLyricsPage ? '' : undefined} data-page-kind={pageKind}>
 	<slot />
 	{isHymnLyricsPage && <HymnCopyEnhancer />}
 </div>
+
+{isHymnLyricsPage && (
+	<script is:inline>
+		(() => {
+			const isCategoryIndex = location.pathname.endsWith('/hymn-lyrics/') === false
+				&& location.pathname.endsWith('/')
+				&& location.pathname.split('/').filter(Boolean).length === 2;
+			if (!isCategoryIndex) return;
+			const hash = (location.hash || '').slice(1);
+			if (!hash) return;
+			const category = location.pathname.split('/').filter(Boolean)[1];
+			if (!category) return;
+			const candidateSlug = decodeURIComponent(hash).toLowerCase()
+				.replace(/\s*\/\s*/g, '-')
+				.replace(/[()]/g, '')
+				.replace(/[^\p{L}\p{N}\s-]/gu, ' ')
+				.trim()
+				.replace(/\s+/g, '-')
+				.replace(/-+/g, '-')
+				.replace(/^-|-$/g, '');
+			if (!candidateSlug) return;
+			const cards = Array.from(document.querySelectorAll('.home-card[href]'));
+			const direct = cards.find((c) => c.getAttribute('href') === `./${candidateSlug}/`);
+			if (direct) {
+				const target = new URL(direct.getAttribute('href'), location.href).toString();
+				history.replaceState(null, '', target);
+				location.reload();
+				return;
+			}
+			const match = cards.find((c) => {
+				const href = c.getAttribute('href') || '';
+				const slugPart = href.replace(/^\.\//, '').replace(/\/$/, '');
+				if (!slugPart) return false;
+				if (slugPart === candidateSlug) return true;
+				if (slugPart.includes(candidateSlug)) return true;
+				const tokens = candidateSlug.split('-').filter((t) => t && !/^\d+$/.test(t));
+				return tokens.length >= 2 && tokens.every((t) => slugPart.includes(t));
+			});
+			if (match) {
+				const target = new URL(match.getAttribute('href'), location.href).toString();
+				history.replaceState(null, '', target);
+				location.reload();
+			}
+		})();
+	</script>
+)}
