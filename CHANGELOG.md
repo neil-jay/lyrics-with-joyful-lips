@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.8.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.17...v1.8.0) (2026-08-24)
+
+### Features
+
+* **hymn-copy-enhancer:** support individual hymn pages and category redirects ([47dd7e6](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/47dd7e6d9a8d5392268f8da5ca8c891c5b00216f)), closes [#hash](https://github.com/neil-jay/lyrics-with-joyful-lips/issues/hash)
+
+### Code Refactoring
+
+* **hymn-lyrics:** split category files into per-hymn pages ([f9c0d0f](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/f9c0d0fe191e0e9fc4e7456f5414ecccbc8cbde3))
+
+### Maintenance
+
+* **release:** 1.7.17 ([0a376e6](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/0a376e6d9490c74eb6f83f8558e683dc08897176))
+* **seo:** refresh IndexNow URL list with per-hymn pages ([edd073b](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/edd073b03376076abb9a3250afae4537e35ea8d0))
+
 ## [1.7.17](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.16...v1.7.17) (2026-08-22)
 
 ### Bug Fixes
