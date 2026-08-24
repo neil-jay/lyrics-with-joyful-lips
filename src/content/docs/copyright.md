@@ -2,6 +2,27 @@
 title: Copyright & Attribution
 description: Copyright information and attributions for With Joyful Lips hymnal lyrics.
 slug: copyright
+head:
+  - tag: link
+    attrs:
+      rel: canonical
+      href: https://withjoyfullipslyrics.com/copyright/
+  - tag: meta
+    attrs:
+      property: og:type
+      content: website
+  - tag: meta
+    attrs:
+      property: og:title
+      content: Copyright & Attribution — With Joyful Lips Lyrics
+  - tag: meta
+    attrs:
+      property: og:description
+      content: Copyright information and attributions for With Joyful Lips hymnal lyrics.
+  - tag: meta
+    attrs:
+      property: og:url
+      content: https://withjoyfullipslyrics.com/copyright/
 ---
 
 This website is a fan-made project and is not affiliated with the original publisher or author of "With Joyful Lips". The lyrics and other content on this website are provided for personal and educational use only. Please respect the copyright of the original work and do not use the content for commercial purposes without permission.

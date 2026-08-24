@@ -2,6 +2,27 @@
 title: Terms of Service
 description: Terms of service and usage guidelines for With Joyful Lips Lyrics.
 slug: terms
+head:
+  - tag: link
+    attrs:
+      rel: canonical
+      href: https://withjoyfullipslyrics.com/terms/
+  - tag: meta
+    attrs:
+      property: og:type
+      content: website
+  - tag: meta
+    attrs:
+      property: og:title
+      content: Terms of Service — With Joyful Lips Lyrics
+  - tag: meta
+    attrs:
+      property: og:description
+      content: Terms of service and usage guidelines for With Joyful Lips Lyrics.
+  - tag: meta
+    attrs:
+      property: og:url
+      content: https://withjoyfullipslyrics.com/terms/
 ---
 
 Last updated: November 4, 2024

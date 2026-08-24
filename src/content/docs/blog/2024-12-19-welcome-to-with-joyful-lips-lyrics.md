@@ -3,6 +3,27 @@ slug: blog/welcome-to-with-joyful-lips-lyrics
 title: Welcome to With Joyful Lips Lyrics
 description: A quick tour of With Joyful Lips Lyrics and how to use it for worship planning.
 tags: [catholic-hymns, worship-music, with-joyful-lips, fr-jean-mercier]
+head:
+  - tag: link
+    attrs:
+      rel: canonical
+      href: https://withjoyfullipslyrics.com/blog/welcome-to-with-joyful-lips-lyrics/
+  - tag: meta
+    attrs:
+      property: og:type
+      content: article
+  - tag: meta
+    attrs:
+      property: og:title
+      content: Welcome to With Joyful Lips Lyrics
+  - tag: meta
+    attrs:
+      property: og:description
+      content: A quick tour of With Joyful Lips Lyrics and how to use it for worship planning.
+  - tag: meta
+    attrs:
+      property: og:url
+      content: https://withjoyfullipslyrics.com/blog/welcome-to-with-joyful-lips-lyrics/
 ---
 
 Welcome to With Joyful Lips Lyrics, your comprehensive digital resource for Catholic hymn lyrics from the beloved hymnal by Fr. Jean L. Mercier. This site brings the beautiful tradition of Catholic worship music to your fingertips, making it easier than ever to access and share these inspiring hymns.
