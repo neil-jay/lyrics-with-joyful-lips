@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.9.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.8.0...v1.9.0) (2026-08-25)
+
+### Features
+
+* **seo:** add BreadcrumbList JSON-LD to hymn and category pages ([2d5f73a](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/2d5f73a897c960cf07d4b3119beb53761dde745c))
+* **seo:** add canonical URLs and OpenGraph metadata to docs pages ([b5b0d8a](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/b5b0d8a61c5faabe573e39dd2ee0b55f955f3a0f))
+* **seo:** add global og:site_name and og:type to category pages ([cf4bdcb](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/cf4bdcbf777cb3d18ed6081f9f6484562e23906c))
+* **seo:** add JSON-LD structured data to category, blog, and about pages ([e21420f](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/e21420ffa42f63fc6e9ab4a80d95e6439727ef2c))
+
+### Bug Fixes
+
+* **seo:** correct homepage authorship semantics in JSON-LD ([80a331f](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/80a331fbcc5d3a2e8b362d00f5cc4baa9dfd1f48))
+* **seo:** remove duplicated hymn codes in page descriptions ([93ea3bb](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/93ea3bb879d61f7a7a7ac78effbabf595f7ca0ab))
+
+### Documentation
+
+* **seo:** expand llms.txt with attribution guidance, site facts, and individual hymn page examples ([95cd74e](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/95cd74e501299419a0291f652370105a1ca0e030))
+
+### Maintenance
+
+* **release:** 1.8.0 ([e62fa01](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/e62fa01dc83d9a04ed6860adc69999371f19e6ae))
+
 ## [1.8.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.7.17...v1.8.0) (2026-08-24)
 
 ### Features
