@@ -17,6 +17,13 @@ export default defineConfig({
 				{
 					tag: 'meta',
 					attrs: {
+						property: 'og:site_name',
+						content: 'With Joyful Lips Lyrics',
+					},
+				},
+				{
+					tag: 'meta',
+					attrs: {
 						property: 'og:image',
 						content: 'https://withjoyfullipslyrics.com/img/withjoyfullips.webp',
 					},
