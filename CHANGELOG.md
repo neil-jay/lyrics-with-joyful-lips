@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.10.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.9.0...v1.10.0) (2026-08-26)
+
+### Features
+
+* **deploy:** enforce trailing slash via Worker ([24cfe51](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/24cfe51fc4a742fd1ccf3713130362669ea908fb))
+* **seo:** inject canonical link globally via MarkdownContent ([756f12f](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/756f12f7e8182490d86f0f856f50d67fbd26a868))
+* **slug-redirects:** generate hymn slugs from frontmatter and add redirect rules ([990378f](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/990378fdfd2f9db74bbf15d1731a991115c07089))
+
+### Bug Fixes
+
+* **deploy:** redirect www host to apex domain ([1e65ffc](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/1e65ffc56182e7e683fd51a600781214bbc0db79))
+* **hymn-lyrics:** update category index card links to renamed hymn slugs ([cc19246](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/cc19246246cef9f3f689c6e7a24622ded9f1ca5e))
+* **seo:** drop redundant Catholic qualifier from hymn code descriptions ([0a22584](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/0a225845294b86bd9300e0b7b102ffcb1e3424e8))
+* **seo:** shorten Easter hymns page title and drop redundant canonical ([f1a890e](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/f1a890ee8feafe551982c1c581ed6cb21a2e0d10))
+
+### Code Refactoring
+
+* **hymn-lyrics:** rename select hymn pages to compact slugs and titles ([9675255](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/96752553ce6237a773a246a183e80524f8928995))
+* **seo:** remove per-page canonical tags from docs frontmatter ([de881b1](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/de881b13275411d34b995f9a4f670287d6fefd12))
+* **seo:** shorten page titles for about, blog, and hymn pages ([2c4a8c3](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/2c4a8c3180821610dbfc095757a0b9944fe475f7))
+
+### Maintenance
+
+* **release:** 1.9.0 ([9f0eb15](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/9f0eb150efaf2a6d3adad04ccf27811f4d69bc2d))
+
 ## [1.9.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.8.0...v1.9.0) (2026-08-25)
 
 ### Features
