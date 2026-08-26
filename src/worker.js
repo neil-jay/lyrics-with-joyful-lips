@@ -3,6 +3,11 @@ export default {
     const url = new URL(request.url);
     const pathname = url.pathname;
 
+    if (url.hostname === 'www.withjoyfullipslyrics.com') {
+      url.hostname = 'withjoyfullipslyrics.com';
+      return Response.redirect(url.toString(), 301);
+    }
+
     if (
       pathname !== '/' &&
       !pathname.endsWith('/') &&
