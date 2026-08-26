@@ -3,10 +3,6 @@ title: Copyright & Attribution
 description: Copyright information and attributions for With Joyful Lips hymnal lyrics.
 slug: copyright
 head:
-  - tag: link
-    attrs:
-      rel: canonical
-      href: https://withjoyfullipslyrics.com/copyright/
   - tag: meta
     attrs:
       property: og:type
@@ -49,3 +45,5 @@ If you are a rights holder and have any questions or concerns, please contact us
 
 ## Acknowledgments
 We gratefully acknowledge Better Yourself Books & Media Pvt. Ltd. and Fr. Jean L. Mercier for their contribution to Catholic worship through this hymnal.
+
+

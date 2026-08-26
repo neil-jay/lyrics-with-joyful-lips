@@ -3,10 +3,6 @@ slug: hymn-lyrics/introduction
 title: Introduction to With Joyful Lips
 description: Access the complete collection of hymn lyrics from With Joyful Lips by Fr. Jean L. Mercier. Twelfth Revised Edition.
 head:
-  - tag: link
-    attrs:
-      rel: canonical
-      href: https://withjoyfullipslyrics.com/hymn-lyrics/introduction/
   - tag: meta
     attrs:
       property: og:type
@@ -48,3 +44,5 @@ Full credit for the original content and inspiration goes to Fr. Jean L. Mercier
 ## Copyright Notice
 
 The lyrics are from "With Joyful Lips" by Fr. Jean L. Mercier, Twelfth Revised Edition. © 1989 Better Yourself Books & Media Pvt. Ltd. The website design and code are copyrighted to neiljay. For detailed copyright information and attribution details, please visit our [Copyright & Attribution](/copyright/) page.
+
+

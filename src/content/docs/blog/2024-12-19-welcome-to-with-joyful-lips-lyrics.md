@@ -4,10 +4,6 @@ title: Welcome to With Joyful Lips Lyrics
 description: A quick tour of With Joyful Lips Lyrics and how to use it for worship planning.
 tags: [catholic-hymns, worship-music, with-joyful-lips, fr-jean-mercier]
 head:
-  - tag: link
-    attrs:
-      rel: canonical
-      href: https://withjoyfullipslyrics.com/blog/welcome-to-with-joyful-lips-lyrics/
   - tag: meta
     attrs:
       property: og:type
@@ -67,3 +63,5 @@ We're constantly working to improve this resource and add new features that will
 ---
 
 *May these beautiful hymns bring joy and inspiration to your worship and spiritual journey. With joyful lips, let us sing praises to our Lord!*
+
+
