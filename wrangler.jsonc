@@ -2,12 +2,9 @@
 	"$schema": "./node_modules/wrangler/config-schema.json",
 	"name": "lyrics-with-joyful-lips",
 	"compatibility_date": "2026-08-22",
-	// Static-only Worker: no `main` field because this is a fully prerendered
-	// Astro site served via Workers Static Assets (no SSR/Worker code).
+	"main": "./src/worker.js",
 	"assets": {
 		"directory": "./build",
-		// Serve the prerendered 404.html for unmatched routes, mirroring the
-		// previous Cloudflare Pages behavior.
 		"not_found_handling": "404-page"
 	},
 	"observability": {
