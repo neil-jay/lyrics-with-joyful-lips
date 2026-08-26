@@ -20,6 +20,7 @@ const pageKind = isHymnLyricsPage
 	: undefined;
 
 const siteUrl = Astro.site?.toString() ?? 'https://withjoyfullipslyrics.com/';
+const canonicalUrl = new URL(pathname, siteUrl).toString();
 const pageUrl = new URL(pathname, siteUrl).toString();
 const pageData = Astro.locals.starlightRoute.entry.data;
 const publishedDate = pathname === '/blog/welcome-to-with-joyful-lips-lyrics/' ? '2024-12-19' : undefined;
@@ -120,6 +121,8 @@ const breadcrumbSchema = categoryName
 			}
 		: undefined;
 ---
+
+<link rel="canonical" href={canonicalUrl} />
 
 <div class="sl-markdown-content" data-hymn-lyrics={isHymnLyricsPage ? '' : undefined} data-page-kind={pageKind}>
 	<slot />
