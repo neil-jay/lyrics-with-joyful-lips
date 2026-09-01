@@ -34,13 +34,6 @@ export default {
       return Response.redirect(new URL(hymnRedirect + (url.search || ''), url.origin).toString(), 301);
     }
 
-    const compactHymnMatch = pathname.match(/^\/hymn-lyrics\/([^/]+)\/([a-z]+-\d+)-[^/]+\/$/);
-    if (compactHymnMatch) {
-      const [, category, hymnCode] = compactHymnMatch;
-      const target = `/hymn-lyrics/${category}/${hymnCode}/` + (url.search || '');
-      return Response.redirect(new URL(target, url.origin).toString(), 301);
-    }
-
     if (
       pathname !== '/' &&
       !pathname.endsWith('/') &&
@@ -49,7 +42,7 @@ export default {
       !pathname.startsWith('/api/')
     ) {
       const target = `${pathname}/` + (url.search || '');
-      return Response.redirect(target, 301);
+      return Response.redirect(new URL(target, url.origin).toString(), 301);
     }
 
     return env.ASSETS.fetch(request);
