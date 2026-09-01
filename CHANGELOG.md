@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.11.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.10.2...v1.11.0) (2026-09-01)
+
+### Features
+
+* **seo:** add WebPage schema for hymn pages linking MusicComposition and BreadcrumbList by [@id](https://github.com/id) ([b83539d](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/b83539d87ce8161a3e49eadbf0cbac18aad34f10))
+
+### Code Refactoring
+
+* **seo:** rewrite hymn page descriptions and align og tags, URLs, and JSON-LD [@id](https://github.com/id) across hymn lyrics ([1c9b55c](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/1c9b55c6f4a47279e3c2aaa676f7a72ad441d9f1))
+
+### Maintenance
+
+* **release:** 1.10.2 ([c19275d](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/c19275d84443b80857acabbe34d32027b170c47a))
+
 ## [1.10.2](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.10.1...v1.10.2) (2026-09-01)
 
 ### Bug Fixes
