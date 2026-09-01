@@ -29,7 +29,7 @@ export default defineConfig({
 	integrations: [
 		sitemap(),
 		starlight({
-			title: 'With Joyful Lips',
+			title: 'With Joyful Lips Lyrics',
 			description:
 				'Lyrics from With Joyful Lips, a Catholic hymnal by Fr. Jean L. Mercier. Access hymns for worship services and church presentations.',
 			head: [
