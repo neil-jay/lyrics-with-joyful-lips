@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.11.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.11.0...v1.11.1) (2026-09-01)
+
+### Bug Fixes
+
+* **seo:** align site title brand with canonical site name ([8f79b98](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/8f79b98f3098a319c8c51102d2568ba2af96f015))
+
+### Maintenance
+
+* **release:** 1.11.0 ([44936ae](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/44936aef0bf061cb94d1dc34b739944fef4c76e1))
+
 ## [1.11.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.10.2...v1.11.0) (2026-09-01)
 
 ### Features
