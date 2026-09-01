@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.10.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.10.0...v1.10.1) (2026-09-01)
+
+### Bug Fixes
+
+* **hymn-lyrics:** add missing line breaks in BB.13 final stanza ([95e08e3](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/95e08e34b7855239b88e21bd7bf8c37a841feb0c))
+
+### Code Refactoring
+
+* **worker:** enable run_worker_first and simplify redirects ([e498d7c](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/e498d7cec7ac5837ebaaea069f8166840fef10c6))
+
+### Maintenance
+
+* **release:** 1.10.0 ([f0c30c1](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/f0c30c1bdf71c51145776681b4709ccb2b18cd42))
+
 ## [1.10.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.9.0...v1.10.0) (2026-08-26)
 
 ### Features
