@@ -45,6 +45,16 @@ export default {
       return Response.redirect(new URL(target, url.origin).toString(), 301);
     }
 
-    return env.ASSETS.fetch(request);
+    const assetResponse = await env.ASSETS.fetch(request);
+    if (assetResponse.status !== 404) return assetResponse;
+
+    const compactHymnMatch = pathname.match(/^\/hymn-lyrics\/([^/]+)\/([a-z]+-\d+)-[^/]+\/$/);
+    if (compactHymnMatch) {
+      const [, category, hymnCode] = compactHymnMatch;
+      const target = `/hymn-lyrics/${category}/${hymnCode}/` + (url.search || '');
+      return Response.redirect(new URL(target, url.origin).toString(), 301);
+    }
+
+    return assetResponse;
   },
 };
