@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.10.2](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.10.1...v1.10.2) (2026-09-01)
+
+### Bug Fixes
+
+* **seo:** correct worker redirects, canonical links, and category card URLs ([c942658](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/c9426588f6a3b1e194dc99bdc91d167c88b6db26))
+
+### Maintenance
+
+* **release:** 1.10.1 ([f9f80d3](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/f9f80d3c29003fed3f8ab2391ec2301364bbaf8d))
+
 ## [1.10.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.10.0...v1.10.1) (2026-09-01)
 
 ### Bug Fixes
