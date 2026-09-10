@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.12.3](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.2...v1.12.3) (2026-09-10)
+
+### Bug Fixes
+
+* **deps:** bump undici override to ^8.10.2 to resolve CVE-2026-84961 and CVE-2026-85152 ([5ad9e6c](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/5ad9e6cac8707a19bbb1f5dea65290b4248e1fda))
+
+### Maintenance
+
+* **release:** 1.12.2 ([3712c3f](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/3712c3f5a74b29a64aa6bd95b3bc8f286a4fc039))
+
 ## [1.12.2](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.1...v1.12.2) (2026-09-10)
 
 ### Bug Fixes
