@@ -76,6 +76,7 @@ export default defineConfig({
 			disable404Route: true,
 			components: {
 				Footer: './src/components/Footer.astro',
+				Head: './src/components/Head.astro',
 				MarkdownContent: './src/components/MarkdownContent.astro',
 			},
 			customCss: ['./src/styles/custom.css'],

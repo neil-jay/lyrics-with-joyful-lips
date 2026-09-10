@@ -1,0 +1,59 @@
+---
+const { head } = Astro.locals.starlightRoute;
+const maxTitleLength = 60;
+const maxDescriptionLength = 150;
+const siteTitle = 'With Joyful Lips Lyrics';
+const titleSuffix = ` | ${siteTitle}`;
+const titlesWithoutSuffix = new Set([
+	'A.130 Unto You do We Lift Our Eyes',
+	'A.65 I Place My Hand in Your Hand',
+	'AA.25 Our Joy, o Lord, is in You',
+	'C.81 Sing Unto the Lord a New Song',
+	'D.67 Come, o Lord, and be My All',
+	'D.82 It\'S No Longer I That Live',
+	'D.89 To be the Body of the Lord',
+	'F.16 For Unto Us a Child is Born',
+	'G.42 All I Need is Love / Psalm 49',
+	'S.19 God\'S Spirit is in My Heart',
+	'T.8 My Soul Sings the Glory of God',
+	'Z.137 Thanks do I Give to the Lord',
+	'Z.95 O Sing a New Song to the Lord',
+]);
+
+const truncateAtWordBoundary = (content: string, maxLength: number) => {
+	if (content.length <= maxLength) return content;
+	return `${content.slice(0, maxLength - 1).replace(/\s+\S*$/, '')}…`;
+};
+
+const getTitle = (content: string) => {
+	const withoutSuffix = content.endsWith(titleSuffix) ? content.slice(0, -titleSuffix.length).trim() : content;
+	if (titlesWithoutSuffix.has(withoutSuffix)) return withoutSuffix;
+	if (content.length <= maxTitleLength) return content;
+	return truncateAtWordBoundary(withoutSuffix, maxTitleLength);
+};
+
+const getDescription = (content: string) => truncateAtWordBoundary(content, maxDescriptionLength);
+---
+
+{head.map((entry) => {
+	const Tag = entry.tag;
+	const isDescription =
+		entry.tag === 'meta' &&
+		(entry.attrs?.name === 'description' || entry.attrs?.property === 'og:description' || entry.attrs?.name === 'twitter:description');
+	const attrs =
+		isDescription && typeof entry.attrs?.content === 'string'
+			? { ...entry.attrs, content: getDescription(entry.attrs.content) }
+			: entry.attrs;
+	const content = entry.tag === 'title' && typeof entry.content === 'string' ? getTitle(entry.content) : entry.content;
+	return <Tag {...attrs} set:html={content} />;
+})}
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TXSXJHGCJD"></script>
+<script is:inline>
+	window.dataLayer = window.dataLayer || [];
+	window.gtag = function gtag() {
+		window.dataLayer.push(arguments);
+	};
+	window.gtag('js', new Date());
+	window.gtag('config', 'G-TXSXJHGCJD');
+</script>
