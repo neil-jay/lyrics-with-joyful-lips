@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.12.2](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.1...v1.12.2) (2026-09-10)
+
+### Bug Fixes
+
+* **deps:** override transitive sharp to resolve libheif vulnerabilities ([fdf86ac](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/fdf86ac4b61ea6f7d3532619b44156040d413aa5))
+
+### Maintenance
+
+* **release:** 1.12.1 ([6222efe](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/6222efeb28f55854180e4d10d581ec77d497ac1f))
+
 ## [1.12.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.0...v1.12.1) (2026-09-10)
 
 ### Bug Fixes
