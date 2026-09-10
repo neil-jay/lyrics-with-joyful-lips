@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.12.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.0...v1.12.1) (2026-09-10)
+
+### Bug Fixes
+
+* **deps:** upgrade astro, svgo, fast-uri, sharp to resolve security vulnerabilities ([bc1908e](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/bc1908ec0d905914039e9e984f254a4201dd72ee)), closes [#48](https://github.com/neil-jay/lyrics-with-joyful-lips/issues/48) [#46](https://github.com/neil-jay/lyrics-with-joyful-lips/issues/46) [#47](https://github.com/neil-jay/lyrics-with-joyful-lips/issues/47) [#42-45](https://github.com/neil-jay/lyrics-with-joyful-lips/issues/42-45)
+
+### Maintenance
+
+* **release:** 1.12.0 ([61bff67](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/61bff67a71b99593f962efcc43f22a6866747a04))
+
 ## [1.12.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.11.1...v1.12.0) (2026-09-10)
 
 ### Features
