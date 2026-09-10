@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.12.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.11.1...v1.12.0) (2026-09-10)
+
+### Features
+
+* add custom Head component with title/description length control and GA4 analytics ([b40e88f](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/b40e88f5f5c0b30b6f1806c4b12176561a3d9d44))
+
+### Bug Fixes
+
+* **seo:** remove redundant suffix from category page titles ([bf9bb7e](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/bf9bb7e9564837adb6cdbe42d518359becf15e78))
+
+### Maintenance
+
+* **release:** 1.11.1 ([5f58f93](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/5f58f934f4cff70d19d62a5ca8602848f867bb9e))
+
 ## [1.11.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.11.0...v1.11.1) (2026-09-01)
 
 ### Bug Fixes
