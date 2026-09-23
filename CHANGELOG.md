@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.12.4](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.3...v1.12.4) (2026-09-23)
+
+### Bug Fixes
+
+* **deps:** update packages to latest stable and resolve devalue vulnerability ([3f8ce60](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/3f8ce6024a2b4a493933eade8a89a1f6f07a39d5))
+
+### Maintenance
+
+* **release:** 1.12.3 ([9af3740](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/9af37408cff19577a9800faf0cacfa919c239f64))
+
 ## [1.12.3](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.2...v1.12.3) (2026-09-10)
 
 ### Bug Fixes
