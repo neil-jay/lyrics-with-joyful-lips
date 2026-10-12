@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.12.6](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.5...v1.12.6) (2026-10-12)
+
+### Bug Fixes
+
+* **deps:** pin http-cache-semantics, ip-address, and fast-uri to patched versions ([a5a9246](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/a5a924602483926894ea13490a81a0f0534bd55a))
+
+### Maintenance
+
+* **release:** 1.12.5 ([06b290d](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/06b290d355616ef623eff027580b597f19fd00ac))
+
 ## [1.12.5](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.4...v1.12.5) (2026-10-12)
 
 ### Bug Fixes
