@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.12.5](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.4...v1.12.5) (2026-10-12)
+
+### Bug Fixes
+
+* **deps:** update packages to latest stable and resolve audit vulnerabilities ([0e511e1](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/0e511e1a110b79a0511bf8982f946eefbf88660e))
+
+### Documentation
+
+* **confirmation-hymns:** add missing verse to S.15 We Are God's People ([6b4abfc](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/6b4abfc54552304b38ff864ff6c6df045e9ea1bb))
+
+### Maintenance
+
+* **release:** 1.12.4 ([a30f131](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/a30f131686f99eb90c317ed1558e3534c42274ab))
+
 ## [1.12.4](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.3...v1.12.4) (2026-09-23)
 
 ### Bug Fixes
