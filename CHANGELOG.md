@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.13.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.7...v1.13.0) (2026-10-14)
+
+### Features
+
+* add breadcrumb navigation to hymn lyric pages ([ff117c7](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/ff117c7f59b31763ed5b0d4494de95bb83fe8899))
+
+### Code Refactoring
+
+* extract hymn route detection into shared getHymnRouteInfo helper ([8ade989](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/8ade989872c5c12c8c1bdbbcd6f6a0bb723a9a12))
+
+### Maintenance
+
+* **release:** 1.12.7 ([93a557a](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/93a557a4d9d165ee9a68f1d7f8535e89cecaae40))
+
 ## [1.12.7](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.6...v1.12.7) (2026-10-14)
 
 ### Documentation
