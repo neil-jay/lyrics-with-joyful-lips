@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.12.7](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.6...v1.12.7) (2026-10-14)
+
+### Documentation
+
+* **offertory-hymns:** add missing verse to B.35 We Offer You ([db4534c](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/db4534c8ea739eea27dc976dff1e70b0084d37cd))
+
+### Maintenance
+
+* **release:** 1.12.6 ([6ecb2bd](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/6ecb2bdb6d86ed8172f70b72e43a1d48489280f0))
+
 ## [1.12.6](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.5...v1.12.6) (2026-10-12)
 
 ### Bug Fixes
