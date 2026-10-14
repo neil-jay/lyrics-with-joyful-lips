@@ -1,0 +1,19 @@
+---
+import { getHymnRouteInfo } from '../hymn-route';
+
+const pageData = Astro.locals.starlightRoute.entry.data;
+const { isHymnDetailPage, categoryName, categoryPagePath, showBreadcrumb } = await getHymnRouteInfo(
+	Astro.url.pathname,
+	pageData.title,
+);
+---
+
+{showBreadcrumb && (
+	<nav class="hymn-breadcrumbs" aria-label="Breadcrumb">
+		<ol>
+			<li><a href="/">Home</a></li>
+			{isHymnDetailPage && categoryName && categoryPagePath && <li><a href={categoryPagePath}>{categoryName}</a></li>}
+			<li><span aria-current="page">{pageData.title}</span></li>
+		</ol>
+	</nav>
+)}
