@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.13.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.13.0...v1.13.1) (2026-10-21)
+
+### Documentation
+
+* **communion-hymns:** add missing verses to DD.36 Christ's Love for Us ([fc19dca](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/fc19dcabfda440366377941f082d328d865e11cf))
+
+### Maintenance
+
+* **release:** 1.13.0 ([50ab653](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/50ab6530a58d804c9b0512e90e6e6daad1b69b2f))
+
 ## [1.13.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.12.7...v1.13.0) (2026-10-14)
 
 ### Features
