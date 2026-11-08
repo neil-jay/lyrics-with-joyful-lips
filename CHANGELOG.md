@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.13.2](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.13.1...v1.13.2) (2026-11-08)
+
+### Maintenance
+
+* add security.txt for vulnerability disclosure ([2a215b0](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/2a215b098585a78e551a4df8af29d23dd4abb519))
+* declare AI content usage preferences in robots.txt ([76391d1](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/76391d1a62a78e17d3830967950a86d254161cc5))
+* **release:** 1.13.1 ([59dde48](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/59dde484ed7e65e229bf5be8667e3831e1b0b0eb))
+
 ## [1.13.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.13.0...v1.13.1) (2026-10-21)
 
 ### Documentation
