@@ -114,10 +114,10 @@
   },
   "overrides": {
     "esbuild": ">=0.28.1",
-    "undici": "^8.10.2",
+    "undici": "^8.12.4",
     "yaml": "^2.9.0",
     "svgo": ">=4.1.0",
-    "fast-uri": ">=4.1.5",
+    "fast-uri": ">=4.2.3",
     "basic-ftp": "^6.2.3",
     "http-cache-semantics": "^4.3.0",
     "ip-address": "^10.7.4",
