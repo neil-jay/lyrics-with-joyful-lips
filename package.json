@@ -16,17 +16,17 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
-    "@astrojs/starlight": "^0.42.6",
-    "astro": "^7.3.8",
+    "@astrojs/starlight": "^0.42.10",
+    "astro": "^7.4.7",
     "sharp": "^0.35.5"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.10",
+    "@astrojs/check": "^0.9.12",
     "@release-it/conventional-changelog": "^12.0.2",
     "conventional-changelog-conventionalcommits": "^10.4.1",
-    "release-it": "^21.1.1",
+    "release-it": "^21.1.2",
     "typescript": "^6.0.3",
-    "wrangler": "^4.149.0"
+    "wrangler": "^4.158.0"
   },
   "release-it": {
     "git": {
