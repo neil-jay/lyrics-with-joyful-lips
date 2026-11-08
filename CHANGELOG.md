@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.13.3](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.13.2...v1.13.3) (2026-11-08)
+
+### Bug Fixes
+
+* **deps:** patch undici and fast-uri to resolve security advisories ([7678830](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/767883067ddb498ad7d13bb65ee8eff2f75d5023))
+
+### Maintenance
+
+* **deps:** bump astro, starlight, check, release-it, and wrangler ([a3a0589](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/a3a0589ec4d59b2b5353ba095df8217b2cdddab6))
+* **release:** 1.13.2 ([974e95c](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/974e95c37242e1662e4be3708d759e84958ef189))
+
 ## [1.13.2](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.13.1...v1.13.2) (2026-11-08)
 
 ### Maintenance
