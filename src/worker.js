@@ -24,14 +24,36 @@ const AGENT_LINK_HEADERS = [
   '</sitemap-index.xml>; rel="alternate"; type="application/xml"',
 ];
 
+function withVaryAccept(headers) {
+  const vary = headers.get('vary') || '';
+  if (!vary.split(',').some((v) => v.trim().toLowerCase() === 'accept')) {
+    headers.set('vary', vary ? `${vary}, Accept` : 'Accept');
+  }
+}
+
 function withAgentLinkHeaders(response) {
   const headers = new Headers(response.headers);
   for (const link of AGENT_LINK_HEADERS) headers.append('Link', link);
+  withVaryAccept(headers);
   return new Response(response.body, {
     status: response.status,
     statusText: response.statusText,
     headers,
   });
+}
+
+function prefersMarkdown(request) {
+  const accept = request.headers.get('accept');
+  if (!accept) return false;
+  return accept
+    .toLowerCase()
+    .split(',')
+    .some((token) => {
+      const [type, ...params] = token.trim().split(';');
+      if (type.trim() !== 'text/markdown') return false;
+      const qParam = params.map((p) => p.trim()).find((p) => p.startsWith('q='));
+      return !qParam || parseFloat(qParam.slice(2)) > 0;
+    });
 }
 
 export default {
@@ -60,6 +82,22 @@ export default {
       return Response.redirect(new URL(target, url.origin).toString(), 301);
     }
 
+    if (
+      (request.method === 'GET' || request.method === 'HEAD') &&
+      (pathname === '/' || pathname.endsWith('/')) &&
+      prefersMarkdown(request)
+    ) {
+      const mdPath = pathname === '/' ? '/index.md' : `${pathname.slice(0, -1)}.md`;
+      const mdResponse = await env.ASSETS.fetch(new Request(new URL(mdPath, url.origin), request));
+      if (mdResponse.status === 200) {
+        const headers = new Headers(mdResponse.headers);
+        headers.set('content-type', 'text/markdown; charset=utf-8');
+        withVaryAccept(headers);
+        for (const link of AGENT_LINK_HEADERS) headers.append('Link', link);
+        return new Response(mdResponse.body, { status: 200, headers });
+      }
+    }
+
     const assetResponse = await env.ASSETS.fetch(request);
     if (assetResponse.status !== 404) {
       const contentType = assetResponse.headers.get('content-type') || '';
@@ -77,6 +115,7 @@ export default {
     if (notFoundPage.status === 200) {
       const headers = new Headers(notFoundPage.headers);
       for (const link of AGENT_LINK_HEADERS) headers.append('Link', link);
+      withVaryAccept(headers);
       return new Response(notFoundPage.body, { status: 404, statusText: 'Not Found', headers });
     }
 
