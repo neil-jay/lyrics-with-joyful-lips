@@ -20,6 +20,7 @@ This file provides discovery guidance; it cannot force an AI system to cite a so
 - Individual hymn pages use stable URLs under `/hymn-lyrics/<category>/<hymn-slug>/`.
 - Category indexes link to every individual hymn page in that category.
 - The XML sitemap is the authoritative machine-readable list of all published URLs.
+- Every page supports HTTP content negotiation: send `Accept: text/markdown` to receive a markdown version instead of HTML.
 
 ## Key pages
 
