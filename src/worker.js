@@ -19,6 +19,21 @@ const hymnRedirects = {
   '/hymn-lyrics/christmas-carols/we-wish-you-a-happy-christmas/': '/hymn-lyrics/christmas-carols/happy-christmas/',
 };
 
+const AGENT_LINK_HEADERS = [
+  '</llms.txt>; rel="describedby"',
+  '</sitemap-index.xml>; rel="alternate"; type="application/xml"',
+];
+
+function withAgentLinkHeaders(response) {
+  const headers = new Headers(response.headers);
+  for (const link of AGENT_LINK_HEADERS) headers.append('Link', link);
+  return new Response(response.body, {
+    status: response.status,
+    statusText: response.statusText,
+    headers,
+  });
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -48,17 +63,7 @@ export default {
     const assetResponse = await env.ASSETS.fetch(request);
     if (assetResponse.status !== 404) {
       const contentType = assetResponse.headers.get('content-type') || '';
-      if (contentType.includes('text/html')) {
-        const headers = new Headers(assetResponse.headers);
-        headers.append('Link', '</llms.txt>; rel="describedby"');
-        headers.append('Link', '</sitemap-index.xml>; rel="alternate"; type="application/xml"');
-        return new Response(assetResponse.body, {
-          status: assetResponse.status,
-          statusText: assetResponse.statusText,
-          headers,
-        });
-      }
-      return assetResponse;
+      return contentType.includes('text/html') ? withAgentLinkHeaders(assetResponse) : assetResponse;
     }
 
     const compactHymnMatch = pathname.match(/^\/hymn-lyrics\/([^/]+)\/([a-z]+-\d+)-[^/]+\/$/);
@@ -66,6 +71,13 @@ export default {
       const [, category, hymnCode] = compactHymnMatch;
       const target = `/hymn-lyrics/${category}/${hymnCode}/` + (url.search || '');
       return Response.redirect(new URL(target, url.origin).toString(), 301);
+    }
+
+    const notFoundPage = await env.ASSETS.fetch(new Request(new URL('/404/', url.origin)));
+    if (notFoundPage.status === 200) {
+      const headers = new Headers(notFoundPage.headers);
+      for (const link of AGENT_LINK_HEADERS) headers.append('Link', link);
+      return new Response(notFoundPage.body, { status: 404, statusText: 'Not Found', headers });
     }
 
     return assetResponse;
