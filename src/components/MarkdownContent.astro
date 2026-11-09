@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
 import '@astrojs/starlight/style/markdown.css';
 import HymnCopyEnhancer from './HymnCopyEnhancer.astro';
 import { getHymnRouteInfo } from '../hymn-route';
@@ -16,7 +16,8 @@ const siteUrl = Astro.site?.toString() ?? 'https://withjoyfullipslyrics.com/';
 const pageUrl = new URL(pathname, siteUrl).toString();
 const compositionId = `${pageUrl}#music-composition`;
 const breadcrumbId = `${pageUrl}#breadcrumb`;
-const publishedDate = pathname === '/blog/welcome-to-with-joyful-lips-lyrics/' ? '2024-12-19' : undefined;
+const blogPostEntry = isBlogPost ? await getEntry('docs', pathname.split('/').filter(Boolean).join('/')) : undefined;
+const publishedDate = (blogPostEntry?.filePath ?? blogPostEntry?.id)?.match(/(\d{4}-\d{2}-\d{2})/)?.[1];
 const categoryPageUrl = new URL(categoryPagePath ?? '/hymn-lyrics/', siteUrl).toString();
 const docs = isCategoryIndex || isBlogIndex ? await getCollection('docs') : [];
 const listPrefix = isCategoryIndex ? `hymn-lyrics/${segments[1]}/` : 'blog/';
