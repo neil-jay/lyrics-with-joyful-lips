@@ -46,7 +46,20 @@ export default {
     }
 
     const assetResponse = await env.ASSETS.fetch(request);
-    if (assetResponse.status !== 404) return assetResponse;
+    if (assetResponse.status !== 404) {
+      const contentType = assetResponse.headers.get('content-type') || '';
+      if (contentType.includes('text/html')) {
+        const headers = new Headers(assetResponse.headers);
+        headers.append('Link', '</llms.txt>; rel="describedby"');
+        headers.append('Link', '</sitemap-index.xml>; rel="alternate"; type="application/xml"');
+        return new Response(assetResponse.body, {
+          status: assetResponse.status,
+          statusText: assetResponse.statusText,
+          headers,
+        });
+      }
+      return assetResponse;
+    }
 
     const compactHymnMatch = pathname.match(/^\/hymn-lyrics\/([^/]+)\/([a-z]+-\d+)-[^/]+\/$/);
     if (compactHymnMatch) {
