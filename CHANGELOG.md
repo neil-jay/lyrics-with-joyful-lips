@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.15.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.14.0...v1.15.0) (2026-11-09)
+
+### Features
+
+* **agent-discovery:** serve markdown on Accept: text/markdown ([dca242d](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/dca242d1f90979eb505117c4b7f924bd1cfcbf7c))
+
+### Documentation
+
+* document markdown content negotiation in llms.txt ([8c798a5](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/8c798a56e6bfc4cd7ff70945eb398f58cf4bf060))
+
+### Maintenance
+
+* **release:** 1.14.0 ([bfedac6](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/bfedac6d908abc6072b7dbf15b2a19fddeb0fcd9))
+
 ## [1.14.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.13.3...v1.14.0) (2026-11-09)
 
 ### Features
