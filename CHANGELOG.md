@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.14.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.13.3...v1.14.0) (2026-11-09)
+
+### Features
+
+* **agent-discovery:** add Link headers to HTML responses ([ef256ad](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/ef256ad2bbe16b42939a9db94f9b92d53264d1d5))
+
+### Bug Fixes
+
+* **404:** serve branded 404 page on asset misses ([1525658](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/15256583c63b8748640b108d097982d79ed4f3b4))
+* **seo:** derive blog datePublished from entry filePath instead of hardcoded path ([aa8091b](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/aa8091b11e3c0aac7f8c0588455ab0839e3e9a56))
+
+### Maintenance
+
+* **release:** 1.13.3 ([f04e426](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/f04e426b33117a3f22cc7edee449fbce8f280797))
+
 ## [1.13.3](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.13.2...v1.13.3) (2026-11-08)
 
 ### Bug Fixes
