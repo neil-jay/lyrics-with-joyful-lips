@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.15.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.15.0...v1.15.1) (2026-11-24)
+
+### Documentation
+
+* **privacy:** add mobile app privacy policy ([703b11f](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/703b11f9d46f9ff0f2851bb7b1b421a26f228be1))
+* **privacy:** obfuscate contact email address ([1caab2d](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/1caab2db13e4fcbe058617933da7d74854049f50))
+
+### Maintenance
+
+* **release:** 1.15.0 ([6b72fcb](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/6b72fcbec841e1ef0bedfb1126bd01f35e905e66))
+
 ## [1.15.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.14.0...v1.15.0) (2026-11-09)
 
 ### Features
