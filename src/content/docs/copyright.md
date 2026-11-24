@@ -41,7 +41,7 @@ This website provides lyrics as a reference for worship purposes. All rights to 
 This website is created for educational and worship purposes, falling under fair use guidelines. We do not claim ownership of the lyrics.
 
 ## Contact
-If you are a rights holder and have any questions or concerns, please contact us at: neiljay [at] pcmender [dot] online
+If you are a rights holder and have any questions or concerns, please contact us at: ping [at] pm [dot] neiljay [dot] com
 
 ## Acknowledgments
 We gratefully acknowledge Better Yourself Books & Media Pvt. Ltd. and Fr. Jean L. Mercier for their contribution to Catholic worship through this hymnal.

@@ -67,6 +67,6 @@ Last updated: November 4, 2024
 
 ## 8. Contact
 For questions about these terms, please contact us at:
-neiljay [at] pcmender [dot] online
+ping [at] pm [dot] neiljay [dot] com
 
 

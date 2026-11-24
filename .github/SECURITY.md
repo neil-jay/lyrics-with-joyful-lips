@@ -10,7 +10,7 @@ Preferred:
 - Use GitHub’s “Report a vulnerability” feature for this repository (Security Advisories)
 
 Alternative:
-- Email: neiljay [at] pcmender [dot] online
+- Email: ping [at] pm [dot] neiljay [dot] com
 
 Please include:
 - A clear description of the issue and impact
