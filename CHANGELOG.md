@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.16.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.15.1...v1.16.0) (2026-11-24)
+
+### Features
+
+* **header:** open social links in a new tab ([917a492](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/917a492e95ffc6cbaf30970d349d24e5ab0557e4))
+
+### Documentation
+
+* **privacy:** add privacy rights section and clarify data practices ([1b91219](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/1b9121927fc405bc2d7eb3f1cab15c22b39ed3d9))
+* update contact email address ([b480675](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/b48067542d3dce32d6d852d7d13f5b9a12b52efb))
+
+### Maintenance
+
+* **deps:** update dependencies and fix vulnerabilities ([c4a7b66](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/c4a7b665ea841dd117e41c6b8c038cdbf20fe941))
+* **release:** 1.15.1 ([d3a5408](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/d3a54087f5430b1fbf8e60e7a7ecd08b8ab03504))
+
 ## [1.15.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.15.0...v1.15.1) (2026-11-24)
 
 ### Documentation
