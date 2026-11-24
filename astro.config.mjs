@@ -7,6 +7,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	site: 'https://withjoyfullipslyrics.com/',
 	trailingSlash: 'always',
+	scopedStyleStrategy: 'where',
 	redirects: {
 		'/hymn-lyrics/creation-hymns/l-26-my-god-only-source-of-my-joy-psalm-15/': '/hymn-lyrics/creation-hymns/l-26-my-god-joy/',
 		'/hymn-lyrics/departed-hymns/r-3-this-day-you-shall-be-with-me-psalm-114/': '/hymn-lyrics/departed-hymns/r-3-this-day/',
