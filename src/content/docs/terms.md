@@ -21,17 +21,19 @@ head:
       content: https://withjoyfullipslyrics.com/terms/
 ---
 
-Last updated: November 4, 2024
+Last updated: November 24, 2026
+
+These terms apply to the With Joyful Lips website (withjoyfullipslyrics.com) and the With Joyful Lips mobile app (together, "the Service").
 
 ## 1. Usage Terms
-- This website provides lyrics from "With Joyful Lips" by Fr. Jean L. Mercier, Twelfth Revised Edition
+- The Service provides lyrics from "With Joyful Lips" by Fr. Jean L. Mercier, Twelfth Revised Edition
 - The lyrics are provided for worship and Church service purposes
-- Users may view and use the lyrics for personal, non-commercial worship activities
+- You may view and use the lyrics for personal, non-commercial worship activities on the website and in the mobile app
 - Printing of lyrics for Church service use is permitted
 
 ## 2. Copyright Notice
 - All lyrics are copyrighted by Better Yourself Books & Media Pvt. Ltd.
-- This website is not affiliated with the publisher or author.
+- The Service is not affiliated with the publisher or author.
 - We respect intellectual property rights and provide these lyrics as a service to the Catholic worship community.
 
 ## 3. Permitted Use
