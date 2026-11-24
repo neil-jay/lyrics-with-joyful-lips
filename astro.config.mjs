@@ -80,6 +80,7 @@ export default defineConfig({
 				Hero: './src/components/Hero.astro',
 				MarkdownContent: './src/components/MarkdownContent.astro',
 				PageTitle: './src/components/PageTitle.astro',
+				SocialIcons: './src/components/SocialIcons.astro',
 			},
 			customCss: ['./src/styles/custom.css'],
 			sidebar: [
