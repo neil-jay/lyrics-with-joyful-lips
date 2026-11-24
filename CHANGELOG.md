@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.16.1](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.16.0...v1.16.1) (2026-11-24)
+
+### Documentation
+
+* **terms:** extend terms of service to cover mobile app ([a174cbf](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/a174cbf3f266fb778696ec7133e4d5ae9da64e41))
+
+### Maintenance
+
+* **release:** 1.16.0 ([adfc932](https://github.com/neil-jay/lyrics-with-joyful-lips/commit/adfc93287c49c44f5a431b1ff597e6b0e36304b6))
+
 ## [1.16.0](https://github.com/neil-jay/lyrics-with-joyful-lips/compare/v1.15.1...v1.16.0) (2026-11-24)
 
 ### Features
